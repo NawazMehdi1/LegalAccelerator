@@ -1,0 +1,126 @@
+﻿---
+ID: "bde64ca8-18c2-401c-b2d4-1aea2a486465"
+Parent: "bbd21fea-6067-478c-a1d7-021f9ebb64f6"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/PageContent/RecentInsights
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: RecentInsights
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query RecentInsights($datasource: String!, $language: String!) {
+      datasource: item(path: $datasource, language: $language) {
+        ... on ArticleTeaser {
+          title {
+            ... on TextField {
+              jsonValue
+            }
+          }
+          description {
+            ... on RichTextField {
+              jsonValue
+            }
+          }
+          CTALink: field(name: "CTALink") {
+            ... on LinkField {
+              jsonValue
+            }
+          }
+    
+          PageReferences: field(name: "PageReferences") {
+            ... on MultilistField {
+              targetItems {
+                url {
+                  url
+                }
+                Title: field(name: "Title") {
+                  ... on TextField {
+                    jsonValue
+                  }
+                }
+                SubTitle: field(name: "SubTitle") {
+                  ... on RichTextField {
+                    jsonValue
+                  }
+                }
+                Image: field(name: "Image") {
+                  ... on TextField {
+                    jsonValue
+                  }
+                }
+                PublishedDate: field(name: "PublishedDate") {
+                  ... on DateField {
+                    jsonValue
+                  }
+                }
+                pageType: field(name: "PageType") {
+                  ... on LookupField {
+                    targetItem {
+                      pageType: field(name: "PageType") {
+                        value
+                      }
+                      icon: field(name: "Icon") {
+                        jsonValue
+                      }
+                    }
+                  }
+                }
+    
+                RelatedTopics: field(name: "Related Topics") {
+                  ... on MultilistField {
+                    targetItems {
+                      Title: field(name: "Title") {
+                        ... on TextField {
+                          jsonValue
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: /sitecore/templates/Project/GowlingWLG Site/Page Content/Page Teasers/ArticleTeaser
+- ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
+  Hint: Open Properties after Add
+  Value: 1
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{0F005D89-2171-49FC-8907-9EE60943EDFE}"
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: "query:$site/*[@@name='Data']|query:./ancestor-or-self::*[@@name='Data']"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230711T081813Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c03a145-04e4-4f5b-9715-ba5ecee4c548"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230922T063838Z

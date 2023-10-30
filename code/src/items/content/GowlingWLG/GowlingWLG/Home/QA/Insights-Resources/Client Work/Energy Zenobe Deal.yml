@@ -1,0 +1,63 @@
+﻿---
+ID: "6ff81dbb-48d0-4154-a06c-dc9f5b3cdb51"
+Parent: "aeb79b21-f32e-48ee-b8c6-e2a2dbff0e5c"
+Template: "0a2929f8-306f-47a1-bfa5-3afe137ec446"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Client Work/Energy Zenobe Deal"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {88768AE0-0F64-4DDC-8A85-E4735D09E55C}
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+        {A417F6BB-86FB-4AF9-93B7-DC2BB25E4744}
+        {88768AE0-0F64-4DDC-8A85-E4735D09E55C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T071905Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Energy Zenobe Deal
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Our Energy team has acted for a syndicate of five commercial banks on the £235 million financing for the construction of two greenfield battery storage projects being developed by Zenobe in Scotland.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Energy Zenobe Deal
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "79cd418b-ecc2-4613-8d4a-e976e8f52201"
+    - ID: "9e261863-71b1-4e26-b660-6da87d2fc726"
+      Hint: PageType
+      Value: "{9AFC93DB-0195-4814-BF23-81D4910638DB}"
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {92839047-0246-45A1-B312-0F9C8C37B281}
+        {751C8CC6-79AC-4CEA-9C5D-47A26C5964B2}
+    - ID: "b39ad9cc-af0e-4550-8414-4b7478f1ad31"
+      Hint: PublishedDate
+      Value: 20230214T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230907T191849Z

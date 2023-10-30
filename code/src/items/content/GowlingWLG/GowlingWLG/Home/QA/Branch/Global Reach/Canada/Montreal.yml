@@ -1,0 +1,88 @@
+﻿---
+ID: "2fcb7b96-9c1c-45e2-8630-c85460159a47"
+Parent: "f7c016d2-8f4f-4014-b156-23e380bc8ebf"
+Template: "6d35d469-9e90-4d14-b1a9-b675fe74b532"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Branch/Global Reach/Canada/Montreal
+BranchID: "e3f094de-6b2c-47fa-8d1b-b45315d90a9d"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value: |
+        The Greater Toronto Area (GTA) is the most populous metropolitan area in Canada, and is home to more than six million people. Toronto is a leading commercial, distribution, financial and economic centre, and the third-largest financial centre in North America. Toronto produces nearly 20 per cent of Canada's GDP and is home to more than 40 per cent of Canadian businesses.
+        
+        As one of Toronto's top business law firms, Gowling WLG works with many of the world's leading organizations to solve their most critical business problems. Led by managing partner Benjamin Na, our diverse and highly experienced team in Toronto provides insightful advice, valuable counsel and trusted representation across a variety of key industries, including energy, financial services, infrastructure, mining, manufacturing, technology and life sciences.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230908T131628Z
+    - ID: "2a65650c-d874-4ef2-9159-2d8bd62215f4"
+      Hint: Geographical Longitude
+      Value: "-73.568758"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Toronto
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "677f702d-0684-43d2-b3d6-ae82a9f1d27b"
+      Hint: Map URL
+      Value: |
+        <link text="Events" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{B634FFBB-849B-4AFE-ABF6-67D720633D79}" />
+    - ID: "6ec9ffbb-3776-480c-beb3-86bbba8e505e"
+      Hint: Address 1
+      Value: 100 King Street West
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Montreal
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df6bf82f-eafd-47c0-be8c-575d1ec5a2ee"
+    - ID: "9143fd75-9a22-4049-9e7a-771637a55393"
+      Hint: Address 2
+      Value: Suite 1600
+    - ID: "9495e0dc-9963-40e8-9be5-f9eba5dd1304"
+      Hint: Postal Code
+      Value: M5X 1G5
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "c3c01440-7053-4507-9a15-f5ba3822d1c1"
+      Hint: City
+      Value: Montreal
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230928T111955Z
+    - ID: "da787b3b-3215-49b6-92a4-6fdb6537d7bb"
+      Hint: Phone
+      Value: "+1 416-862-7525"
+    - ID: "e0303377-c08c-4a72-a4da-55edd82b2280"
+      Hint: Country
+      Value: Canada
+    - ID: "e391c013-6e8e-4b80-b33f-ae7d4a542f5a"
+      Hint: Geographical Latitude
+      Value: 45.500932
+    - ID: "e8b026ea-348a-4f81-b437-88f7e1ab6780"
+      Hint: State
+      Value: Ontario
+    - ID: "ec11b874-b12a-4d22-acde-242a78f36401"
+      Hint: Fax
+      Value: "+1 416-862-7661"
+    - ID: "f3b5c7b8-ccfc-407f-9854-9616ad2ee404"
+      Hint: Recruitment Contact Email
+      Value: resumes.toronto@gowlingwlg.com
+    - ID: "fa63f443-1a0d-4de6-8f7d-a4e440b19774"
+      Hint: Building Name
+      Value: 1 First Canadian Place

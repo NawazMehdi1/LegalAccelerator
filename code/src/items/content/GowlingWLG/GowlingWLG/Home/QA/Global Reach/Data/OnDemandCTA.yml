@@ -1,0 +1,38 @@
+﻿---
+ID: "58481275-4d44-4d50-906f-166dd1d1dc69"
+Parent: "673a5e20-a89e-476c-ba26-d6fe9ee9e01d"
+Template: "6f019e28-e4ab-452d-9192-2133dcab4021"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Global Reach/Data/OnDemandCTA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "072888a5-859c-4cde-990b-44ed93d9da85"
+      Hint: ReferenceItem
+      Value: "{BCBC80E2-1060-4840-A099-A5CF599F35BF}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230811T045541Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8555522e-fce0-4b4e-a8df-7cb92cf54e29"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "c773bd92-d263-4537-b5b6-1db17b59fead"
+      Hint: CallToAction
+      Value: |
+        <link class="" id="{30EB2B41-4F92-4707-A712-B2C97C14BB30}" querystring="" anchor="" target="" title="" linktype="internal" text="Watch Now" url="/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Articles/2023/Investment Funds team advises on fundraise in connection with the acquisition of Dignity plc" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230821T123532Z

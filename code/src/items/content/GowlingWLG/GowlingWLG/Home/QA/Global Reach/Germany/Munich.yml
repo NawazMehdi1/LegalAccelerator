@@ -1,0 +1,49 @@
+﻿---
+ID: "9c7dd673-02a7-403a-bd14-54030dae30f0"
+Parent: "f0229e12-a8c4-4be7-ad6b-c70c38ddf6bf"
+Template: "6d35d469-9e90-4d14-b1a9-b675fe74b532"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Global Reach/Germany/Munich
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230823T093117Z
+    - ID: "2a65650c-d874-4ef2-9159-2d8bd62215f4"
+      Hint: Geographical Longitude
+      Value: 11.571729
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Munich
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Munich
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6115bf6b-e36d-4343-a11a-0155ec9abe67"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230823T093237Z
+    - ID: "da787b3b-3215-49b6-92a4-6fdb6537d7bb"
+      Hint: Phone
+      Value: +49 (0)89 540 4120 0
+    - ID: "e391c013-6e8e-4b80-b33f-ae7d4a542f5a"
+      Hint: Geographical Latitude
+      Value: 48.141566
+    - ID: "ec11b874-b12a-4d22-acde-242a78f36401"
+      Hint: Fax
+      Value: +49 (0)89 540 4120 99

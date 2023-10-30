@@ -1,0 +1,46 @@
+﻿---
+ID: "893756b7-b93f-4714-b8f0-a4f8ccba7920"
+Parent: "705a7160-d23c-454d-87ae-135d75534223"
+Template: "705a7160-d23c-454d-87ae-135d75534223"
+Path: /sitecore/templates/Project/GowlingWLG/Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {705A7160-D23C-454D-87AE-135D75534223}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T044130Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: $name
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e0c82e9-57e4-476c-a4fc-aee1c9ed16f7"
+    - ID: "b6e20f3d-c0a0-4a17-9d3b-c15ebc67d6d9"
+      Hint: CategoryType
+      Value: "{147DC2D6-02CF-42A8-A864-D7C3659F8D23}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230801T173539Z

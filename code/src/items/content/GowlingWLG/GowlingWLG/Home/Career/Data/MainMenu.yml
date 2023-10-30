@@ -1,0 +1,39 @@
+﻿---
+ID: "b80d6858-52d5-438e-85d1-50acc6e3a072"
+Parent: "dbb7636b-4938-48f3-bb43-7aae47e35da5"
+Template: "b93e6447-9496-4467-a330-9382191f6559"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/Career/Data/MainMenu
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230926T095347Z
+    - ID: "299684c9-aecb-40bc-964a-f6f82a79e506"
+      Hint: MainMenuList
+      Value: |
+        {11CA25E8-74AF-4EC7-B94A-AE43838AFB81}
+        {8A84C49E-A2AA-487E-81E9-E256355F7959}
+        {F7941E6E-EE5C-4D54-A9C2-BFC9411B8DA0}
+        {90916404-63A2-4DB7-BFE4-89FDB9EEFB44}
+        {56358E7C-0AAE-4D35-99FF-C927084BC260}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23d2959d-0bfc-4318-8d6f-3abbe2482ba6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230926T110927Z

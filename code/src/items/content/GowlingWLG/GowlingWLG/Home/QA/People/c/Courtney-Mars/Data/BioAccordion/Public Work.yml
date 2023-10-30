@@ -1,0 +1,37 @@
+﻿---
+ID: "af449c40-485c-4bc1-a20c-40802df8c07b"
+Parent: "0462e1b5-7ddf-4178-bf24-3c3f52008043"
+Template: "a0a28aa6-11ee-4dec-a76b-3e0f3ff28e0d"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People/c/Courtney-Mars/Data/BioAccordion/Public Work"
+BranchID: "8b85ba3a-7ded-4e46-aec4-2f21991c8712"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E7231D9B-E358-4600-9E6D-AF45F0400A38}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{4D2697C7-AC81-4CEE-9B27-831897F09878}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78ef6032-fc50-4443-b639-7acb2705eaf9"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Public Work
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z

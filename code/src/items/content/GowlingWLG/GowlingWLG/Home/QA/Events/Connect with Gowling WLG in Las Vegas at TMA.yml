@@ -1,0 +1,66 @@
+﻿---
+ID: "ad46cc69-4769-4fa1-b9e7-de4a03b8a653"
+Parent: "11547f04-5ca5-4dd9-b4ca-a132cd019812"
+Template: "31507380-1c3b-4574-907a-35b1ce9c596d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Events/Connect with Gowling WLG in Las Vegas at TMA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: "{42AA17EA-738C-4E8A-8242-7DFC3F201A82}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230913T181648Z
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: "{C5EB94BD-3FFF-41EB-B73B-34632BD88F23}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Connect with Gowling WLG in Las Vegas at TMA
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: The annual TMA Distressed Conference is taking place Jan. 31 to Feb. 3 in Las Vegas, and an experienced team of Gowling WLG restructuring & insolvency lawyers will be on hand for the entire conference.
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {FAC15440-EACB-44A0-889A-D375D6E73F0E}
+        {A7991EB3-4073-439D-85C7-1ECEE7BD6ADD}
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Connect with Gowling WLG in Las Vegas at TMA
+    - ID: "79df820b-5ccc-4cb0-aff1-9f38b3281ab7"
+      Hint: EventStartDate
+      Value: 20230927T183000Z
+    - ID: "80eb5a2f-a16a-4df0-8d9f-21e4932c0d2a"
+      Hint: PublishedDate
+      Value: 20230903T183000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a9cfd872-9d35-44a0-8c84-7b73cb52bcb0"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: "{E34303D3-B12E-45FA-A3BE-B627B25F4AAD}"
+    - ID: "ac1204cb-944e-4c05-976f-aa15bb1a0515"
+      Hint: PageType
+      Value: "{88FBE7B9-4D4C-4964-A276-F1A3B2EEDB74}"
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {CF368247-15BB-461C-8162-A719FD82146E}
+        {17A383DE-6FB2-463E-A6C6-FDD21E3A105E}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "bee3cf6c-d209-4d4f-82d0-664d4c76d917"
+      Hint: IsCPDorCLE
+      Value: 1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230914T084601Z
+    - ID: "ebb722c6-082d-4218-b303-fad412068894"
+      Hint: EventEndDate
+      Value: 20230928T183000Z

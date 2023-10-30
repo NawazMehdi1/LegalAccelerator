@@ -1,0 +1,55 @@
+﻿---
+ID: "9b5440b8-82bc-43f9-a7c6-ef546b22a504"
+Parent: "e580c8d0-1b45-4c88-b56a-7b38275e06ac"
+Template: "9a81445c-8d62-4269-be73-136df6f86997"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/Data/YouTube Video
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T100501Z
+    - ID: "804d23e3-8823-4570-b8ff-072e3e24b081"
+      Hint: VideoId
+      Value: aH2xbkrWh1w
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76251885-a10f-48af-84db-5a9670a3b00a"
+    - ID: "93ec7e90-0245-4a07-b5fa-661800a6861b"
+      Hint: TranscriptText
+      Value: |
+        <p>I am Mark Giavedoni, a commercial real estate and lending lawyer at Gowling WLG.</p>
+        <p>This video is part of our Real Estate Topics for Lenders Series.</p>
+        <p>In this video we will be discussing Lending to a Condominium Corporation.</p>
+        <p>While there are many different types of condominium structures, typically a condominium corporation has the following elements:</p>
+        <ol>
+            <li>individual units owned by a person (corporation);</li>
+            <li>common elements owned by the condominium corporation</li>
+            <li>unit owners are members of the condominium corporation with 1 vote per unit;</li>
+            <li>there is a governing Declaration followed by a series of bylaws and rules to give effect to the structure, use and governance of the condominium corporation.</li>
+        </ol>
+        <p>Before any loan is committed to a condominium corporation, the lender should:</p>
+        <ol>
+            <li>Review the Declaration to understand the structure of the corporation, how it runs and rules or restrictions about its operation;</li>
+            <li>Review the bylaws and rules, being the specific procedures and parameters; does the Condo have the power to borrow?</li>
+            <li>Obtain a current status certificate, which identifies if the unit owner is in default, if the condominium is funded, is involved in litigation and is current with its obligations;</li>
+            <li>What does the unit owner own and what are common elements of the condominium?</li>
+            <li>What type of security can be given in light of the structure of the condominium?</li>
+            <li>Is this a project intended to become a condo or is it an existing condo?</li>
+        </ol>
+        <p>Does the condominium have authority to borrow money? It needs a specific bylaw authorizing the specific loan and likely approval of its members, not just its board of directors</p>
+        <p>What type of security is possible? Can the condominium pledge its common expense receivables? Are they capable of being the subject of a security interest or mortgage registration?</p>
+        <p>Does the condominium corporation own a unit that could be given for a collateral mortgage security?</p>
+        <p>Can the lender access the revenue stream of the corporation or take a security interest in these assets?</p>
+        <p>Will the condominium corporation require a special assessment of its members to make payments against a loan or mortgage obligation?</p>
+        <p>These questions and more should be discussed with counsel BEFORE any commitment to lend is signed by a lender.</p>
+        <p>This presentation was a high level overview; however, if you find that you have more specific questions about any of the points discussed or their application to a specific fact situation, please reach out to any member of our lending team and I am also available through my email <a href="mailto:mark.giavedoni@gowlingwlg.com">mark.giavedoni@gowlingwlg.com</a>.</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230719T100755Z

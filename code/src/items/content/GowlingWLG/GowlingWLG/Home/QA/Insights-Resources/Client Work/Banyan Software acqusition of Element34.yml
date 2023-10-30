@@ -1,0 +1,103 @@
+﻿---
+ID: "0a1fe649-360d-4d92-8d4e-9416bfd4cef2"
+Parent: "aeb79b21-f32e-48ee-b8c6-e2a2dbff0e5c"
+Template: "0a2929f8-306f-47a1-bfa5-3afe137ec446"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Client Work/Banyan Software acqusition of Element34"
+SharedFields:
+- ID: "a0cb3965-8884-4c7a-8815-b6b2e5ced162"
+  Hint: __Editors
+  Value: "{59F53BBB-D1F5-4E38-8EBA-0D73109BB59B}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {88768AE0-0F64-4DDC-8A85-E4735D09E55C}
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {AC0511AC-20DF-47FB-8469-43ABE2E1321C}
+        {BAB9AED4-0AB0-40BE-B03D-4E327FA97493}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+        {A417F6BB-86FB-4AF9-93B7-DC2BB25E4744}
+        {88768AE0-0F64-4DDC-8A85-E4735D09E55C}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4A49DEC5-37C0-4DE0-932F-A7D4B4D7CD72}"
+              s:id="{10351392-40DB-4A8A-A9EA-CC8EDEC0AF0F}"
+              s:par="OverrideTitle&amp;GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B9FDC5359-DCB4-4686-A69D-0A8C90F03986%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "0cbc6e2a-e7ca-4f1a-8cc8-48e6156f9e3c"
+      Hint: BackgroundImage
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"39B58942-B541-4676-8BCDB67FF399DB9F","name":"220725-employment-essentials-july","description":null,"assetType":"Image","createdAt":"2023-09-14T08:02:51Z","publishedAt":"2023-09-14T08:01:52Z","updatedAt":"2023-09-14T08:02:51Z","files":[{"name":"original","url":"https://brandconnect.gowlingwlg.com/m/5e65214f11fc2f92/original/220725-employment-essentials-july.webp","width":930,"height":450,"fileSize":29778},{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/5e65214f11fc2f92/webimage-220725-employment-essentials-july.jpg","width":800,"height":387,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/5e65214f11fc2f92/thul-220725-employment-essentials-july.jpg","width":250,"height":121,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/5e65214f11fc2f92/mini-220725-employment-essentials-july.jpg","width":80,"height":80,"fileSize":0}],"metaProperties":{"Channel":["Website"],"Asset_Subtype":["Article_imagery"],"extension":["webp"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value: |
+        Banyan Software for testing and content testing
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230821T051123Z
+    - ID: "366f39a9-4521-4cfa-91ab-db5decb1ff35"
+      Hint: Key Contacts
+      Value: |
+        {54A9266B-9382-480B-817D-35B1E432EB01}
+        {D3720A17-7497-43D4-9D11-838F96829CE9}
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Banyan Software acqusition of Element34
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Our Corporate practice has advised US-based long-term software investor Banyan Software on its acquisition of the Switzerland headquartered specialist software provider Element34."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Banyan Software acqusition of Element34
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af0a8830-75d2-407a-9013-f15e76f6d9e8"
+    - ID: "9e261863-71b1-4e26-b660-6da87d2fc726"
+      Hint: PageType
+      Value: "{9AFC93DB-0195-4814-BF23-81D4910638DB}"
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {D046A3E8-502D-483B-A444-8BB7C5FDBBE5}
+        {9DEA9399-E8DC-4D76-9EE5-D0BECF8CB174}
+        {B3E79B9D-D66E-4EAC-8E9D-B5598430723B}
+    - ID: "b39ad9cc-af0e-4550-8414-4b7478f1ad31"
+      Hint: PublishedDate
+      Value: 20230103T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230920T060308Z

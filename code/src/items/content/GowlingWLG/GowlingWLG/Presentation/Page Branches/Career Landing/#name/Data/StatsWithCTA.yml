@@ -1,0 +1,29 @@
+﻿---
+ID: "47dbd4da-4ceb-4a83-89e3-aeeffcd3e03e"
+Parent: "879b4e20-75ec-44f8-b10e-73b480d964f8"
+Template: "91b93b0e-e52d-45be-bc45-2e9d9c9f0856"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Career Landing/$name/Data/StatsWithCTA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230901T065948Z
+    - ID: "65fb1e86-d39f-4f9f-91e1-ee3e5b0c9495"
+      Hint: SelectColumns
+      Value: |
+        {6FAA0128-7B03-4DCC-9ADE-3D6ADAF516F3}
+        {BBD1000E-F247-4CDD-A57D-27962AD98BFF}
+        {25F41A79-7C33-412C-BDF8-09C6B6A81A29}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df684874-07a7-41a7-bf66-4b618d8c07c8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230907T112950Z

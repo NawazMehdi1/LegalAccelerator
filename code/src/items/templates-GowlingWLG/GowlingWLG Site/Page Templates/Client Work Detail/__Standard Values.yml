@@ -1,0 +1,44 @@
+﻿---
+ID: "9fb1ea58-78af-4412-9914-584c01273c00"
+Parent: "0a2929f8-306f-47a1-bfa5-3afe137ec446"
+Template: "0a2929f8-306f-47a1-bfa5-3afe137ec446"
+Path: /sitecore/templates/Project/GowlingWLG Site/Page Templates/Client Work Detail/__Standard Values
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/auction_hammer.png
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230802T184239Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "704b3342-7c52-4fd4-a142-60bcc2a622b0"
+    - ID: "9e261863-71b1-4e26-b660-6da87d2fc726"
+      Hint: PageType
+      Value: "{9AFC93DB-0195-4814-BF23-81D4910638DB}"
+    - ID: "b6e20f3d-c0a0-4a17-9d3b-c15ebc67d6d9"
+      Hint: CategoryType
+      Value: "{A9A8F9C3-1DC4-4DC7-8B22-613A9F57E079}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T101835Z

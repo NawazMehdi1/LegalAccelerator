@@ -1,0 +1,133 @@
+﻿---
+ID: "cd9b22bd-86d5-4a2e-a692-1704ead69b4d"
+Parent: "df3f6ad0-2b6f-474d-a688-dc56dde9b1f7"
+Template: "7c1cf314-8f88-47c7-b716-f82e5f4b30db"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Global Reach
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: network/16x16/environment.png
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{0B46FDB8-3BED-44F8-B131-98EA44DA29C2}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{41DE71E9-6693-4995-BD7E-7DAFFA070CA9}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{939BC03D-5DAE-46F3-99BB-419E95985C3E}"
+          p:before="*"
+          s:ds="local:/Data/OnDemandCTA"
+          s:id="{2FDC3A56-2A19-425C-94FA-1EC5605B40AB}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7BD6C9C2C2-691F-4965-89DB-5798221B7265%7D&amp;Styles=%7B558FD97A-3A08-4B32-AA2B-95F0E19625D3%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/container-1/row-4-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{5804A700-9628-4BFD-A178-1C8B73A75007}"
+          p:after="r[@uid='{939BC03D-5DAE-46F3-99BB-419E95985C3E}']"
+          s:ds=""
+          s:id="{6E0093C2-2357-46CE-A380-19AC12FEB8D4}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles"
+          s:ph="/headless-main/container-1/row-3-2" />
+        <r
+          uid="{7B37070A-39D5-472F-A41C-EF8B09D55B55}"
+          p:after="r[@uid='{5804A700-9628-4BFD-A178-1C8B73A75007}']"
+          s:ds="local:/Data/LocationsFolder"
+          s:id="{9E025A47-40D7-4BBE-AC6F-3D4A4361339D}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/container-1/row-2-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{B208B331-526C-406D-B8F7-8720DF05C34C}"
+          p:after="r[@uid='{7B37070A-39D5-472F-A41C-EF8B09D55B55}']"
+          s:ds=""
+          s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{EF8A53AF-51D4-475A-AF65-6DBA88BA9C62}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value: "With more than 1,500 legal professionals and a presence in Canada, the UK, Europe, the Middle East, Asia and South America, we provide our clients with in-depth knowledge across key global sectors and a suite of legal services at home and abroad. We see the world from the perspective of our clients, and collaborate across countries, offices, service areas and sectors to help them succeed – no matter how challenging the circumstances."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230802T073014Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Global Reach
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Global Reach
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74c378e0-a057-475d-8805-7c46320515a6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230803T164300Z
+  - Version: 2
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value: "With more than 1,500 legal professionals and a presence in Canada, the UK, Europe, the Middle East, Asia and South America, we provide our clients with in-depth knowledge across key global sectors and a suite of legal services at home and abroad. We see the world from the perspective of our clients, and collaborate across countries, offices, service areas and sectors to help them succeed – no matter how challenging the circumstances."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230802T073014Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Global Reach
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Global Reach
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9b9703b7-c2d1-4917-bcf5-79ca7a1464ad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230821T123519Z

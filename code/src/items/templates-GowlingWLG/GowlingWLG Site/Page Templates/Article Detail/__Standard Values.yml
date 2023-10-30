@@ -1,0 +1,67 @@
+﻿---
+ID: "b8dfe878-00b7-4ce5-8776-68cc9b7900d0"
+Parent: "c8e1eb5d-883a-441a-8367-28c967ea8c8e"
+Template: "c8e1eb5d-883a-441a-8367-28c967ea8c8e"
+Path: /sitecore/templates/Project/GowlingWLG Site/Page Templates/Article Detail/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {705A7160-D23C-454D-87AE-135D75534223}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+    {2570D7D5-1BC3-42F7-8F8B-D1FC6A9DC2CD}
+    {66A4442F-338D-493B-83A9-C1727E985320}
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}" />
+      <d
+        id="{73966209-F1B6-43CA-853A-F1DB1C9A654B}"
+        l="{A57C19C2-8EE3-4DEC-AA39-0B8D522D59EB}">
+        <r
+          id="{86F838F5-7E87-45BB-876F-C021324AC8B0}"
+          par="TitleField=Title&amp;BodyField=Summary&amp;DateField=PublishedDate"
+          uid="{FD95CD84-7ABD-4162-92FB-ED180D37A2D3}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230627T124547Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0729c579-9a92-4f72-ba6b-eeb1378cd9fd"
+    - ID: "9e261863-71b1-4e26-b660-6da87d2fc726"
+      Hint: PageType
+      Value: "{8FDE1066-13A3-4783-A982-FDC892D1B48F}"
+    - ID: "b6e20f3d-c0a0-4a17-9d3b-c15ebc67d6d9"
+      Hint: CategoryType
+      Value: "{A9A8F9C3-1DC4-4DC7-8B22-613A9F57E079}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230802T133514Z

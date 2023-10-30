@@ -1,0 +1,105 @@
+﻿---
+ID: "9f2ba85b-cacb-4642-95b8-b09d3a37a1d0"
+Parent: "31830f6f-eb72-4f83-bb43-1b2bb576c5fe"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/Media/VideoSeries
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: VideoSeries
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: multimedia/32x32/equalizer_h.png
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query IntegratedPageQuery($datasource: String!, $language: String!) {
+      item(path: $datasource, language: $language) {
+        name
+        SeeAllCTA: field(name: "SeeAllCTA") {
+          ... on LinkField {
+            jsonValue
+          }
+        }
+        ... on VideoSeries {
+          series {
+            targetItems {
+              parent {
+                parent {
+                  ... on VideoDetail {
+                    title {
+                      value
+                    }
+                  }
+                }
+              }
+              ... on YouTubeVideo {
+                videoId {
+                  value
+                }
+                TileCTA: field(name: "TileCTA") {
+                  ... on LinkField {
+                    jsonValue
+                  }
+                }
+                TranscriptText: field(name: "TranscriptText") {
+                  ... on RichTextField {
+                    jsonValue
+                  }
+                }
+                VideoTitle: field(name: "VideoTitle") {
+                  ... on TextField {
+                    jsonValue
+                  }
+                }
+    
+                VideoDescription: field(name: "VideoDescription") {
+                  ... on RichTextField {
+                    jsonValue
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: /sitecore/templates/Project/GowlingWLG Site/Page Content/YouTubeVideo/VideoSeries
+- ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
+  Hint: Open Properties after Add
+  Value: 1
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{4247AAD4-EBDE-4994-998F-E067A51B1FE4}"
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: "query:$site//*[@@name='Data']//*[@@templatename='VideoSeries']|query:./ancestor-or-self::*[@@templatename='Page Data']"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230726T144753Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bc7a43ef-7a1c-48b1-bab1-924144eae1b4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231020T102719Z

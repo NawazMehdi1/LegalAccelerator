@@ -1,0 +1,65 @@
+﻿---
+ID: "1b404df3-ab5f-4dcb-8bcc-357c4e75360c"
+Parent: "aeb79b21-f32e-48ee-b8c6-e2a2dbff0e5c"
+Template: "0a2929f8-306f-47a1-bfa5-3afe137ec446"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Client Work/Public Sector Legal Service Framework appointment"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {42AA17EA-738C-4E8A-8242-7DFC3F201A82}
+        {88768AE0-0F64-4DDC-8A85-E4735D09E55C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T103202Z
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: |
+        {C5EB94BD-3FFF-41EB-B73B-34632BD88F23}
+        {50AFD730-9ED6-4BD6-ADBE-73497A7A979C}
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Public Sector Legal Service Framework appointment
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Our Public Sector team has been appointed to Crown Commercial Service's (CCS) Public Sector Legal Service Framework for the next four years.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Public Sector Legal Service Framework appointment
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd7aa43d-5ca9-4cfb-87f9-b565022388fb"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {7A75F42A-1581-4C17-9F2B-C3E4848A74EF}
+        {E11FA21F-3EBA-466F-8717-F7352C5F77DC}
+        {F5DE4EBB-303C-4182-B7DC-3548DAAEFDFF}
+    - ID: "b39ad9cc-af0e-4550-8414-4b7478f1ad31"
+      Hint: PublishedDate
+      Value: 20230604T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T103301Z

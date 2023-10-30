@@ -1,0 +1,61 @@
+﻿---
+ID: "da6bb248-c8fd-4024-8863-2a41e642e774"
+Parent: "11547f04-5ca5-4dd9-b4ca-a132cd019812"
+Template: "31507380-1c3b-4574-907a-35b1ce9c596d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Events/Termination for Cause
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230913T182439Z
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: "{50AFD730-9ED6-4BD6-ADBE-73497A7A979C}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Termination for Cause
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "Does cause for termination actually exist? While the standard to establish just cause is indeed a high one, it is not always an impossible standard to meet if an employee's conduct is sufficiently egregious."
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: "{EAE9F593-148E-4312-A327-EE8CED8B5848}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Termination for Cause
+    - ID: "79df820b-5ccc-4cb0-aff1-9f38b3281ab7"
+      Hint: EventStartDate
+      Value: 20230905T183000Z
+    - ID: "80eb5a2f-a16a-4df0-8d9f-21e4932c0d2a"
+      Hint: PublishedDate
+      Value: 20230912T183000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4046a1cc-a671-40a5-93d1-cb0a30bafaea"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: "{ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}"
+    - ID: "ac1204cb-944e-4c05-976f-aa15bb1a0515"
+      Hint: PageType
+      Value: "{2CB8E10E-A47D-4ABA-BEE1-FBC29C1CE441}"
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {F1F323B3-583F-457B-AABD-6FC44FEC1F5B}
+        {9B7DE5D7-B5A6-42FA-9CBC-04B88B237705}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "bee3cf6c-d209-4d4f-82d0-664d4c76d917"
+      Hint: IsCPDorCLE
+      Value: 1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230914T084724Z
+    - ID: "ebb722c6-082d-4218-b303-fad412068894"
+      Hint: EventEndDate
+      Value: 20230906T183000Z

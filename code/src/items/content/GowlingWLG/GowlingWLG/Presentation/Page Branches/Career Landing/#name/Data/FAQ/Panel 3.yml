@@ -1,0 +1,38 @@
+﻿---
+ID: "ad4a55f7-6a12-447e-87d8-105268e8c59b"
+Parent: "22af37fa-1077-45b3-85df-e7baade23694"
+Template: "1be47dc8-ae4e-40c9-b4c5-0102d8da1a37"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Career Landing/$name/Data/FAQ/Panel 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b64d01b-78cd-4e06-83ea-59b5827aac4d"
+      Hint: Description
+      Value: |
+        <span style="color: #000000; background-color: #ffffff; text-align: justify;">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature,</span>
+    - ID: "23d761fa-5cdc-48b9-bfaa-e1865d4eff08"
+      Hint: Title
+      Value: "Where does it come from?"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230901T071858Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d01cd94-1e9e-437a-9619-e8a82a2631a0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230901T072126Z

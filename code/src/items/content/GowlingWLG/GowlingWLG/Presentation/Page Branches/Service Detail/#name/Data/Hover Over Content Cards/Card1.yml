@@ -1,0 +1,45 @@
+﻿---
+ID: "da482c0b-b79f-44af-aaa7-35e6763cb87e"
+Parent: "b24c65d8-208b-44c4-91c9-767c12d12ad3"
+Template: "f36bc793-183b-49e2-80ec-d89313fa9536"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Service Detail/$name/Data/Hover Over Content Cards/Card1
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230830T172706Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "af689811-3039-454c-8fee-7880139b4506"
+    - ID: "a1347e59-5a32-4793-9aeb-4fd1cde6c301"
+      Hint: Description
+      Value: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+    - ID: "a5adbcf8-e26f-40d6-9cc7-71bd02afcea7"
+      Hint: Title
+      Value: Cras Mattis consectetur purus
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230830T173204Z
+    - ID: "f32cf29c-04c8-45e4-a1dc-07515315ea26"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"E3208F45-F286-4290-A51B29A83130734F","name":"Paris_Opera_house","description":"Paris Opera house with cropped photo","assetType":"Image","createdAt":"2023-08-30T11:31:36Z","publishedAt":"2023-08-30T11:25:47Z","updatedAt":"2023-08-30T14:42:26Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/2bcbab14045d0e1/webimage-Paris_Opera_house.png","width":800,"height":402,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/2bcbab14045d0e1/thul-Paris_Opera_house.png","width":250,"height":126,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/2bcbab14045d0e1/mini-Paris_Opera_house.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["office_building_photography"],"extension":["jpg"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>

@@ -1,0 +1,65 @@
+﻿---
+ID: "3cc3d294-8c35-4979-8821-89bfc5c7cab7"
+Parent: "aeb79b21-f32e-48ee-b8c6-e2a2dbff0e5c"
+Template: "0a2929f8-306f-47a1-bfa5-3afe137ec446"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Client Work/Eddy Solutions acquires Reed Water"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T102535Z
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: |
+        {C5EB94BD-3FFF-41EB-B73B-34632BD88F23}
+        {50AFD730-9ED6-4BD6-ADBE-73497A7A979C}
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Eddy Solutions acquires Reed Water
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: |
+        On May 4, 2022, Eddy Smart Home Solutions Ltd. ("Eddy") (TSXV: EDY) announced that it had successfully closed its previously announced acquisition of all of the issued and outstanding common shares of Reed Controls Inc. (dba Reed Water) ("Reed").  The total purchase price for the transaction was $7,359,600.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Eddy Solutions acquires Reed Water
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1ed90c70-50df-4b34-8a25-41f2eb6e4f07"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {7A75F42A-1581-4C17-9F2B-C3E4848A74EF}
+        {DF6A7060-4DFA-4C04-A07D-D5F9B96DA33F}
+        {B49778EB-D338-492F-AEDC-FA7BE1CBD2F4}
+    - ID: "b39ad9cc-af0e-4550-8414-4b7478f1ad31"
+      Hint: PublishedDate
+      Value: 20231012T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T102631Z

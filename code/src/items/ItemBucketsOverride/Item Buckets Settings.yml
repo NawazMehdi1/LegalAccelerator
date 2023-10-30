@@ -1,0 +1,139 @@
+﻿---
+ID: "376da354-62fb-4066-ade3-439419eae7a8"
+Parent: "877091a7-131e-40d2-bdc6-5534284c5d03"
+Template: "9f6e14e6-c593-410b-a57e-21f6b5a413ad"
+Path: /sitecore/system/Settings/Buckets/Item Buckets Settings
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/gear.png
+- ID: "37ac831a-7cb4-4962-aebd-a269649e5d35"
+  Hint: Tag Parent
+  Value: "{154D56CC-0DE2-43C7-BBC0-A25BD7FFD901}"
+- ID: "5a81d794-7364-4cc5-8aa9-a921d5dda4af"
+  Hint: Opening Search Results
+  Value: New Tab
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111026T090900Z
+    - ID: "4b5d1cb7-e617-4cd0-a7e8-cc8a9fd80688"
+      Hint: Rule
+      Value: |
+        <ruleset>
+          <rule
+            uid="{CC10C2B8-180E-4FF3-9B05-2CB87662E591}">
+            <conditions>
+              <condition
+                id="{4A505FF0-50A8-4B84-84CF-0CAD8EF3D695}"
+                uid="5B9FD7BB205E4450AA279FA80C3CA405"
+                templateid="{C8E1EB5D-883A-441A-8367-28C967EA8C8E}" />
+            </conditions>
+            <actions>
+              <action
+                id="{B9EDB000-4C7C-4770-AD29-BEC226213AFC}"
+                uid="04DF6E144C2247C1A8D147C4DDB8E7D3"
+                format="yyyy" />
+            </actions>
+          </rule>
+          <rule
+            uid="{7BA9622A-5B98-408D-8B0B-D658663DDD54}">
+            <conditions>
+              <condition
+                id="{4A505FF0-50A8-4B84-84CF-0CAD8EF3D695}"
+                uid="C0A56584EA234EF8B55CA02535DE38BD"
+                templateid="{9D6780DD-9CC1-42B6-A7F1-8C71CBD44BAF}" />
+            </conditions>
+            <actions>
+              <action
+                id="{F091DB35-8784-44D7-A7FA-0729984188DF}"
+                uid="3FD0FABF518D4A9C83FDF3DA4F998BB2"
+                levels="1" />
+            </actions>
+          </rule>
+          <rule
+            uid="{0248EB3B-BEF1-4850-B40E-C507D0ECBC94}">
+            <conditions>
+              <condition
+                id="{4A505FF0-50A8-4B84-84CF-0CAD8EF3D695}"
+                uid="BBEAC86511214BEFB6DC1C63C2F883FA"
+                templateid="{95D55B3E-6BD9-4FCC-B513-007D6C6652B8}" />
+            </conditions>
+            <actions>
+              <action
+                id="{B9EDB000-4C7C-4770-AD29-BEC226213AFC}"
+                uid="93AB6CA69CE14291A9A53338FBE1035A"
+                format="yyyy" />
+            </actions>
+          </rule>
+          <rule
+            uid="{FA8D4E14-2569-4154-8E1C-708F76E6D89D}">
+            <conditions>
+              <condition
+                id="{4A505FF0-50A8-4B84-84CF-0CAD8EF3D695}"
+                uid="38CBDC078D5740BB8A15278F22C30CEE"
+                templateid="{E25E01CE-D8B9-49A6-987A-5E40D16D300F}" />
+            </conditions>
+            <actions>
+              <action
+                id="{B9EDB000-4C7C-4770-AD29-BEC226213AFC}"
+                uid="7B1C333071DF41BFB9E19D6AD941F0A6"
+                format="yyyy" />
+            </actions>
+          </rule>
+          <rule
+            uid="{220071F7-8795-4957-933E-E87D08B88E66}">
+            <conditions>
+              <condition
+                id="{4A505FF0-50A8-4B84-84CF-0CAD8EF3D695}"
+                uid="EBD45AA17232488C84DD1C80218A13FB"
+                templateid="{E60FA53D-7BFD-41A7-AE99-7A0CA9360CE0}" />
+            </conditions>
+            <actions>
+              <action
+                id="{B9EDB000-4C7C-4770-AD29-BEC226213AFC}"
+                uid="DA6D7B02F63A424CAC4F26A18243602F"
+                format="yyyy" />
+            </actions>
+          </rule>
+          <rule
+            uid="{88AE12F4-FA30-4840-A3BD-EE176BFE2B32}">
+            <conditions>
+              <condition
+                id="{4A505FF0-50A8-4B84-84CF-0CAD8EF3D695}"
+                uid="C620EA28B7DA4E45B9949D94A1FB6537"
+                templateid="{8D86C1E6-064A-4186-9E7C-4FBAECF59614}" />
+            </conditions>
+            <actions>
+              <action
+                id="{B9EDB000-4C7C-4770-AD29-BEC226213AFC}"
+                uid="E751325BD8FC4226ACB2D44098069299"
+                format="yyyy" />
+            </actions>
+          </rule>
+        </ruleset>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8066bd76-b001-4023-9372-320ca6bb9950"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230810T164001Z

@@ -1,0 +1,61 @@
+﻿---
+ID: "73db16d2-1fb1-46ef-bccc-f392571b6afd"
+Parent: "11547f04-5ca5-4dd9-b4ca-a132cd019812"
+Template: "31507380-1c3b-4574-907a-35b1ce9c596d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Events/Exits via settlement agreement
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: "{57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230913T181212Z
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: "{C5EB94BD-3FFF-41EB-B73B-34632BD88F23}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Exits via settlement agreement
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "After employment contracts, settlement agreements are one of the most common contracts that employers deal with but are you meeting the legal requirements?"
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: "{5481F515-A786-427A-A3F2-2794DAF36018}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Exits via settlement agreement
+    - ID: "79df820b-5ccc-4cb0-aff1-9f38b3281ab7"
+      Hint: EventStartDate
+      Value: 20230805T183000Z
+    - ID: "80eb5a2f-a16a-4df0-8d9f-21e4932c0d2a"
+      Hint: PublishedDate
+      Value: 20230912T183000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10a10a0b-a5f5-4fa1-9384-39d5930535b0"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: "{D9D13CCA-FF54-418B-8E51-E09DF6B759FE}"
+    - ID: "ac1204cb-944e-4c05-976f-aa15bb1a0515"
+      Hint: PageType
+      Value: "{B8184ACC-E856-4215-A8A6-5122368F93B9}"
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {BF3AFED6-5C43-42FA-BC05-BC184C4977B6}
+        {17A383DE-6FB2-463E-A6C6-FDD21E3A105E}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230914T084612Z
+    - ID: "ebb722c6-082d-4218-b303-fad412068894"
+      Hint: EventEndDate
+      Value: 20230807T183000Z

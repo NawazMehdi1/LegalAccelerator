@@ -1,0 +1,46 @@
+﻿---
+ID: "4f5df478-4492-4034-a142-fee3a48c2600"
+Parent: "7baa7394-6f0b-4724-b542-3323e08344c5"
+Template: "5b793991-756e-471c-a97b-0af43c42ac33"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Branch/Career Global/Data/Join Us CTA
+BranchID: "e18bca0e-0603-41b9-817f-e299bf579db0"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4D95C311-4C25-42C5-AD90-160547708DAE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230911T063232Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8b9659fc-1880-400c-9585-b969e5352b9e"
+      Hint: Title
+      Value: Join Us
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8646c534-10d3-4bd7-aa25-5de5d1dd8942"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "c9b980bd-87b8-41df-9e29-d19edfe31ae4"
+      Hint: Image
+      Value: |
+        <image mediaid="{33069873-93DE-49F3-BEED-D68B6A7CDCA1}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230911T063232Z
+    - ID: "fde2b1f6-e116-4573-9aa8-69c0881d930d"
+      Hint: Description
+      Value: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.

@@ -1,0 +1,207 @@
+﻿---
+ID: "a0a6dfc5-e6c6-4850-af8b-651cb449e8e9"
+Parent: "ce3a9d28-2a6a-4fda-89ff-2e75fe3e82a7"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: "/sitecore/system/Modules/PowerShell/Script Library/GowlingWLG Scripts/ContentMigration/People/ProfessionalTitle-Migration-Script"
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    $csvFilePath = '/sitecore/media library/Project/GowlingWLG/GowlingWLG/ContentMigration/People/ProfessionalTitle'
+    
+    $ProfessionalTitlePath = '/sitecore/content/GowlingWLG/GowlingWLG/Data/Tags/PeopleProfessionalTitle'
+    $DictionaryEntryTemplate='{6D1CD897-1936-4A3A-A511-289A94C2A7B1}'
+    $TagTemplateID = '{6B40E84C-8785-49FC-8A10-6BCA862FF7EA}'
+    $dict=@('key','phrase');
+    
+    
+    function ImportList($csvFilePath){
+        $media = Get-Item -Path $csvFilePath
+        # get stream and save content to variable $content
+        [System.IO.Stream]$body = $media.Fields["Blob"].GetBlobStream()
+        try    
+        {
+            $contents = New-Object byte[] $body.Length
+            $body.Read($contents, 0, $body.Length) | Out-Null
+        } 
+        finally 
+        {
+            $body.Close()    
+        }
+        
+        # convert to dynamic object
+        $importList = [System.Text.Encoding]::Default.GetString($contents) | ConvertFrom-Csv -Delimiter ","
+        return $importList;
+    }
+    
+    function CreateItem{
+        [cmdletbinding()]
+        param ( 
+                $name, $id=0, $language, $template, $parentItem, $createItem=$true, $srcLang=''
+            )
+            write-host('CreateItem $name=' + $name + ' $id='+$id+' $language='+$language+ ' $template='+$template+' $parentItem='+$parentItem+' $createItem='+$createItem)
+            
+            if(gci -path $parentItem -language $language | where-object{$_.Name -eq $name -or $_.ID -eq $id} -ErrorAction SilentlyContinue){
+                write-host('existing language')
+                $Item = gci -path $parentItem -language $language | where-object{$_.Name -eq $name -or $_.ID -eq $id}
+                
+            }
+            #if the Item is present but not with the particular language
+            elseif(gci -path $parentItem | where-object{$_.Name -eq $name -or $_.ID -eq $id} -ErrorAction SilentlyContinue){ 
+                if($srcLang -eq ''){
+                   $languageVersions = gci -path $parentItem -language * | where-object{$_.Name -eq $name -or $_.ID -eq $id}
+                   $existingLanguage = ''
+                   foreach($languageVersion in $languageVersions){
+                       $existingLanguage = $languageVersion.Language
+                       break
+                   }
+                   $Item = gci -path $parentItem | where-object{$_.Name -eq $name -or $_.ID -eq $id} | Add-ItemLanguage -Language $existingLanguage -TargetLanguage $language
+                }
+                else{
+                    $Item = gi -path $id | Add-ItemLanguage -Language $srcLang -TargetLanguage $language
+                }
+            }
+            #if the id is a path and not an GUID
+            elseif($createItem){
+                if($id -ne 0){ 
+                    write-host('Force id')
+                    $Item = ni -Path $parentItem -ItemType $template -Name $name -ForceId $id -language $language
+    
+                }
+                else{
+                    write-host('path')
+                    $Item = ni -Path $parentItem -Name $name -ItemType $template -language $language 
+                    write-host($Item.fullpath)
+                }
+                
+            }
+            return $Item
+    }
+    
+    function NullCheck($value){
+            write-host($value)
+            $val = if($value -eq 'NULL' -or $value -eq 'null' -or [string]::IsNullOrEmpty($value) -or $value -eq '0' -or $value -eq 0){''}else{$value}
+            return $val
+    }
+    
+    function DataItemsMapping{
+        [cmdletbinding()]
+        param (
+            $CurrItem, $ItemName, $ItemTempID, $FieldValue, $fieldName, $ifCurrItem=$false
+            )
+            if($ifCurrItem){
+                $Item = gi -path $CurrItem.ID -language $language
+            }
+            else{
+                $Item = $CurrItem | get-childitem -recurse | where {$_.Name -eq $ItemName -and $_.'TemplateID' -eq $ItemTempID}
+            }
+            $Item.Editing.BeginEdit()
+                $Item[$fieldName] = $FieldValue
+            $Item.Editing.EndEdit()
+            return $Item
+        }
+        
+    function DataMapping{
+            [cmdletbinding()]
+        param ( 
+                $value, $parentPath, $template
+            )
+            if($value.contains('GWLG')){
+                $valArr = $value.replace('.','').replace('GWLG','').split(';')
+            }
+            else{
+                $valArr = $value.split(';')
+            }
+            
+            if($value.contains('GWLG.')){
+                $keyArr = $value.replace('GWLG.','').replace('.','-').replace(',',' ').split(';')
+            }
+            else{
+                $keyArr = $value.replace('.','_').replace(',',' ').split(';')
+            }
+            
+            
+            $ids=''
+            for ($i = 1; $i -le $valArr.length; $i++) {
+                
+                
+                    $Item = CreateItem -name $keyArr[$i-1] -language $row.DocumentCulture -template $template -parentItem $parentPath
+                    
+                    $ids += $Item.ID
+                    
+                    if($i -lt $valArr.length){
+                    $ids += '|'
+                    }
+                    
+                    if($template -eq $DictionaryEntryTemplate){
+                        $x= DataItemsMapping -CurrItem $Item -fieldName $dict[0] -FieldValue $keyArr[$i-1] -ifCurrItem $true
+                        $x= DataItemsMapping -CurrItem $Item -fieldName $dict[1] -FieldValue $valArr[$i-1] -ifCurrItem $true
+                    }   
+                    if($template -eq $TagTemplateID){
+                        $x= DataItemsMapping -CurrItem $Item -fieldName 'Title' -FieldValue $valArr[$i-1] -ifCurrItem $true
+                    }
+                    write-host($ids)
+                    return $ids
+                
+                
+            }
+           
+        }
+    
+    
+    
+    function ProfessionTitleData($csvFilePath){
+        $importList = ImportList($csvFilePath);
+        foreach($row in $importList)
+        {
+            if($row.ItemGUID){
+                $pageName = $row.CodeName.replace('GWLG.','');
+                    
+                $Cultures = $row.Cultures.split(';')
+                $valueArray = $row.OldCodeNames.split(';')
+                if($valueArray.length -eq $Cultures.length){
+                    for($i=0;$i -lt $valueArray.length; $i++){
+                        $language = $Cultures[$i]
+                        $Item = CreateItem -name $pageName -template $TagTemplateID -parentItem $ProfessionalTitlePath -language $language
+                        $x = DataItemsMapping -CurrItem $Item -fieldName 'Title' -FieldValue $valueArray[$i] -ifCurrItem $true
+                            
+                    }
+                }
+                elseif($valueArray.length -eq 1){
+                    for($i=0;$i -lt $Cultures.length; $i++){
+                        $language = $Cultures[$i]
+                        $Item = CreateItem -name $pageName -template $TagTemplateID -parentItem $ProfessionalTitlePath -language $language
+                        $x = DataItemsMapping -CurrItem $Item -fieldName 'Title' -FieldValue $valueArray[0] -ifCurrItem $true
+                    }
+                }
+            }
+        }
+    }
+    ProfessionTitleData($csvFilePath)
+    
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230803T102945Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "53926f47-f5b4-4b27-b110-c8e64fe1ca84"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230818T115452Z

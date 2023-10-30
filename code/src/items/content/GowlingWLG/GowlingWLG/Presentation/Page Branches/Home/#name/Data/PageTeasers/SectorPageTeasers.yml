@@ -1,0 +1,44 @@
+﻿---
+ID: "29db9844-48cb-43fa-b246-ef4ed145fce5"
+Parent: "8541f91d-aaff-4821-a92b-0f8630d08534"
+Template: "3b4f2ce2-8e1c-492c-9290-458d860371de"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Home/$name/Data/PageTeasers/SectorPageTeasers
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230605T062631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b190315b-17b0-422c-8217-dc55bb6187f2"
+    - ID: "b325d246-aeb6-4515-b811-8967f2a5d42d"
+      Hint: PageReferences
+      Value: |
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {AE2E8456-4823-49A7-9446-8314414E670B}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "bfbc0198-258e-4985-b098-635ee1b193f5"
+      Hint: Description
+      Value: "To meet your unique needs, we pair our in-depth knowledge of your industry sector with our renowned service area experience. Click on any of the sectors below to see more information."
+    - ID: "cf331492-8805-4734-b323-a462d4323c9a"
+      Hint: Title
+      Value: Sectors
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230627T200710Z

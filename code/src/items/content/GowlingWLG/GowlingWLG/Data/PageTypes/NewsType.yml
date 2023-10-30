@@ -1,0 +1,23 @@
+﻿---
+ID: "c3401a9c-8653-44c4-85d2-aada80369443"
+Parent: "4dfc2b64-596d-42df-86e3-c9d2371644df"
+Template: "2c1b6e69-b023-44c5-844f-d44c122b0451"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/PageTypes/NewsType
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230812T003026Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "199bc2a6-b6e6-4922-aff4-2d3d47de7435"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230812T003026Z

@@ -1,0 +1,35 @@
+﻿---
+ID: "957bd211-fcb2-4ada-b0d7-96a10a44d535"
+Parent: "c68d2625-423c-416a-a085-8ce741ecdf80"
+Template: "c68d2625-423c-416a-a085-8ce741ecdf80"
+Path: /sitecore/templates/Project/GowlingWLG Site/Page Content/Search/SearchRenderingParameters/__Standard Values
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T091806Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "82afa83d-54d3-4ab3-a85d-abb06f0e6751"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T091815Z

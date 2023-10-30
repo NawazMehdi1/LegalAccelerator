@@ -1,0 +1,764 @@
+﻿---
+ID: "6df4118b-9226-4ef4-ae54-4180d0250140"
+Parent: "ec7dd7f8-65dd-4204-a810-e51bd4b6c140"
+Template: "1ae0965e-81fd-493a-8338-5fdb292dd7cd"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People/t/Test Author2/Data/AccordionDataItems/Careers/Events
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4960CD24-3C6E-4EE8-B621-FD75D9F1FA91}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: "de-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "de-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "de-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "de-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "de-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "de-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8c74a753-a209-4b67-8267-85ea0cfd116a"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\debahuti.panigrahy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230823T140331Z
+- Language: "en-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "en-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "en-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "en-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "en-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "fr-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "fr-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "fr-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "fr-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z
+- Language: "fr-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2e152417-16c9-40b9-830f-2e6b733fb772"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z

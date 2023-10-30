@@ -1,0 +1,42 @@
+﻿---
+ID: "0a16238e-f0ca-4e42-a0ba-53b2bead21f2"
+Parent: "c1e61842-0322-4a98-b8b4-5762b209adcd"
+Template: "bca0e629-150f-41dd-893b-f4b65338c0b7"
+Path: /sitecore/system/Settings/Feature/GowlingWLG/GwlgTailwind/Extra Large
+SharedFields:
+- ID: "39d6d2c4-f31e-4310-ab2d-f6d5c9cb89fd"
+  Hint: BreakpointMax
+  Value: 1535.98
+- ID: "3b2c405a-5a69-4ce9-a28a-0e72715f159a"
+  Hint: BreakpointMin
+  Value: 1280
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 250
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Desktop Large
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161216T080538Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0aad2f2c-9ea9-48f9-a53b-32a3a1886964"
+    - ID: "b55a9065-9589-41d8-997b-9b4592852134"
+      Hint: Tooltip
+      Value: |
+        Layout settings for computers with large screens. 
+        Will be used on larger screens if not overridden.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230614T233434Z

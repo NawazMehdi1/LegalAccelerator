@@ -1,0 +1,60 @@
+﻿---
+ID: "07abcf03-7103-4e99-a3df-6c46d82368d8"
+Parent: "36fcf4ac-f32e-4731-a9e4-37c83b5f6c45"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/GowlingWLG/GowlingWLG/RegionIcons/France
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/07ABCF0371034E99A3DF6C46D82368D8.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 102
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "13317264-a9ad-49c8-9559-c1e503c80d10"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAGYAAABECAYAAABzu0BfAAAA9ElEQVR4nO3RMU0EQBQA0b+AERJChQhEYAg9iOBcXEJ1ElBwiwH6neI9BZPMmtePPcet2/x8PZ+uuL68va99/z7dsdd8PpyO4H/GRBkTZUyUMVHGRBkTZUyUMVHGRBkTZUyUMVHGRBkTZUyUMVHGRBkTZUyUMVHGRBkTZUyUMVHGRBkTZUyUMVHGRBkTZUyUMVHGRBkTZUyUMVHGRBkTZUyUMVHGRBkTZUyUMVHGRBkTZUyUMVHGRBkTZUyUMVHGRBkTZUyUMVHGRBkTZUyUMVHGRBkTZUyUMVHGRD3NmsvpiNlzO50wM/O49u991uV0x+y5/QFSSxJgTk1fiQAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 301
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 102 x 68
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 68
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230619T144626Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: France
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ebe62a5-3bce-42b3-880e-1fdbf04a5974"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230619T144629Z

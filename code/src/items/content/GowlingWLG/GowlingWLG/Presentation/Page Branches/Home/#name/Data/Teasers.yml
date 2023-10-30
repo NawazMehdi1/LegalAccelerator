@@ -1,0 +1,38 @@
+﻿---
+ID: "41cf4681-395e-4603-82b9-268b0c671ee9"
+Parent: "e6e4e9bb-31d1-4b1c-9a11-bf9c175a13d2"
+Template: "09126900-286e-4951-a115-47809f9c926b"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Home/$name/Data/Teasers
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230602T192916Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "62068261-f1cf-4b14-ae57-be7284dd3c36"
+      Hint: SelectedTeasers
+      Value: |
+        {B0952A85-39EC-4187-986C-A4F0C5D1F48E}
+        {8E607012-6979-40B5-863E-E2CAD696D5EB}
+        {E2F35732-B1AC-4A64-B99E-55787BF43FB1}
+        {EE7A81A5-3B53-4989-A371-11584EC52117}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c5c63565-8c10-49ae-82cc-54e666e90e8b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230908T113404Z

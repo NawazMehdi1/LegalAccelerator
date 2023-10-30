@@ -1,0 +1,57 @@
+﻿---
+ID: "d3de29db-d639-432d-ad68-1b0bc632a1e6"
+Parent: "11547f04-5ca5-4dd9-b4ca-a132cd019812"
+Template: "31507380-1c3b-4574-907a-35b1ce9c596d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Events/Ten years after Portas
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {88768AE0-0F64-4DDC-8A85-E4735D09E55C}
+        {A417F6BB-86FB-4AF9-93B7-DC2BB25E4744}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230913T175350Z
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: "{8A517066-926B-4C39-9000-F595F6EA9C9D}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Ten years after Portas
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: "{F2FC07C6-BFDB-46CD-A88E-ABF9B733AA94}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Ten years after Portas
+    - ID: "79df820b-5ccc-4cb0-aff1-9f38b3281ab7"
+      Hint: EventStartDate
+      Value: 20230125T183000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b49a96ad-3a2b-4371-9a43-515ac32306ad"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {AE2E8456-4823-49A7-9446-8314414E670B}
+    - ID: "ac1204cb-944e-4c05-976f-aa15bb1a0515"
+      Hint: PageType
+      Value: "{E5F938D0-5B43-4146-98E9-8A7E2CD9F1F6}"
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{F5DE4EBB-303C-4182-B7DC-3548DAAEFDFF}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230914T084711Z
+    - ID: "ebb722c6-082d-4218-b303-fad412068894"
+      Hint: EventEndDate
+      Value: 20230125T183000Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "1af2802b-04e6-4187-80f1-8ba0f9061664"
+Parent: "71c28bd6-e731-42bd-a723-b4629fe1337b"
+Template: "2cd04a03-daa5-4ce2-a0b2-59ca8ba9f45d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/ArticleDetail/Data/Accordion
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03201255-a0a8-411e-9fd9-be0878925cd3"
+      Hint: Description
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230603T002332Z
+    - ID: "63cc1182-f9fb-48ee-9161-9a78eecbbf1e"
+      Hint: AccordianList
+      Value: |
+        {6346E717-4EB5-4E67-B3B7-42664EA1C7BB}
+        {B90E2E35-CB15-488F-8C72-7DD1CDC3B215}
+        {597127DA-AF43-461D-83D2-164880CFC916}
+        {FD188E33-6293-4563-83B3-4FE61B749A50}
+        {206853A6-3FCC-42C3-AEE6-A12B3FB91FB6}
+    - ID: "64fca717-66fe-4fe9-9081-3d8b555b6e29"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f5b96fbf-fe6c-442c-9c80-565d4dd7c0bc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230928T130158Z

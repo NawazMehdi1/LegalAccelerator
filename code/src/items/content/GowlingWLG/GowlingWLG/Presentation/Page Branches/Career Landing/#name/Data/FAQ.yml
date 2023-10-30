@@ -1,0 +1,44 @@
+﻿---
+ID: "22af37fa-1077-45b3-85df-e7baade23694"
+Parent: "879b4e20-75ec-44f8-b10e-73b480d964f8"
+Template: "2cd04a03-daa5-4ce2-a0b2-59ca8ba9f45d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Career Landing/$name/Data/FAQ
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03201255-a0a8-411e-9fd9-be0878925cd3"
+      Hint: Description
+      Value: Frequently Asked Questions
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230901T071820Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "63cc1182-f9fb-48ee-9161-9a78eecbbf1e"
+      Hint: AccordianList
+      Value: |
+        {8C665EDD-4359-432E-A149-6A549F797D2A}
+        {521C8C6D-968F-43DF-9120-C6E92E24F952}
+        {AD4A55F7-6A12-447E-87D8-105268E8C59B}
+        {ED323B2E-4A5F-4480-9130-E3736EBCC1E7}
+    - ID: "64fca717-66fe-4fe9-9081-3d8b555b6e29"
+      Hint: Title
+      Value: Frequently Asked Questions
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "84419e3f-3c7f-42f7-b35b-8268c6c4770b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230906T101725Z

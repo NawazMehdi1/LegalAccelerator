@@ -1,0 +1,37 @@
+﻿---
+ID: "75ba3a0d-3c76-4458-82c2-406e3e20d910"
+Parent: "633d22c4-15be-40eb-955b-d7467e7ce3c9"
+Template: "22c0cc1c-dc10-4c79-ae8c-ddea84490c59"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Home/$name/Data/Home Stat/Stat3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230602T200817Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "592a58c6-ba71-45cc-8a1f-bd7abfd44728"
+    - ID: "8d68b961-8bbe-4aec-bcf2-a14da788c6c4"
+      Hint: Description
+      Value: Legal Professionals
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230630T103718Z
+    - ID: "e55a3fdb-bda9-4243-8235-6e57cf2d1c3b"
+      Hint: Title
+      Value: 15k+

@@ -1,0 +1,49 @@
+﻿---
+ID: "f820fb2e-ca18-4a5a-90c6-1f30eea73ebe"
+Parent: "71c28bd6-e731-42bd-a723-b4629fe1337b"
+Template: "30e2ee13-705d-4885-94bb-8c0b4cbd59fb"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/ArticleDetail/Data/2ColumnBanner
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: other/32x32/at.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b07435e-2beb-4a78-9a04-d8a3fe4c1a73"
+      Hint: RightSection
+      Value: |
+        Our team has been recognised by <strong>Chambers FinTech</strong> and the <strong>Canadian FinTech &amp; AI Awards</strong> for its work as a leading FinTech law firm, particularly in the area of blockchain and smart contracts.<br />
+        <br />
+        We are the only international law firm to be a founding partner of the <strong>Blockchain Research Institute (BRI)</strong>.
+    - ID: "13b98b43-5f11-431f-974f-ff6171dc31d9"
+      Hint: Title
+      Value: Recognition
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230927T125218Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c5f7ced-5553-4305-861f-2a78117725bb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "c106cab4-8104-4ebc-bd88-5953b56379af"
+      Hint: LeftSection
+      Value: |
+        <p>"They are the best at what they do; they understand the law at the highest level. They have good subject matter expertise and are able to understand my tech and protect it well, no matter the area."</p>
+        <img alt="" src="-/media/A4EF4D30634947C5A8DE2BFFB5AF16BC.ashx?h=25&amp;w=85" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230929T084152Z

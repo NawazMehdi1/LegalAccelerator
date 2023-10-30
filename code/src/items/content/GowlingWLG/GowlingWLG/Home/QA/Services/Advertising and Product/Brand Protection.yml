@@ -1,0 +1,58 @@
+﻿---
+ID: "ac0511ac-20df-47fb-8469-43abe2e1321c"
+Parent: "7ca4b003-376e-4eab-bfbb-39190e4b0720"
+Template: "66a4442f-338d-493b-83a9-c1727e985320"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Services/Advertising and Product/Brand Protection
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {BAB9AED4-0AB0-40BE-B03D-4E327FA97493}
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value: Lorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg Item
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230627T124714Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{06A113F8-7DAF-473F-BFAF-D0E534965E64}"
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: "{C5EB94BD-3FFF-41EB-B73B-34632BD88F23}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Brand Protection
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Brand Protection
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "044c4b90-08cb-444f-802c-d54e11bcc184"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {70CF3104-BE16-4660-AD11-9A578183540E}
+        {7A75F42A-1581-4C17-9F2B-C3E4848A74EF}
+        {E43A7E7A-A2C2-4EB9-8263-631B5CD854CF}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230828T172250Z

@@ -1,0 +1,61 @@
+﻿---
+ID: "73c96dfd-3f54-478a-8f71-51c2087f1304"
+Parent: "aeb79b21-f32e-48ee-b8c6-e2a2dbff0e5c"
+Template: "0a2929f8-306f-47a1-bfa5-3afe137ec446"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Client Work/Pensions team appointed as legal adviser to Unisys"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: "{A417F6BB-86FB-4AF9-93B7-DC2BB25E4744}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T103029Z
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: |
+        {15440C43-40BA-4359-9333-B185EB8EE43F}
+        {8A517066-926B-4C39-9000-F595F6EA9C9D}
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Pensions team appointed as legal adviser to Unisys
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Following a competitive tender process, our Pensions team has been appointed by Unisys UK Pension Trustee Limited to act as the legal adviser for the three defined benefit pension schemes operated by Unisys in the UK.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Pensions team appointed as legal adviser to Unisys
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c15473bd-f33f-4b78-88b7-166ed1bb0d6d"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: "{E34303D3-B12E-45FA-A3BE-B627B25F4AAD}"
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {BF3AFED6-5C43-42FA-BC05-BC184C4977B6}
+        {CD3CB7F9-1FFE-4F2B-80DB-D41A24DA4910}
+        {7A75F42A-1581-4C17-9F2B-C3E4848A74EF}
+        {DF6A7060-4DFA-4C04-A07D-D5F9B96DA33F}
+    - ID: "b39ad9cc-af0e-4550-8414-4b7478f1ad31"
+      Hint: PublishedDate
+      Value: 20230702T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T103129Z

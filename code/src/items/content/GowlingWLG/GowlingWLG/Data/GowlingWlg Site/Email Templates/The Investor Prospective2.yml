@@ -1,0 +1,50 @@
+﻿---
+ID: "66d8a3f8-70cd-4a96-89f8-513373042b06"
+Parent: "824acbae-fcdc-4a78-8557-5d83eb8d1e91"
+Template: "768ca430-98e7-47b5-87d0-af78ae864e1e"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/Email Templates/The Investor Prospective2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230912T081023Z
+    - ID: "25f3c715-e0f0-4ec9-8fa0-8a240469c7eb"
+      Hint: Sender Email
+      Value: azar.safarov@altudo.co
+    - ID: "3bf6da7f-e5f8-4a72-89d4-807fe540ec19"
+      Hint: Template Id
+      Value: "d-ec033b5befa8442988358f511fec52c1"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "703b044f-ef1e-4942-947b-392df65b3beb"
+      Hint: Email Template
+      Value: |
+        ESG: The investor perspective<br />
+        Hi [Name],<br />
+        <br />
+        Thank you for registering to receive "ESG: The investor perspective&rsquo;. Please download the<br />
+        report here<br />
+        <br />
+        If you need anything else just let us know.<br />
+        Thanks<br />
+        <br />
+        Gowling WLG
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d481f8d0-0cd5-43a0-ba79-66c863420ce9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231004T111426Z

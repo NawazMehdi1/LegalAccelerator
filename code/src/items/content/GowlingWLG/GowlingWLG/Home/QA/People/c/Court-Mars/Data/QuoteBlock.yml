@@ -1,0 +1,58 @@
+﻿---
+ID: "35e92339-14e8-4809-8740-544eab28be17"
+Parent: "d72629e8-02e0-4c67-a54b-9124fa851b3b"
+Template: "42e46b4a-e70b-4738-bb6d-9f929018906a"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People/c/Court-Mars/Data/QuoteBlock"
+BranchID: "8b85ba3a-7ded-4e46-aec4-2f21991c8712"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9E82DDBA-99F4-4ABF-92E5-DC2625AC60FD}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230915T105816Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d332b3a-247d-43b8-9a86-27f365b60b67"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230915T105816Z

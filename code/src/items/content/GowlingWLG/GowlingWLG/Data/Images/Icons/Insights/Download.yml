@@ -1,0 +1,39 @@
+﻿---
+ID: "37424ff6-e7a2-4049-b0ce-fd7f45d340ee"
+Parent: "5aa5986f-ad35-474a-b151-a81be7b5ed4b"
+Template: "10f2461a-fb4d-4246-95e3-d6e2f01734f4"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/Images/Icons/Insights/Download
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230724T142357Z
+    - ID: "47a6cc82-487f-425f-98e4-a573af91d6dd"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"6BC1D2DE-3F74-4777-BE7F08F4CFF1798F","name":"download png","description":null,"assetType":"Image","createdAt":"2023-09-11T11:22:26Z","publishedAt":"2023-09-11T11:21:31Z","updatedAt":"2023-09-11T11:22:26Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/3be7575a5cd27f50/webimage-download-png.png","width":456,"height":600,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/3be7575a5cd27f50/thul-download-png.png","width":190,"height":250,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/3be7575a5cd27f50/mini-download-png.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["icons_and_graphics"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d085e987-2415-4aca-a927-b3e513f127d8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230928T101445Z

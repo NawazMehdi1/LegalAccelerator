@@ -1,0 +1,77 @@
+﻿---
+ID: "709c43e0-cb50-4f96-80e6-bbd29937dcc3"
+Parent: "61693359-7a1b-4634-8fa1-28cca0bcd834"
+Template: "f4169a94-04ad-453c-9ead-9bc6875cfe9d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/Header Navigation Data/Jurisdictions/France
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230619T115415Z
+    - ID: "260625cc-39b2-47d8-bb3d-874f36c0023c"
+      Hint: Name
+      Value: France
+    - ID: "8c34d770-ebd4-46ea-a34b-b64e95944003"
+      Hint: Code
+      Value: FR
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0ec4f15e-e04f-488d-85fa-a8674dd6f2a8"
+    - ID: "b05556f9-cab6-442b-a231-5ce134b32b9b"
+      Hint: LanguageMapping
+      Value: |
+        {2B322B10-419B-4784-9E02-080A353E6F1C}
+        {88F0E065-A8A6-4038-B94A-78F0B23A73E1}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "c5a9cda2-0df6-4e59-921a-7cec248b52fb"
+      Hint: Flag
+      Value: |
+        <image mediaid="{07ABCF03-7103-4E99-A3DF-6C46D82368D8}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231005T120602Z
+    - ID: "fd3b0012-5661-48b0-bf69-7ebd9620e9ef"
+      Hint: FlagMobile
+      Value: |
+        <image mediaid="{F293827D-B9F2-4131-AE7D-77F035EE869E}" />
+- Language: "fr-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230921T085807Z
+    - ID: "260625cc-39b2-47d8-bb3d-874f36c0023c"
+      Hint: Name
+      Value: France
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "8c34d770-ebd4-46ea-a34b-b64e95944003"
+      Hint: Code
+      Value: FR
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17a6fd8b-eef0-4192-a87f-1ab07aa9e529"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "c5a9cda2-0df6-4e59-921a-7cec248b52fb"
+      Hint: Flag
+      Value: |
+        <image mediaid="{07ABCF03-7103-4E99-A3DF-6C46D82368D8}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T085843Z

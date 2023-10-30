@@ -1,0 +1,50 @@
+﻿---
+ID: "c0d0d5f4-d378-465b-9426-3535c467e082"
+Parent: "5b01501e-ecc8-4bfe-9eb3-bd11994ab833"
+Template: "ac63d976-3a92-430d-b7a4-5cae4a1fcaa0"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/People/Data/HeroBanner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230602T013520Z
+    - ID: "3d9c8116-1f84-4225-90d6-e14c62cd2fbe"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,ex ea commodo consequat.
+    - ID: "49d3a5f2-fcd8-4eae-a4b9-0dc02f134cff"
+      Hint: Title
+      Value: Our People
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "8878f6cd-75cb-4ce0-b7bd-dda3bbb54671"
+      Hint: CTA1
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c6f5bac5-daaf-47df-b5e7-2ba60c2c289d"
+    - ID: "943df8f9-6619-4a73-8bb5-522f503389db"
+      Hint: BackgroundImage
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"447783CF-9103-40BE-AC90736973B4D2FF","name":"hand-shake","description":null,"assetType":"Image","createdAt":"2023-09-19T09:55:22Z","publishedAt":"2023-09-19T09:55:00Z","updatedAt":"2023-09-19T09:55:22Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/76ad3e55e0821984/webimage-hand-shake.png","width":800,"height":286,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/76ad3e55e0821984/thul-hand-shake.png","width":250,"height":89,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/76ad3e55e0821984/mini-hand-shake.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["Banners_-_Website"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>
+    - ID: "9a7c722f-11b4-446b-ad0b-875d0030507c"
+      Hint: CTA2
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d54961e0-20cb-4f37-8a95-46ceb5b383fb"
+      Hint: ForegroundImage
+      Value: 
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230919T100658Z

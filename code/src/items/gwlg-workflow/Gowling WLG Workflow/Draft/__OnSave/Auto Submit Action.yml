@@ -1,0 +1,45 @@
+﻿---
+ID: "7fca9e5c-a393-4d5f-a60b-b5a5d752eb9a"
+Parent: "8d36edbf-07bc-4db8-aec1-0a09702dd1b9"
+Template: "26c54307-6d31-46cf-a96b-70678c4fef7d"
+Path: /sitecore/system/Workflows/Gowling WLG Workflow/Draft/__OnSave/Auto Submit Action
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/16x16/submit.png
+- ID: "67918816-9524-4666-87b3-c07aff9cebd3"
+  Hint: Role Name
+  Value: |
+    sitecore\Sitecore Minimal Page Editor
+- ID: "ada004e1-3b87-476a-b44e-0c66606d0f47"
+  Hint: Type
+  Value: Sitecore.Workflows.Simple.AutoSubmitAction,Sitecore.Kernel
+- ID: "fa367915-b5a1-4e32-b35f-d7c9ecd399eb"
+  Hint: Next state
+  Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20080313T100332Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0096dac1-8a8d-430f-a589-8d3c36562820"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230701T031822Z

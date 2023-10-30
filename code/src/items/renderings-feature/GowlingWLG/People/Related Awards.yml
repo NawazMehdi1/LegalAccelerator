@@ -1,0 +1,61 @@
+﻿---
+ID: "1579639f-131b-4607-a3bb-485a086912cf"
+Parent: "855d6bfb-2f2a-405d-8009-138a6a6e2a4d"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/People/Related Awards
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: Related Awards
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query RelatedAwards($language: String!) {
+      searchCategoryType: item(
+        path: "{1690075D-EED7-453F-8D0D-846390AFFD31}"
+        language: $language
+      ) {
+        name
+        type: field(name: "PageType") {
+          value
+        }
+      }
+      searachPageType: item(
+        path: "{36B1E0FE-1CC5-40C3-829D-C8DDF39F894D}"
+        language: $language
+      ) {
+        name
+        type: field(name: "PageType") {
+          value
+        }
+      }
+    }
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{4247AAD4-EBDE-4994-998F-E067A51B1FE4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230821T112941Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "96c4b1b7-5eee-41e2-86d5-6c5c0e339579"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231020T104751Z

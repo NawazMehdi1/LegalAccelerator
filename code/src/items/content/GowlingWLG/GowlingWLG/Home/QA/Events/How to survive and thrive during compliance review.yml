@@ -1,0 +1,65 @@
+﻿---
+ID: "fc08f025-4bb6-4bba-8df2-4b845a869ae5"
+Parent: "11547f04-5ca5-4dd9-b4ca-a132cd019812"
+Template: "31507380-1c3b-4574-907a-35b1ce9c596d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Events/How to survive and thrive during compliance review
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {AC0511AC-20DF-47FB-8469-43ABE2E1321C}
+        {BAB9AED4-0AB0-40BE-B03D-4E327FA97493}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230913T181823Z
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: "{C5EB94BD-3FFF-41EB-B73B-34632BD88F23}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: How to survive and thrive during compliance review
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "This one-hour program will explore how importers can assess their company's readiness, solve problems, and shore-up processes to demonstrate the company's goal and efforts toward achieving customs compliance."
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {9C7DD673-02A7-403A-BD14-54030DAE30F0}
+        {EAE9F593-148E-4312-A327-EE8CED8B5848}
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: How to survive and thrive during compliance review
+    - ID: "79df820b-5ccc-4cb0-aff1-9f38b3281ab7"
+      Hint: EventStartDate
+      Value: 20231004T183000Z
+    - ID: "80eb5a2f-a16a-4df0-8d9f-21e4932c0d2a"
+      Hint: PublishedDate
+      Value: 20230902T183000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a644d6fb-49e1-45c3-b395-9ab8a90aafe4"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: "{E34303D3-B12E-45FA-A3BE-B627B25F4AAD}"
+    - ID: "ac1204cb-944e-4c05-976f-aa15bb1a0515"
+      Hint: PageType
+      Value: "{2CB8E10E-A47D-4ABA-BEE1-FBC29C1CE441}"
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {9DEA9399-E8DC-4D76-9EE5-D0BECF8CB174}
+        {7A75F42A-1581-4C17-9F2B-C3E4848A74EF}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230914T084633Z
+    - ID: "ebb722c6-082d-4218-b303-fad412068894"
+      Hint: EventEndDate
+      Value: 20231004T183000Z

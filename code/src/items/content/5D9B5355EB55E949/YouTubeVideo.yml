@@ -1,0 +1,64 @@
+﻿---
+ID: "888d8031-3afc-4c1d-a594-62459051eec4"
+Parent: "c0ab49be-85a8-4fef-8c43-d4b2aa482d82"
+Template: "9a81445c-8d62-4269-be73-136df6f86997"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Videos/Influencers in Toronto Spotlight on Peter Simeon/Data/YouTubeVideo"
+BranchID: "eb5af71f-20da-4286-82ff-131f53a8d24d"
+SharedFields:
+- ID: "39c4902e-9960-4469-aeef-e878e9c8218f"
+  Hint: __Hidden
+  Value: 0
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E9B424DB-0B8D-4EC4-92E8-6329315A0F28}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "20b4a65e-75bb-4ab9-abc8-0312e019baf4"
+      Hint: VideoTitle
+      Value: "Lifecycle of a smart idea Defending your trademark & designs: Global Enhancement Strategies."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230731T064243Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "6c642084-0c24-4c05-9fdb-ad9651ccf263"
+      Hint: TileCTA
+      Value: |
+        <link class="" querystring="" id="{D8CF088B-4676-4DF4-A9A3-0938B604E7A6}" anchor="" target="" title="" linktype="internal" text="" url="/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Videos/2023/Influencers in Toronto Spotlight on Peter Simeon" />
+    - ID: "767f713b-2a11-49db-a37e-40f703891fde"
+      Hint: VideoDescription
+      Value: "Lifecycle of a smart idea Defending your trademark & designs: Global Enhancement Strategies. Lifecycle of a smart idea Defending your trademark & designs: Global Enhancement Strategies. Lifecycle of a smart idea Defending your trademark & designs: Global Enhancement Strategies.Lifecycle of a smart idea Defending your trademark & designs: Global Enhancement Strategies. Lifecycle of a smart idea Defending your trademark & designs: Global Enhancement Strategies.Lifecycle of a smart idea Defending your trademark & designs: Global Enhancement Strategies.vLifecycle of a smart idea Defending your trademark & designs: Global Enhancement Strategies. v"
+    - ID: "804d23e3-8823-4570-b8ff-072e3e24b081"
+      Hint: VideoId
+      Value: ikYWfBqaKtI
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "075c0ffd-4a9e-4de5-8235-52f9efc62470"
+    - ID: "93ec7e90-0245-4a07-b5fa-661800a6861b"
+      Hint: TranscriptText
+      Value: My name is Stephanie Harvey and I am a corporate/commercial lending lawyer with Gowling WLG. You are watching video one of our 'Types of Security' video series. As the name suggests, each video in this series will discuss different security that a lender should consider when putting its security package together.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230928T161636Z

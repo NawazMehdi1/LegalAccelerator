@@ -1,0 +1,41 @@
+﻿---
+ID: "13566321-2186-4afe-b0cc-2c7383606af1"
+Parent: "4f7f384f-79ee-43a5-af49-fee278fd7ec9"
+Template: "1b54e3e1-3fa7-4fd5-9ee5-1b08edf7ba5b"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/Data/ContentTeasers/StartTheConversations/GetInTouch
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1d2ad552-0219-4d6a-b7d4-76733dd6a1cf"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T000937Z
+    - ID: "2f9465f4-b103-4884-ada1-82b12e3ee4a5"
+      Hint: Description
+      Value: Start the consultation process.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c902f075-05a4-4ff1-bfb1-82fb54d45e70"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230616T105430Z
+    - ID: "e2b5f0fd-ff77-4850-923d-bb61f7b07980"
+      Hint: Title
+      Value: Get in Touch

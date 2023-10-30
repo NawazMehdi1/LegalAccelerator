@@ -1,0 +1,48 @@
+﻿---
+ID: "06828b4a-2706-4819-a723-b596c5d26b34"
+Parent: "d79171e1-e787-4e21-bcd5-fc32f74e8003"
+Template: "2cd04a03-daa5-4ce2-a0b2-59ca8ba9f45d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Sector Listing/$name/Data/Accordian Folder
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230912T071712Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "63cc1182-f9fb-48ee-9161-9a78eecbbf1e"
+      Hint: AccordianList
+      Value: |
+        {4927AE00-9C8D-4090-A15F-F22087227768}
+        {5812492A-74F0-4941-B8F2-6F5C3651126E}
+        {09C0D6B0-8B55-4859-B4B7-810F36911822}
+        {F56619BF-241D-4C6A-A15C-BE48F6C1F11E}
+        {9410B584-EDE6-4F45-84A4-A07E70F4A6A3}
+        {18DA5872-DFC6-4D62-BA24-4F4A5E0170AD}
+        {039B9F43-5AD3-478D-9E9A-157F4FD03EE5}
+        {CD80C7D2-BBC6-4A44-902B-F5A1C4846A49}
+        {4335BE49-11C8-47FD-8D98-DAFFD711B584}
+        {23F50E03-C920-4099-9EFD-BF67AF8FAA81}
+        {85BA3095-7044-4B9D-94B6-A4B11657A25D}
+        {B52C5A59-0396-4FF9-9C5F-937B00E0C742}
+        {BFF212BC-64C9-49F9-A7C0-610C0A271B56}
+        {C8B2A933-2737-4224-A295-32B519ABB55D}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ee4a077-ee22-4441-83c0-479bb6b741d4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230912T073908Z

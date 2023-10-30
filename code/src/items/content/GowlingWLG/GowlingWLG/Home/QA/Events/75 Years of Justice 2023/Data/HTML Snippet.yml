@@ -1,0 +1,812 @@
+﻿---
+ID: "0e3abf52-d096-4fc5-9afc-d6fa6dc0c79a"
+Parent: "466b8812-aac0-4a5a-a530-ad4475b29912"
+Template: "25f18683-2f03-4776-ada3-6d2a76dbdf2d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Events/75 Years of Justice 2023/Data/HTML Snippet
+BranchID: "f2489714-9894-4572-930b-1d10f9f6805a"
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{31CC66A9-64F6-4E22-B129-05C87B14F382}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: "de-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081732Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dad3701a-e8b0-4d76-a5b6-e31e575bd58e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081732Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "de-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081553Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4127c4c-1350-4897-b480-726d46d021ab"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081553Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "de-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081551Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d06cc893-16c9-4226-960a-07042db9fd5f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081551Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081605Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "09b26f15-1060-4a9b-ae84-0a888d2203ae"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081605Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "de-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081626Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5c1eeca-6aaf-4f90-91b3-dd96856e8c38"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081626Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "de-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081607Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "deef1a7d-e7db-4c31-8ef2-14a5412e5847"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231018T125926Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://marketing.uk.gowlingwlg.com/REACTION/Home/RSForm?RSID=UqKvBLq8n_a7y7Uky4XK53HKF35jtRCi28faplV0HWwlKz2_RB2ZXV9cwyf6rvZI"
+                    title="Register for the Event"
+                  />
+- Language: "de-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081612Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cad21555-b135-4097-bbdd-022b0a3214f5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081612Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T080619Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0ad0b5c-4367-4506-ad99-c5013b7d0957"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T080619Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "en-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081610Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a57cce48-2cbe-4bd7-b782-9e83037151af"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081610Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "en-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081620Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ae36544-a449-49d5-9fce-155904c27724"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081620Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "en-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081631Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2cd7bfe2-57e4-44b2-bf3f-0bef26e54d49"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081631Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "en-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081542Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3a225176-3121-427d-bd96-57a1d7f4b400"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081542Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "en-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081602Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "783dbe82-a285-4730-b01d-7a8b7b108ffa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081602Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081229Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "239cf10f-bd8d-41c1-9a32-61788fd3e0bc"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231018T125822Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://marketing.uk.gowlingwlg.com/REACTION/Home/RSForm?RSID=UqKvBLq8n_a7y7Uky4XK53HKF35jtRCi28faplV0HWwlKz2_RB2ZXV9cwyf6rvZI"
+                    title="Register for the Event"
+                  />
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081637Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bf80eca3-1985-442f-b794-63c1943e5b5e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081637Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "fr-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081724Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "966bf8cf-426d-476e-b5d2-34d4ba599026"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081724Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081556Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d02f6e8a-058c-47d5-8906-6311ec753b1d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081556Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "fr-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081737Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eb0e53ac-b85e-45e9-98df-468ee476241e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081737Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "fr-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081720Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bee2b466-7cc7-4393-911e-0eb20fa3d2ca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081720Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081559Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df485c21-1a13-4225-9dd1-dfc405283003"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081559Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />
+- Language: "fr-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081615Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "88069272-547c-4a94-8cb7-a154b0cad3e0"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231018T125919Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://marketing.uk.gowlingwlg.com/REACTION/Home/RSForm?RSID=UqKvBLq8n_a7y7Uky4XK53HKF35jtRCi28faplV0HWwlKz2_RB2ZXV9cwyf6rvZI"
+                    title="Register for the Event"
+                  />
+- Language: "fr-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T081618Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ba81e198-2a1f-4c8d-bc3e-53c5730ee0f4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T081618Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe
+                    width="100%"
+                    height="2000px"
+                    scrolling="no"
+                    loading="lazy"
+                    src="https://sites-gowlingwlg.vuturevx.com/15/7233/landing-pages---english/event-registration-(blank-form).asp"
+                    title="Register for the Event"
+                  />

@@ -1,0 +1,43 @@
+﻿---
+ID: "dd31bee2-25b6-4c53-adbd-d9eb92cdc0a4"
+Parent: "7edc82ac-de36-441a-873b-f4e057de5307"
+Template: "a0a28aa6-11ee-4dec-a76b-3e0f3ff28e0d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/PeopleDetail/$name/Data/BioAccordion/Experience
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230627T151920Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: |
+        {CE1F4815-FF25-461F-8E81-76623ED45B5C}
+        {35A40E78-9F40-47D4-B179-560EB46F68E9}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8f3a4c4d-2551-475f-84eb-3388979ba21d"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Experience
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T230307Z

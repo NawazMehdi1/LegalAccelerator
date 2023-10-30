@@ -1,0 +1,38 @@
+﻿---
+ID: "d473098b-70f7-4756-9ad0-bec1c0266fbd"
+Parent: "d79171e1-e787-4e21-bcd5-fc32f74e8003"
+Template: "6f019e28-e4ab-452d-9192-2133dcab4021"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Sector Listing/$name/Data/Watch Now CTA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "072888a5-859c-4cde-990b-44ed93d9da85"
+      Hint: ReferenceItem
+      Value: "{28BDF779-C6DC-4C58-A491-4FB74A60E016}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230912T064045Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ba307d8-d1f4-4f83-89d3-2b89af6cb609"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "c773bd92-d263-4537-b5b6-1db17b59fead"
+      Hint: CallToAction
+      Value: |
+        <link text="Watch Now" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230912T064112Z

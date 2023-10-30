@@ -1,0 +1,46 @@
+﻿---
+ID: "50a2b2a5-efd2-413b-88d8-adf2b1b6c52e"
+Parent: "053f9036-3660-4089-8004-32a35db51ff9"
+Template: "25f18683-2f03-4776-ada3-6d2a76dbdf2d"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Podcast/sample-manual-podcast/Data/HTML Snippet2"
+BranchID: "45707b7b-35f1-4a5c-b913-7c40c228e8b4"
+SharedFields:
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9A83C37F-476C-417B-AD4A-2F3A83AE0073}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230921T121215Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be5de6b5-42ce-4d1a-9a95-dd4080e2e851"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T121215Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <p><iframe allowfullscreen="" height="412" mozallowfullscreen="true" msallowfullscreen="true" oallowfullscreen="true" scrolling="no" src="https://play.libsyn.com/embed/destination/id/522859/height/412/theme/modern/size/large/thumbnail/yes/custom-color/282828/playlist-height/200/direction/backward/download/yes" style="border: none;" title="Listen to previous episodes" webkitallowfullscreen="true" width="100%"></iframe></p>

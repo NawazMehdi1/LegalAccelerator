@@ -1,0 +1,29 @@
+﻿---
+ID: "f0229e12-a8c4-4be7-ad6b-c70c38ddf6bf"
+Parent: "cd9b22bd-86d5-4a2e-a692-1704ead69b4d"
+Template: "fe3ed608-1ae2-43fc-8d2b-24d173d9a56c"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Global Reach/Germany
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230823T093110Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Germany
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Germany
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a344bcd7-661b-444b-9ffb-d3ca0c9b19b8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230823T093110Z

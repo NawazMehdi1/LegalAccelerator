@@ -1,0 +1,40 @@
+﻿---
+ID: "68abdbdd-9d80-46dc-93a5-624b5edf774f"
+Parent: "26eb249f-2b1b-42c0-83b4-5f8625625115"
+Template: "03a6c600-87e8-4d9e-82e4-61cee0fbaf96"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Services/Product  Advertising/Data/See More
+BranchID: "a4ab0efe-c950-4a31-a022-59f1e75c3596"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{F48AD667-096B-4244-8AB5-2FA2ACD83B23}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230828T133541Z
+    - ID: "28f7149f-a85d-487a-a0a1-db7ef2c660c3"
+      Hint: SeeMore
+      Value: |
+        <link text="See More" anchor="" linktype="internal" class="" title=""  querystring="?services={0}" id="{AEB79B21-F32E-48EE-B8C6-E2A2DBFF0E5C}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17d74976-d008-4470-883c-ec48b542003d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231010T034548Z

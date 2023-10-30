@@ -1,0 +1,43 @@
+﻿---
+ID: "39863e3f-f77a-4ed9-b73d-34287ebf2af8"
+Parent: "efce742f-67e6-4348-a9b4-606aea00b303"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Feature/GowlingWLG/BaseTemplates/_SectorServicesBase
+SharedFields:
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {FA692362-92A6-47B1-89AC-878CCB1C2BBA}
+    {F2AACD78-A8D7-43BA-8AB7-7C916CD59061}
+    {78509BB5-EFF0-4CF1-8104-161286913BED}
+    {0DE79F00-5A45-42AC-B596-18333BAEB7B4}
+    {4A126E18-0AA2-4EFE-A96E-7B3CC16F8022}
+    {D89FEA49-31C4-42F2-AA5D-6C7BD7A16314}
+    {C11159C2-70DE-4336-B8E0-3CC47E7ECAE9}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230811T201156Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d666c071-9542-416f-bf15-1f03233b502e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230828T121845Z

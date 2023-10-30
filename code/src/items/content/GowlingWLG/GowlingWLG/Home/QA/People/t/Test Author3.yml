@@ -1,0 +1,2273 @@
+﻿---
+ID: "98f84fcb-588e-408d-843e-e995aaa21137"
+Parent: "dddc1056-f50d-4490-a239-0718d22ef4cd"
+Template: "9d6780dd-9cc1-42b6-a7f1-8c71cbd44baf"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People/t/Test Author3
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FC3AAE76-7301-4583-BBE2-463B8388DA3D}"
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{BF05516E-0F15-47BF-9600-238964262C28}|{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{EA25391C-2E25-484B-8C7E-C42729774A91}"
+- ID: "ed9ca782-3869-4b10-88e1-9da39a83a129"
+  Hint: profileImage
+  Value: |
+    <asset><![CDATA[{"type":"Assets","assets":[{"id":"1CAFB073-940E-411D-848E31BC42C7FE2B","name":"Janet Richardson","description":null,"assetType":"Image","createdAt":"2023-08-08T07:23:56Z","publishedAt":"2023-08-08T07:22:44Z","updatedAt":"2023-08-08T07:23:56Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/1604581e5ecedfbf/webimage-Janet-Richardson.png","width":361,"height":600,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/1604581e5ecedfbf/thul-Janet-Richardson.png","width":151,"height":250,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/1604581e5ecedfbf/mini-Janet-Richardson.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["gowling_wlg_people_photography"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{B870C208-6702-41AC-8810-6DD277A45BF9}"
+          p:before="*"
+          s:ds=""
+          s:id="{A5C0DDF3-2710-4D7F-9C94-F5288D16FC72}"
+          s:par="CSSStyles&amp;GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B307B3B96-3C8E-4CCC-BBEC-484D755C20BC%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/container-1/row-7-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{F6D0C8B9-2EB7-4F04-9F16-AB1AC2731A8E}"
+          p:after="r[@uid='{B870C208-6702-41AC-8810-6DD277A45BF9}']"
+          s:ds="{9D6A58F3-DC77-48F7-BBD2-128037177C18}"
+          s:id="{269321D9-62B2-4E3B-8D89-4A310EE7DDDD}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/container-1/row-6-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{E27E3CF3-6A52-4568-9286-92C9A0F1DB0B}"
+          p:after="r[@uid='{F6D0C8B9-2EB7-4F04-9F16-AB1AC2731A8E}']"
+          s:ds="local:/Data/BioAccordion"
+          s:id="{C3D0ABEE-8DDE-4C3E-8F28-8465D8D0818E}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/container-1/row-4-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{AFE1060F-B86C-479A-9B57-8AA73CB10383}"
+          p:after="r[@uid='{E27E3CF3-6A52-4568-9286-92C9A0F1DB0B}']"
+          s:ds="local:/Data/PeopleStats"
+          s:id="{30E3B0A3-33DF-45E2-82A9-57BFB101B1B2}"
+          s:par="CacheClearingBehavior=Clear%20on%20publish&amp;CSSStyles"
+          s:ph="/headless-main/container-1/row-2-2" />
+        <r
+          uid="{CD17C07D-1ACC-4179-A168-E17F60FD9D4E}"
+          p:after="r[@uid='{AFE1060F-B86C-479A-9B57-8AA73CB10383}']"
+          s:ds="local:/Data/QuoteBlock"
+          s:id="{7538610A-0A84-4C67-9FA2-1DF9EDED14AD}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/container-1/row-3-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+          p:after="r[@uid='{CD17C07D-1ACC-4179-A168-E17F60FD9D4E}']"
+          s:ds=""
+          s:id="{AFD7367D-8A24-4505-AB49-5695DA9B1B0E}"
+          s:par="CSSStyles"
+          s:ph="~/headless-main/container-1/row-1-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{411033C1-D71A-4F3B-A559-407C99557661}"
+          p:after="r[@uid='{6672285A-9D7D-4654-9922-2B28200CE560}']"
+          s:ds=""
+          s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4%2C5%2C6%2C7&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{212F7D52-5655-4AE0-9AF2-D2069D1CCDFB}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C70DE855-A9A3-4C2B-B457-A7A836F55B74}"
+Languages:
+- Language: "de-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f46b158-1515-40f7-b059-1fe9efb08d35"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074922Z
+- Language: "de-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be18b95b-6916-4f56-a81b-555c44643b1a"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074921Z
+- Language: "de-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7febcf5-8cd0-4fd6-ad14-f6088fcf7667"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074921Z
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4493c00a-ad46-4d21-9447-a3d9a48f83b9"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074921Z
+- Language: "de-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0b5190fe-5762-4e13-8e44-808d240a8c97"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074920Z
+- Language: "de-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "70bc22a8-9f86-4c17-959c-7f6913576ba1"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074920Z
+- Language: "de-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "54dcb974-f65e-465c-b126-81b289c22250"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074920Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group Head - Entertainment & Sports Law Group Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: 1234567890
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Debahuti Test
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{BF05516E-0F15-47BF-9600-238964262C28}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d3eb1a61-67e7-4b58-9d9e-fd1ed3d0a7da"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: Test Author2
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {BF3AFED6-5C43-42FA-BC05-BC184C4977B6}
+        {F5DE4EBB-303C-4182-B7DC-3548DAAEFDFF}
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074920Z
+- Language: "en-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c983a95-d386-422e-95b5-f19cf7b761d6"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074919Z
+- Language: "en-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "962a6714-88cc-475b-a0e4-6b59e482735f"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074919Z
+- Language: "en-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9164ad1b-d504-418b-b3e1-73714212e980"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074919Z
+- Language: "en-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d9d99fa6-e070-4a95-bf53-b84bb5ed6b5c"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074919Z
+- Language: "en-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e9cbaff4-da0b-493e-94c2-4fc742a3f97d"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074918Z
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1eb5bc19-e481-48ea-8913-60b74fde21d7"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074918Z
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "73645773-c019-445d-ad4a-3e054c230ec1"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074918Z
+- Language: "fr-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "62407792-7541-449b-873f-51e47c9abd1d"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074918Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4eb73365-aa5e-49a5-93ff-c25ed27a683b"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074917Z
+- Language: "fr-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d7922f7-b36f-46bf-a289-567fa736a066"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074917Z
+- Language: "fr-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5fd6715-5a14-47c3-b55c-4c0a35a3a58f"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074917Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "439700ac-f888-464e-ac69-cc48fdf201cf"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074917Z
+- Language: "fr-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "86ec40cd-d207-4fda-a3e2-8409e98421e3"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074917Z
+- Language: "fr-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{6672285A-9D7D-4654-9922-2B28200CE560}"
+              s:ph="/headless-main/container-1/row-1-2" />
+          </d>
+        </r>
+    - ID: "0a7fc939-d79b-4f27-a1df-0d44c55b449d"
+      Hint: ContactCTA
+      Value: |
+        <link text="Contact" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T181812Z
+    - ID: "399d2e10-6cc2-449c-9ade-95e9d2dc92f9"
+      Hint: Suffix
+      Value: "{995D24A0-627D-4844-B7E2-BA878C7682F7}"
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "48cf8fc5-67a6-4c80-9618-a7066476e6af"
+      Hint: Email
+      Value: janet.richardson@gowlingwlg.com
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Janet-Richardson"
+    - ID: "5a68b45e-d4b5-49f3-9723-18ffc2c56464"
+      Hint: Role
+      Value: "Head - Entertainment & Sports Law Group"
+    - ID: "672b99f0-89d9-46c8-a765-5385612545ae"
+      Hint: Phone1
+      Value: +1.555.435.6754
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+    - ID: "75b6dbc3-3a65-480e-bf19-4f0053150560"
+      Hint: Prefix
+      Value: "{783CD3D5-B74F-4E5D-A66A-88F4980EA5B9}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "Courtney-Mars"
+    - ID: "7a8d690d-bf7e-4928-9717-23e4cb6bb688"
+      Hint: ProfessionalTitle
+      Value: "{F4B035F0-960B-4B56-B40E-A47D7048ECB1}"
+    - ID: "8aa88f7e-acc3-45f9-8fa5-4d28953f866d"
+      Hint: Twitter
+      Value: |
+        <link linktype="external" url="https://twitter.com/" anchor="" target="_blank" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "304a203b-c95c-4295-8227-bb1b48e86264"
+    - ID: "8f542511-076a-4b85-b35f-a8b5e498e70d"
+      Hint: AlternateTitle
+      Value: "Courtney-Mars"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "b4b54aaf-67fe-420f-9c51-a39e2cd68d16"
+      Hint: LinkedIn
+      Value: |
+        <link linktype="external" url="https://in.linkedin.com/" anchor="" target="_blank" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "cf4725a5-f996-440b-8307-5513bb8c5412"
+      Hint: AdditionalOffices
+      Value: Riyadh
+    - ID: "d22aa73a-da04-4316-baef-b02a54e6255f"
+      Hint: Phone2
+      Value: +1.555.435.6754
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231026T074916Z

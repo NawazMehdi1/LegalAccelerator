@@ -1,0 +1,73 @@
+﻿---
+ID: "7c8a79e6-5a92-4dc2-9d30-e3d6c56a5500"
+Parent: "dd36c38a-513b-4012-9371-6e7e5ba67da2"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/Insights/RelatedTopics
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: RelatedTopics
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/graph_triangle.png
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query RelatedTopicsQuery($contextItem: String!,$datasource: String!, $language: String!) {
+      item(path: $contextItem, language: $language) {
+        name
+        relatedTopics: field(name: "Related Topics") {
+          ... on MultilistField {
+            targetItems {
+              name
+              title: field(name: "title") {
+                value
+              }
+              url {
+                path
+              }
+            }
+          }
+        }
+      }
+       datasource: item(path: $datasource, language: $language) {
+     
+        SeeMore: field(name: "SeeMore") {
+            ... on LinkField {
+              jsonValue
+            }
+          }
+      }
+    }
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: 
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/See All CTA Links
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T102241Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "189cc05e-1e7a-4e5f-bc67-a6758b1bcafb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230905T075208Z

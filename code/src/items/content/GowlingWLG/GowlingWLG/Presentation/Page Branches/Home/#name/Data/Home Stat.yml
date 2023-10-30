@@ -1,0 +1,30 @@
+﻿---
+ID: "633d22c4-15be-40eb-955b-d7467e7ce3c9"
+Parent: "e6e4e9bb-31d1-4b1c-9a11-bf9c175a13d2"
+Template: "05f5555d-b5d8-4fd9-9bab-f8ab76e46e32"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Home/$name/Data/Home Stat
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230602T200750Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5d5ad487-a6a1-4110-8fd2-1f4437158c7e"
+    - ID: "bac87508-7417-423f-9a94-9378596c2b3c"
+      Hint: SelectedStats
+      Value: |
+        {EBD80517-3627-48DA-970A-60D0FE1B10B6}
+        {245FAD8A-69C3-448E-A68F-2896633CE1A6}
+        {75BA3A0D-3C76-4458-82C2-406E3E20D910}
+        {DCFA6767-4A58-4E8A-84DF-FB452B460416}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230908T113331Z

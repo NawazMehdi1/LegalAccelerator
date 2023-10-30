@@ -1,0 +1,47 @@
+﻿---
+ID: "1a0476d0-cc33-4393-b243-40eff6c7405c"
+Parent: "97ad2b2c-c4e6-47db-aca9-19a05e51d7f0"
+Template: "1be47dc8-ae4e-40c9-b4c5-0102d8da1a37"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/Career/Data/Search Job FAQ/panel 3
+BranchID: "6fa45745-6d1b-46b6-ab78-fd13fab18508"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{39D39910-765D-4648-8ACF-87D879AA30EF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b64d01b-78cd-4e06-83ea-59b5827aac4d"
+      Hint: Description
+      Value: |
+        <strong style="color: #000000; background-color: #ffffff; margin: 0px; padding: 0px; text-align: justify;">Lorem Ipsum</strong><span style="color: #000000; background-color: #ffffff; text-align: justify;">&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</span>
+    - ID: "23d761fa-5cdc-48b9-bfaa-e1865d4eff08"
+      Hint: Title
+      Value: Review Resume
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230908T102711Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1b577442-fe89-475d-8cab-c5080a811efb"
+    - ID: "ac511b8a-fc0e-4bf9-b980-463b837da1e1"
+      Hint: CTA
+      Value: |
+        <link text="Explore experience opportunities" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230908T102711Z

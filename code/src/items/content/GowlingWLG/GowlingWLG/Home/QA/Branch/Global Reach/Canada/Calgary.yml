@@ -1,0 +1,58 @@
+﻿---
+ID: "e54319e8-fdc9-4130-b97b-0db9a2582e5d"
+Parent: "f7c016d2-8f4f-4014-b156-23e380bc8ebf"
+Template: "6d35d469-9e90-4d14-b1a9-b675fe74b532"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Branch/Global Reach/Canada/Calgary
+BranchID: "e3f094de-6b2c-47fa-8d1b-b45315d90a9d"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230908T131627Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Toronto
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "677f702d-0684-43d2-b3d6-ae82a9f1d27b"
+      Hint: Map URL
+      Value: |
+        <link text="Home" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "6ec9ffbb-3776-480c-beb3-86bbba8e505e"
+      Hint: Address 1
+      Value: 100 King Street West
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Calgary
+    - ID: "7b3a57cb-ee07-44b6-aa47-63424a0fd2ef"
+      Hint: Address 3
+      Value: 100 King Street West 2
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "25463aee-9f3a-4f3a-9d75-dc1ac0b21a9f"
+    - ID: "9143fd75-9a22-4049-9e7a-771637a55393"
+      Hint: Address 2
+      Value: 100 King Street West 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "c3c01440-7053-4507-9a15-f5ba3822d1c1"
+      Hint: City
+      Value: Calgary
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230928T111955Z

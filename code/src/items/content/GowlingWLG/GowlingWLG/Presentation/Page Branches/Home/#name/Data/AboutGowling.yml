@@ -1,0 +1,37 @@
+﻿---
+ID: "da5f7668-03d3-4845-be44-d5811f4864ec"
+Parent: "e6e4e9bb-31d1-4b1c-9a11-bf9c175a13d2"
+Template: "2cd04a03-daa5-4ce2-a0b2-59ca8ba9f45d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Home/$name/Data/AboutGowling
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03201255-a0a8-411e-9fd9-be0878925cd3"
+      Hint: Description
+      Value: Gowling WLG is an international law firm built on the belief that the best way to serve you is to be in tune with your world, aligned with your opportunity and ambitious for your success.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230603T002332Z
+    - ID: "63cc1182-f9fb-48ee-9161-9a78eecbbf1e"
+      Hint: AccordianList
+      Value: |
+        {10BCFD53-0A23-4E60-9C98-220DC4068A44}
+        {AE438075-8D17-4FC6-B0A8-A1EE9752FB48}
+        {D0723321-8761-4164-BF74-D13E6DCD7142}
+        {AC28B21D-FF41-483A-8726-349E5079FC87}
+        {FA5DBE5B-5AA9-4D83-9E89-C4152463E862}
+    - ID: "64fca717-66fe-4fe9-9081-3d8b555b6e29"
+      Hint: Title
+      Value: About Gowling WLG
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6f17a996-6d58-4cda-b0e4-3bbd62e719a7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230908T113256Z

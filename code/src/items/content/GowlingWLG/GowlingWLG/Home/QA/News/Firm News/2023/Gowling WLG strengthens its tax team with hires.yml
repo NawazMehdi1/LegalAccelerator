@@ -1,0 +1,32 @@
+﻿---
+ID: "79dcfd91-38d1-4db6-afba-b93927a48b66"
+Parent: "23dd6ec7-cf21-4c9f-b71a-f79c75a38537"
+Template: "4b14531d-ec0c-4f8e-9c06-cfd9ffc774e2"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/News/Firm News/2023/Gowling WLG strengthens its tax team with hires
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01fc6a99-6cdc-4421-a454-cc507d8593ab"
+      Hint: Page Summary
+      Value: Gowling WLG has strengthened its UK tax practice with the appointment of two new partners.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230726T131922Z
+    - ID: "814b7a52-7825-49fe-821a-9de1a67387f9"
+      Hint: Page Title
+      Value: Gowling WLG strengthens its tax team with hires
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4af9867f-e3c6-4440-846f-05ba370eb177"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d684bad1-6cc5-4953-ad40-b6dd3a816745"
+      Hint: Date Published
+      Value: 20230727T183000Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230728T065440Z

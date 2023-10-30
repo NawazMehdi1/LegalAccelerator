@@ -1,0 +1,75 @@
+﻿---
+ID: "67057437-bf2c-4272-9635-3847def14e52"
+Parent: "61693359-7a1b-4634-8fa1-28cca0bcd834"
+Template: "f4169a94-04ad-453c-9ead-9bc6875cfe9d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/Header Navigation Data/Jurisdictions/United Arab Emirates
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230619T115438Z
+    - ID: "260625cc-39b2-47d8-bb3d-874f36c0023c"
+      Hint: Name
+      Value: United Arab Emirates
+    - ID: "8c34d770-ebd4-46ea-a34b-b64e95944003"
+      Hint: Code
+      Value: AE
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "168b58a4-727b-4fef-b86c-eaa58dadedb4"
+    - ID: "b05556f9-cab6-442b-a231-5ce134b32b9b"
+      Hint: LanguageMapping
+      Value: "{E9D23EDE-35B5-48EF-9A43-730C742136EF}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "c5a9cda2-0df6-4e59-921a-7cec248b52fb"
+      Hint: Flag
+      Value: |
+        <image mediaid="{CBA9F634-39F5-4BEB-A96F-8D03B4FD23FB}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231005T120634Z
+    - ID: "fd3b0012-5661-48b0-bf69-7ebd9620e9ef"
+      Hint: FlagMobile
+      Value: |
+        <image mediaid="{5CC6BA23-701B-4267-8E1E-BE6D54B7455C}" />
+- Language: "fr-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230921T090011Z
+    - ID: "260625cc-39b2-47d8-bb3d-874f36c0023c"
+      Hint: Name
+      Value: Émirats Arabes Unis
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "8c34d770-ebd4-46ea-a34b-b64e95944003"
+      Hint: Code
+      Value: AE
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72062f1c-fb24-4f3f-90b3-35ba15f7f709"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "c5a9cda2-0df6-4e59-921a-7cec248b52fb"
+      Hint: Flag
+      Value: |
+        <image mediaid="{CBA9F634-39F5-4BEB-A96F-8D03B4FD23FB}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T090035Z

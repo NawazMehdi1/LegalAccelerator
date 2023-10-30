@@ -1,0 +1,40 @@
+﻿---
+ID: "2c429a0d-f196-4157-85d1-39875a9516a0"
+Parent: "ba84fad5-29da-4411-941a-ef22821376f9"
+Template: "b960cbe4-381f-4a2b-9f44-a43c7a991a0b"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/ECAAPI/RSS/Resources
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16cc56dd-27f5-4839-b790-dbbd9aca882c"
+      Hint: Title
+      Value: Gowling WLG Resources RSS Feed
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230727T063647Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "72c481b9-f789-4457-838f-2329eb8469c2"
+      Hint: Source
+      Value: "/sitecore/content/GowlingWLG/GowlingWLG/Home/Insights-Resources"
+    - ID: "770878c5-ee73-4967-aff5-d0f402523fdf"
+      Hint: Description
+      Value: Gowling WLG Resources RSS Feed
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1317fd94-a664-473e-ad4b-b53f74d41238"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230728T070523Z

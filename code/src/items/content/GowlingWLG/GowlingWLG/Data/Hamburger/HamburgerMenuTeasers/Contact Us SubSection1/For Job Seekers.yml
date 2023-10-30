@@ -1,0 +1,44 @@
+﻿---
+ID: "adab7784-9fa6-487c-94ac-bb3b4a50d434"
+Parent: "e8426c9f-064d-4cbd-9a1f-e1ebedcc2bc7"
+Template: "03ae9d27-64a3-4939-be65-7dc133381460"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/Hamburger/HamburgerMenuTeasers/Contact Us SubSection1/For Job Seekers
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b804da3-0e7b-4902-8619-09a2ed552331"
+      Hint: Image
+      Value: 
+    - ID: "24269fb4-3b18-42d1-b5cc-6ea87e53bd1a"
+      Hint: Title
+      Value: For Job Seekers
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230619T110808Z
+    - ID: "44c9952c-390f-49e2-89e1-ece3f52317e0"
+      Hint: CTA
+      Value: |
+        <link text="See Careers" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "493f0353-2998-43a4-87db-2599d04ba935"
+      Hint: Description
+      Value: Nulla vitae elit libero, a pharetra augue. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b90825d8-7580-4252-a623-fe62a00368d2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230727T134448Z

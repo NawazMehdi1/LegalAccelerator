@@ -1,0 +1,60 @@
+﻿---
+ID: "8f8b1364-d92d-4d17-9357-bc55467d079b"
+Parent: "36fcf4ac-f32e-4731-a9e4-37c83b5f6c45"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/GowlingWLG/GowlingWLG/RegionIcons/canada
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/8F8B1364D92D4D179357BC55467D079B.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 94
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "f1d18b7b-f5d1-410d-825d-577ef3929cbc"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAF4AAABCCAYAAADexmGOAAAEQklEQVR4nO2aTW7bRhTH/2/EAN2VamoERU13ClOAd5VuIJ2gzgmsnCC5Qd0T5Ah2TyDnBFZPEHYXwCo8jbIpZJXstibndSEpkhwr+qQeGcxvQ5AezTz9PHrzRRoGISMXyDzt3/yYT935MwxqtwDrPOp+2u+RyqNix3KceCGceCGceCGceCGceCGceCGceCGceCGceCGceCGceCFKKz7Wtbp0DNtQSvGxPtE24+tYn2jpWDallOJtlv0CwB9fS0npxI96ObdHd9we6LApGM7GlE68zdKL2XuVoZS9vtDiB4dhczaP3wW1NoDmg2LN2V4f6xM9OCz+r6DQ4olI2yy9HQa1izg4PiU83rtVRhdxcHz6z1H42mbprVKo7znUtfGkA/gclQoimwEAty2oDSw6HmZtQZ3Jn61CtJcAt6DQPR64N5t8ykMa7TaO3VNo8VVjEvCavZcQVY1JcglohxRaPABYRX+sU54t/sorll1SKPF3Qa09CI5PZ58pcLROHaTQnb2PddgcHoWvto1t14iIj3XYjLX2Hz4n8JkCXfz9/XQfxtr1Us3swDraWkAHjJ8/jUH7seDiS2RWk1pqK/bOhkHNEDhiwu8K+NryaI7uKXRifdKqmnfG89LIZquHORlYR9KzawA+gObwKDwHkIDpJwKaNmPNjDfA/C9kX4iIJ0YXwBnAmgENxqmdK8HaZtn1RP4wqJkVX6dLqsYkU+kzn+HJGoCnk1Kiqy2/ysaIpJpKpdJdXoo1p2knfpDzlxHrWt2maWeVf9RqceSDiPiqeWcAMsvKMaFuQStJHOPbjN+CVli5EplRHDLIzWrIvhFrGwBYJrdPEJxOLu/x+TbPa60Pds3eB9dYax/We2kZr/bd9hxML++CWvJt/+ZSovm99/j/8ESPNrzg77vteVgT8Wups9u9i39mbiKlKi2QdKoho5TXqJqbSKJ5sVmNUvcNC/pNon0CrpS6b0jOasT248c7iO3BYWgU7e/4zhJ+PXjfO99Xe4sQ3yQ7+NA7t+DnICS5NkRIUtCLIkgHCiAeAA76f14p5TVyy/tERilqPROawTxGIcQDk7xfaWH3m1ZdpSotqUF0EYU6cx0Pdq1hEF7j07cJ1oaAq2/6vefb1pMHhenx8+wm5TBzYU+jCip+QW8nJESIPo4FH+8XDMxEZ/mEtz2FSjXA6ACDbZow0yWz/RekoqyCyKKSfDeed8da+9Y+eTvK3dNnaerVlUKdLWtF9AMIeqDD5oHpdQW/0qMUTvxYZOPzZUwyPAyT6vvpAmi8LuhC6ERpXYqaapazyp57gSmv+JJTavGPvalQFkopfvoG8Ve+ZBzbUErxXwIlFZ/589fyUU7xKfsAkGJ0LSPlFO95BqBLe0+JdCibUrgF1CqMF1kvpOPYhnL2+C8AJ14IJ14IJ14IJ14IJ14IJ14IJ14IJ14IJ14IJ14IJ16I/wF4BHxU+CRomwAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1147
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 94 x 66
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 66
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230619T132018Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Canada
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "463e008e-d7f8-4e4b-83e3-1d84126aa133"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230619T144519Z

@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\GWLG Client Work Approver
+MemberOf:
+  Role: |
+    sitecore\GWLG Base Approver

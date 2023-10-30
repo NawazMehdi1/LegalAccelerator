@@ -1,0 +1,33 @@
+﻿---
+ID: "5cdc3010-d60d-4d49-94a1-1fa1e804f88e"
+Parent: "89cdf442-72dd-4a0c-b291-0be687367e87"
+Template: "a758b4eb-ef0a-4752-a0ab-ba876fd886ec"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/ArticleDetail/Data/StatsWithCTA/StatsColumn1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230901T070117Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d947fd4c-81ac-4537-8a43-25adc2e089f8"
+    - ID: "91e71295-de0c-4399-85fe-a281f80f6207"
+      Hint: Title
+      Value: 1500+
+    - ID: "b3faaff6-7ede-4283-a81a-64aa4d525e1b"
+      Hint: CTALink
+      Value: |
+        <link text="Events" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{B634FFBB-849B-4AFE-ABF6-67D720633D79}" />
+    - ID: "b9efc3a5-7a42-4c01-9aee-4054fdef9597"
+      Hint: Description
+      Value: Legal Professional worldWide
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230920T121949Z

@@ -1,0 +1,95 @@
+﻿---
+ID: "81ecb857-367e-48c4-8e80-35413b690860"
+Parent: "df3f6ad0-2b6f-474d-a688-dc56dde9b1f7"
+Template: "ca295d2d-fc88-4564-af21-cc1fe4cdfd6d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/News
+BranchID: "e2e907f5-5008-4c2a-ad2f-0548a9944ee9"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/scroll.png
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{7276CA91-2F78-4FA8-BC5C-D591FDCB5D5D}"
+          p:before="*"
+          s:ds="local:/Data/Hero Banner"
+          s:id="{73246A93-D7E9-4088-8C26-10993148BBEB}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;CTABackgroundColor&amp;FieldNames=%7BC914FEDD-BF69-445E-BCA8-EB8E66277E89%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/container-1"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{1D015BB9-0004-45A7-99EC-48E12DC3412A}"
+          p:after="r[@uid='{7276CA91-2F78-4FA8-BC5C-D591FDCB5D5D}']"
+          s:ds="{1C6835CC-725E-4FE5-BBF1-A8600503BC0C}"
+          s:id="{C584C1BC-ABDC-4F5F-8AD9-6593A3FB9D32}"
+          s:par="CSSStyles&amp;GridParameters&amp;Rfk id=rfkid_10&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/container-1"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{71A23F4F-19E1-477D-ABE0-BD38B9F3F5C9}"
+          p:after="*[1=2]"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{275E847C-9CD7-44EB-B0F4-EAADB68A3114}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0cbc6e2a-e7ca-4f1a-8cc8-48e6156f9e3c"
+      Hint: BackgroundImage
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"AEA5A06D-32EA-475B-B20C0A48A15AE318","name":"Zoom Background","description":null,"assetType":"Image","createdAt":"2020-04-21T16:15:45Z","publishedAt":"2020-04-21T08:13:05Z","updatedAt":"2020-07-16T18:55:49Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/4ea19e3059326316/webimage-Zoom-Background.png","width":800,"height":450,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/4ea19e3059326316/thul-Zoom-Background.png","width":250,"height":141,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/4ea19e3059326316/mini-Zoom-Background.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["hero_images"],"extension":["jpg"],"Asset_Type":["imagery"]}}],"file":null,"overrideAltText":null}]]></asset>
+    - ID: "0d88eec5-b6af-4dd8-91e2-7923905c22a5"
+      Hint: SubTitle
+      Value: |
+        <span style="color: #212529; background-color: #ffffff;">Lorem ipsum dolor sit amet. Et quis odio et ratione repellat qui impedit nemo cum maxime magni. Ea placeat earum et soluta consequatur sed voluptatem incidunt ut galisum provident et voluptatem consequatur! At similique dolor et beatae minima rem ipsam officia. Sed sint corrupti qui dolores soluta id laborum architecto cum nisi reprehenderit nam cupiditate blanditiis cum voluptas molestiae.</span>
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value: |
+        <span style="color: #212529; background-color: #ffffff;">Lorem ipsum dolor sit amet. Et quis odio et ratione repellat qui impedit nemo cum maxime magni. Ea placeat earum et soluta consequatur sed voluptatem incidunt ut galisum provident et voluptatem consequatur! At similique dolor et beatae minima rem ipsam officia. Sed sint corrupti qui dolores soluta id laborum architecto cum nisi reprehenderit nam cupiditate blanditiis cum voluptas molestiae.</span>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230921T145036Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: News
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: News
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "46d8fd0d-fbf3-460d-91a2-f028dd54cb49"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d5d97d87-81b1-4b48-8d2f-d336d999dace"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"27CC8AC2-7D65-4F26-AC6884E9AB39BF4B","name":"Lightly Branded 2 Zoom Background","description":"Zoom Backgrounds","assetType":"Image","createdAt":"2020-05-07T16:16:17Z","publishedAt":"2020-04-21T08:13:05Z","updatedAt":"2023-09-26T10:15:15Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/753bb329707eb715/webimage-Lightly-Branded-2-Zoom-Background.png","width":800,"height":450,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/753bb329707eb715/thul-Lightly-Branded-2-Zoom-Background.png","width":250,"height":141,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/753bb329707eb715/mini-Lightly-Branded-2-Zoom-Background.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Tags":["Zoom background"],"Asset_Subtype":["Zoom_background"],"extension":["jpg"],"Asset_Type":["imagery"]}}],"file":null,"overrideAltText":null}]]></asset>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231019T092001Z

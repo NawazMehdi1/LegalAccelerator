@@ -1,0 +1,51 @@
+﻿---
+ID: "c011ee25-e77b-4228-973c-7778aedfbca8"
+Parent: "bb24d9b8-fb8c-4485-b6fc-53ae1e4c0ba3"
+Template: "8c9e0755-0dd1-4418-9e3a-d2fee09173af"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People/j/John-Peter/Data/AccordionDataItems/Community/Events"
+BranchID: "8b85ba3a-7ded-4e46-aec4-2f21991c8712"
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{974BA635-E8D8-4030-8D87-20F8E75B4348}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0aec6ae6-b4cc-4660-ac53-4eb2ce0b1ed0"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "83deb38c-24c5-41a3-acb8-23a897bdb040"
+    - ID: "b8da4343-d55e-4587-9d5c-d524f94fbe8e"
+      Hint: CommunityName
+      Value: CommunityName
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d8316657-f6cc-4eb4-8417-c3b7b39b953f"
+      Hint: EndYear
+      Value: 2023
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z

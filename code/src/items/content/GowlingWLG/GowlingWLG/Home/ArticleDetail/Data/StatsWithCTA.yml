@@ -1,0 +1,29 @@
+﻿---
+ID: "89cdf442-72dd-4a0c-b291-0be687367e87"
+Parent: "71c28bd6-e731-42bd-a723-b4629fe1337b"
+Template: "91b93b0e-e52d-45be-bc45-2e9d9c9f0856"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/ArticleDetail/Data/StatsWithCTA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230901T065948Z
+    - ID: "65fb1e86-d39f-4f9f-91e1-ee3e5b0c9495"
+      Hint: SelectColumns
+      Value: |
+        {5CDC3010-D60D-4D49-94A1-1FA1E804F88E}
+        {5287D1C6-B4D6-4520-B630-F7BCF40DDD76}
+        {C9C418AF-D46F-491C-938E-653D7FB35E7D}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c2c930b0-6298-4375-b1d8-99165e57acf7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230907T133717Z

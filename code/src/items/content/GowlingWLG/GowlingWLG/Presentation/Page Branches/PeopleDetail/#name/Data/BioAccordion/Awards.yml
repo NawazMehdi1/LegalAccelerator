@@ -1,0 +1,33 @@
+﻿---
+ID: "c4b2dfe0-9ebb-4c88-8096-efb6227fe1e5"
+Parent: "7edc82ac-de36-441a-873b-f4e057de5307"
+Template: "a0a28aa6-11ee-4dec-a76b-3e0f3ff28e0d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/PeopleDetail/$name/Data/BioAccordion/Awards
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230627T152456Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "48a32ac9-7592-4ab1-bbc1-f398a9a5a2f3"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Awards
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230823T100211Z

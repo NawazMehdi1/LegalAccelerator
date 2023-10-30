@@ -1,0 +1,33 @@
+﻿---
+ID: "3938c369-3cc7-4105-9066-3818d504d28c"
+Parent: "97b95bb6-09ae-4111-847a-ff8864baa2e0"
+Template: "cb3b3906-be80-4d9b-a2a4-038193da5422"
+Path: /sitecore/system/Settings/Feature/GowlingWLG/GwlgTailwind/Small/Vertical Alignment/Bottom
+SharedFields:
+- ID: "39816442-74d9-4ce2-beb3-128b204efd40"
+  Hint: Icon
+  Value: "align-component-right rotate"
+- ID: "55c117ef-46c0-4cdc-a309-82419983fd42"
+  Hint: NonNumeric
+  Value: 1
+- ID: "591c584f-08a7-4dc6-9d58-1de178c404a2"
+  Hint: Class
+  Value: "sm:self-end"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220817T131853Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ea68863-94f4-4660-b270-b648446f781d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230614T233432Z

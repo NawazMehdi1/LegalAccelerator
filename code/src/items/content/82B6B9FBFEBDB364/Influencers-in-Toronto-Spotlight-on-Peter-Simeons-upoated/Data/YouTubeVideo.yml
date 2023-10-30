@@ -1,0 +1,64 @@
+﻿---
+ID: "9c92f8e0-f995-45a0-ac37-17434c570524"
+Parent: "3fb3ecd5-15f1-4203-b380-3d62530ace6d"
+Template: "9a81445c-8d62-4269-be73-136df6f86997"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Videos/Influencers-in-Toronto-Spotlight-on-Peter-Simeons-upoated/Data/YouTubeVideo"
+BranchID: "eb5af71f-20da-4286-82ff-131f53a8d24d"
+SharedFields:
+- ID: "39c4902e-9960-4469-aeef-e878e9c8218f"
+  Hint: __Hidden
+  Value: 0
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E9B424DB-0B8D-4EC4-92E8-6329315A0F28}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "20b4a65e-75bb-4ab9-abc8-0312e019baf4"
+      Hint: VideoTitle
+      Value: Influence in Toronto Spotlight on Peter Simeons
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230802T223652Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "6c642084-0c24-4c05-9fdb-ad9651ccf263"
+      Hint: TileCTA
+      Value: |
+        <link class="" querystring="" id="{6D01617F-59D2-4C78-87AA-FD7BB4B366F2}" anchor="" target="" title="" linktype="internal" text="" url="/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Videos/Influencers-in-Toronto-Spotlight-on-Peter-Simeons-upoated" />
+    - ID: "767f713b-2a11-49db-a37e-40f703891fde"
+      Hint: VideoDescription
+      Value: Influence in Toronto Spotlight on Peter Simeons Influence in Toronto Spotlight on Peter SimeonsvInfluence in Toronto Spotlight on Peter SimeonsInfluence in Toronto Spotlight on Peter Simeons Influence in Toronto Spotlight on Peter SimeonsInfluence in Toronto Spotlight on Peter SimeonsInfluence in Toronto Spotlight on Peter Simeons vInfluence in Toronto Spotlight on Peter SimeonsInfluence in Toronto Spotlight on Peter SimeonsInfluence in Toronto Spotlight on Peter SimeonsInfluence in Toronto Spotlight on Peter SimeonsInfluence in Toronto Spotlight on Peter Simeons
+    - ID: "804d23e3-8823-4570-b8ff-072e3e24b081"
+      Hint: VideoId
+      Value: ikYWfBqaKtI
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "77a47168-1ecc-4ad4-b4d4-c9cdee11e486"
+    - ID: "93ec7e90-0245-4a07-b5fa-661800a6861b"
+      Hint: TranscriptText
+      Value: My name is Stephanie Harvey and I am a corporate/commercial lending lawyer with Gowling WLG. You are watching video one of our 'Types of Security' video series. As the name suggests, each video in this series will discuss different security that a lender should consider when putting its security package together.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231010T072341Z

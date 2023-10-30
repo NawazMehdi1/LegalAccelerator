@@ -1,0 +1,59 @@
+﻿---
+ID: "e80c9886-b952-4500-8c52-eb4bd8058ae2"
+Parent: "e25e01ce-d8b9-49a6-987a-5e40d16d300f"
+Template: "e25e01ce-d8b9-49a6-987a-5e40d16d300f"
+Path: /sitecore/templates/Project/GowlingWLG Site/Page Templates/VideoDetail/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {C8E1EB5D-883A-441A-8367-28C967EA8C8E}
+    {1C82E550-EBCD-4E5D-8ABD-D50D0809541E}
+    {725DAC3E-340F-4CF3-ADAD-3CEEFA701CD1}
+    {95D55B3E-6BD9-4FCC-B513-007D6C6652B8}
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 1
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{96E5F4BA-A2CF-4A4C-A4E7-64DA88226362}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230627T124547Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a15d7fc4-66cf-4caa-bada-5990a3497477"
+    - ID: "9e261863-71b1-4e26-b660-6da87d2fc726"
+      Hint: PageType
+      Value: "{B9145F94-C7D3-4EEA-AB7B-EE61AD0EB9F1}"
+    - ID: "b6e20f3d-c0a0-4a17-9d3b-c15ebc67d6d9"
+      Hint: CategoryType
+      Value: "{A9A8F9C3-1DC4-4DC7-8B22-613A9F57E079}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230812T004405Z

@@ -1,0 +1,44 @@
+﻿---
+ID: "eb89d258-fd43-40ef-85ad-b397524efd38"
+Parent: "f7941e6e-ee5c-4d54-a9c2-bfc9411b8da0"
+Template: "aff2c22e-7d16-41f6-a1d1-4c5dc844930a"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Branch/Career/Data/MainMenu/Students/Vacation schemes
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1cbf2a64-1e53-4f41-803e-f4b876f86ddf"
+      Hint: HasSubMenu
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230926T104514Z
+    - ID: "304cfb18-5bfc-4c0a-8101-9ebcaa7a3611"
+      Hint: Link
+      Value: |
+        <link text="Vacation schemes" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1f8be18f-5803-4303-b511-028e09b79d6f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230926T105302Z
+    - ID: "f6c8535a-d0ac-4920-b287-4a3d0f3ce312"
+      Hint: SubMenuItems
+      Value: |
+        {B6BC8885-3DA5-4B1B-86BF-02C95F6C0AF0}
+        {52520955-138D-4F0C-8B46-E102DB590211}
+        {4A675F03-3F60-4509-AA14-10D17FE84A13}

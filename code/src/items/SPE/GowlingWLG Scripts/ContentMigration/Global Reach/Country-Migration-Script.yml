@@ -1,0 +1,396 @@
+﻿---
+ID: "67a15c09-efe9-417b-90e5-fb87ac35ef87"
+Parent: "a00bbd34-02b4-49d3-931d-237fbd236396"
+Template: "dd22f1b3-bd87-4db2-9e7d-f7a496888d43"
+Path: "/sitecore/system/Modules/PowerShell/Script Library/GowlingWLG Scripts/ContentMigration/Global Reach/Country-Migration-Script"
+SharedFields:
+- ID: "b1a94ff0-6897-47c0-9c51-aa6acb80b1f0"
+  Hint: Script
+  Value: |
+    $LandingPageItemPath = '/sitecore/content/GowlingWLG/GowlingWLG/Home/Global Reach'
+    $PageTemplateID = '{4A96FBB3-7386-4E8E-8D63-3EFD39E228D8}'
+    $csvFilePath = '/sitecore/media library/Project/GowlingWLG/GowlingWLG/ContentMigration/Office/CountryPages_CMSTree'
+    $DataFolderPath = '/sitecore/content/GowlingWLG/GowlingWLG/Data'
+    $StartItemPath = '/sitecore/content/GowlingWLG/GowlingWLG/Home'
+    $LocationsPath = '/sitecore/content/GowlingWLG/GowlingWLG/Data/Tags/Locations'
+    $TagTemplateID = '{6B40E84C-8785-49FC-8A10-6BCA862FF7EA}'
+    $AuthorsRenderingID = '{10351392-40DB-4A8A-A9EA-CC8EDEC0AF0F}'
+    $CountryTemplateID = '{FE3ED608-1AE2-43FC-8D2B-24D173D9A56C}'
+    $MediaContactsTempID = '{2984BB6F-8203-4EF9-A0EE-257BA70E9BE7}'
+    
+    function ImportList($csvFilePath){
+        $media = Get-Item -Path $csvFilePath
+        # get stream and save content to variable $content
+        [System.IO.Stream]$body = $media.Fields["Blob"].GetBlobStream()
+        try    
+        {
+            $contents = New-Object byte[] $body.Length
+            $body.Read($contents, 0, $body.Length) | Out-Null
+        } 
+        finally 
+        {
+            $body.Close()    
+        }
+        
+        # convert to dynamic object
+        $importList = [System.Text.Encoding]::Default.GetString($contents) | ConvertFrom-Csv -Delimiter ","
+        return $importList;
+    }
+    
+    function CreateItem{
+        [cmdletbinding()]
+        param ( 
+                $name, $id=0, $language, $template, $parentItem, $createItem=$true, $srcLang='', $isRecurse = $false
+            )
+            write-host('CreateItem $name=' + $name + ' $id='+$id+' $language='+$language+ ' $template='+$template+' $parentItem='+$parentItem+' $createItem='+$createItem)
+            if($isRecurse){
+                if(gci -path $parentItem -language $language -recurse | where-object{$_.'TemplateID' -eq $template -and ($_.Name -eq $name -or $_.ID -eq $id)} -ErrorAction SilentlyContinue){
+                    write-host('existing language')
+                    $Item = gci -path $parentItem -language $language | where-object{$_.Name -eq $name -or $_.ID -eq $id}
+                    
+                }
+                #if the Item is present but not with the particular language
+                elseif(gci -path $parentItem -recurse | where-object{$_.'TemplateID' -eq $template -and ($_.Name -eq $name -or $_.ID -eq $id)} -ErrorAction SilentlyContinue){ 
+                    if($srcLang -eq ''){
+                       $languageVersions = gci -path $parentItem -language * | where-object{$_.'TemplateID' -eq $template -and ($_.Name -eq $name -or $_.ID -eq $id)}
+                       $existingLanguage = ''
+                       foreach($languageVersion in $languageVersions){
+                           $existingLanguage = $languageVersion.Language
+                           break
+                       }
+                       
+                       $Item = gci -path $parentItem -recurse | where-object{$_.'TemplateID' -eq $template -and $_.Name -eq $name -or $_.ID -eq $id} | Add-ItemLanguage -Language $existingLanguage -TargetLanguage $language
+                    }
+                    else{
+                        $Item = gi -path $id | Add-ItemLanguage -Language $srcLang -TargetLanguage $language
+                    }
+                }
+                elseif($createItem){
+                    if($id -ne 0){ 
+                        write-host('Force id')
+                        $Item = ni -Path $parentItem -ItemType $template -Name $name -ForceId $id -language $language
+        
+                    }
+                    else{
+                        write-host('path')
+                        $Item = ni -Path $parentItem -Name $name -ItemType $template -language $language 
+                        write-host($Item.fullpath)
+                    }
+                    
+                }
+            }
+            else{
+                if(gci -path $parentItem -language $language | where-object{$_.Name -eq $name -or $_.ID -eq $id} -ErrorAction SilentlyContinue){
+                    write-host('existing language')
+                    $Item = gci -path $parentItem -language $language | where-object{$_.Name -eq $name -or $_.ID -eq $id}
+                    
+                }
+                #if the Item is present but not with the particular language
+                elseif(gci -path $parentItem | where-object{$_.Name -eq $name -or $_.ID -eq $id} -ErrorAction SilentlyContinue){ 
+                    if($srcLang -eq ''){
+                       $languageVersions = gci -path $parentItem -language * | where-object{$_.Name -eq $name -or $_.ID -eq $id}
+                       $existingLanguage = ''
+                       foreach($languageVersion in $languageVersions){
+                           $existingLanguage = $languageVersion.Language
+                           break
+                       }
+                       
+                       $Item = gci -path $parentItem | where-object{$_.Name -eq $name -or $_.ID -eq $id} | Add-ItemLanguage -Language $existingLanguage -TargetLanguage $language
+                    }
+                    else{
+                        $Item = gi -path $id | Add-ItemLanguage -Language $srcLang -TargetLanguage $language
+                    }
+                }
+                #if the id is a path and not an GUID
+                elseif($createItem){
+                    if($id -ne 0){ 
+                        write-host('Force id')
+                        $Item = ni -Path $parentItem -ItemType $template -Name $name -ForceId $id -language $language
+        
+                    }
+                    else{
+                        write-host('path')
+                        $Item = ni -Path $parentItem -Name $name -ItemType $template -language $language 
+                        write-host($Item.fullpath)
+                    }
+                    
+                }
+            }
+            return $Item
+    }
+    
+    function NullCheck($value){
+            
+            $val = if($value -eq 'NULL' -or $value -eq 'null' -or [string]::IsNullOrEmpty($value) -or $value -eq '0' -or $value -eq 0){''}else{$value}
+            return $val
+    }
+    
+    function DataItemsMapping{
+        [cmdletbinding()]
+        param (
+            $CurrItem, $ItemName, $ItemTempID, $FieldValue, $fieldName, $ifCurrItem=$false
+            )
+            if($ifCurrItem){
+                $Item = gi -path $CurrItem.ID -language $language
+            }
+            else{
+                $Item = $CurrItem | get-childitem -recurse | where {$_.Name -eq $ItemName -and $_.'TemplateID' -eq $ItemTempID}
+            }
+            $Item.Editing.BeginEdit()
+                $Item[$fieldName] = $FieldValue
+            $Item.Editing.EndEdit()
+            return $Item
+        }
+        
+    function DataMapping{
+            [cmdletbinding()]
+        param ( 
+                $value, $parentPath, $template
+            )
+            if($value.contains('GWLG')){
+                $valArr = $value.replace('.','').replace('GWLG','').split(';')
+            }
+            else{
+                $valArr = $value.split(';')
+            }
+    
+            if($value.contains('GWLG.')){
+                $keyArr = $value.replace('GWLG.','').replace('.','-').replace(',',' ').split(';')
+            }
+            else{
+                $keyArr = $value.replace('.','_').replace(',',' ').split(';')
+            }
+    
+    
+            $ids=''
+            for ($i = 1; $i -le $valArr.length; $i++) {
+    
+    
+                    $Item = CreateItem -name $keyArr[$i-1] -language $row.DocumentCulture -template $template -parentItem $parentPath
+    
+                    $ids += $Item.ID
+    
+                    if($i -lt $valArr.length){
+                    $ids += '|'
+                    }
+    
+                    if($template -eq $DictionaryEntryTemplate){
+                        $x= DataItemsMapping -CurrItem $Item -fieldName $dict[0] -FieldValue $keyArr[$i-1] -ifCurrItem $true
+                        $x= DataItemsMapping -CurrItem $Item -fieldName $dict[1] -FieldValue $valArr[$i-1] -ifCurrItem $true
+                    }   
+                    if($template -eq $TagTemplateID){
+                        $x= DataItemsMapping -CurrItem $Item -fieldName 'Title' -FieldValue $valArr[$i-1] -ifCurrItem $true
+                    }
+                    write-host($ids)
+                    return $ids
+    
+    
+            }
+    
+        }
+    
+    function DataFormatting($value){
+            $val = $value.toLower().replace('sitecore.data.items.item','').replace('false','').replace('true','').replace(' ','').toupper()
+            return $val
+    }
+    
+    function PageName($pageName){
+        
+        $pageName = $pageName.substring($pageName.lastIndexOf('/')+1);
+        $pageName = $pageName.trim();
+        return $pageName
+    }
+    
+    function ItemMappingWithGuid{
+            [cmdletbinding()]
+            param (
+                $Values, $type
+                )
+                $fieldValue = ""
+                if(NullCheck($Values)){
+                    $items = $Values.split(';');
+                    
+                    for ($i = 1; $i -le $items.length; $i++) {
+                        
+                        if($type -eq 'Offices'){
+                            $fieldValue +=  RelatedOffices -newItem $newItem -GUID $items[$i-1] -language $row.DocumentCulture 
+                        }
+                        if($type -eq 'Sectors'){
+                            $fieldValue +=  RelatedSectors -newItem $newItem -GUID $items[$i-1] -language $row.DocumentCulture 
+                        }
+                        if($type -eq 'Services'){
+                            $fieldValue+=  RelatedServices -newItem $newItem -GUID $items[$i-1] -language $row.DocumentCulture 
+                        }
+                        if($type -eq 'People'){
+                            $fieldValue+=  RelatedContacts -newItem $newItem -GUID $items[$i-1] -language $row.DocumentCulture 
+                        }
+                        if($type -eq 'MediaContact'){
+                            $fieldValue +=  RelatedMediaContacts -newItem $newItem -GUID $items[$i-1] -language $row.DocumentCulture 
+                        }
+                        
+                       if($i -lt $items.length){
+                            $fieldValue += '|'
+                        }
+                    }
+                    
+                }
+                return $fieldValue;
+        }   
+    
+    function RelatedContacts{
+        [cmdletbinding()]
+        param (
+            $newItem, $GUID, $language
+            )
+        
+        $csvFilePath = '/sitecore/media library/Project/GowlingWLG/GowlingWLG/ContentMigration/People/PeopleCMSTree'
+        $importList = ImportList($csvFilePath);
+        
+        foreach($row in $importList){
+            if($row.TreeNodeGUID -eq $GUID){
+                $pageName = PageName($row.NodeAliasPath)
+                $PeopleItem = CreateItem -name $pageName -id $row.TreeNodeGUID -language $row.DocumentCulture -template $PeoplePageTempID -parentItem ($StartItemPath + '/People') -isRecurse $true -createItem $false
+                return $PeopleItem.ID
+            }
+        }
+            
+    }
+    	
+    function RelatedOffices{
+        [cmdletbinding()]
+        param (
+            $newItem, $GUID, $language
+            )
+        
+        $csvFilePath = '/sitecore/media library/Project/GowlingWLG/GowlingWLG/ContentMigration/Office/Offices_CMSTree'
+        $importList = ImportList($csvFilePath);
+        
+        foreach($row in $importList){
+            if($row.TreeNodeGUID -eq $GUID){
+                
+                $OfficeName = PageName($row.NodeAliasPath)
+    			$CountryName = CountryName($row.NodeAliasPath)
+    			
+    			$language = $row.DocumentCulture 
+                $CountryPath = GetCountryItem($CountryName)
+                
+                $OfficeItem = CreateItem -name $OfficeName -id $row.TreeNodeGUID -language $language -template $OfficesTemplateID -parentItem $CountryPath -createItem $false
+                
+                return $OfficeItem.ID
+                    
+            }
+        }
+    }
+    
+    function CountryName($pageName){
+        
+        $pageName = $pageName.split('/')[2];
+        $pageName = $pageName.trim();
+        
+        return $pageName
+    }
+    
+    function GetCountryItem($CountryName){
+        $items = Get-ChildItem -Path ($StartItemPath + '/Global Reach') | Where-Object { $_.Name -eq $CountryName -and $_.TemplateID -eq $CountryTemplateID}
+        foreach ($item in $items) {
+        	return $item.fullpath
+        }
+    }
+    
+    function PresentationLayerCopy{
+        [cmdletbinding()]
+        param (
+            $newItem, $template
+            )
+            $isPageBranch = (gi -path $template).fullpath.contains('/Presentation/Page Branches/')
+            if($isPageBranch){
+                $SourceItem = gci -path $template | where-object{$_.name -eq '$name'}
+            }
+            else{
+                $SourceItem = gi -path $template
+            }
+            
+             $newItem.Editing.BeginEdit()
+                
+                $newItem['__Renderings'] = $SourceItem['__Renderings']
+                #$CurrentItem['__Final Renderings'] = $SourceItem['__Final Renderings']
+                
+            $newItem.Editing.EndEdit()
+            
+    }
+    
+    
+    function GlobalReachData($count){
+        
+        $importList = ImportList($csvFilePath);
+        foreach($row in $importList)
+        {
+            if($count -gt 0){
+                $pageName = PageName($row.NodeAliasPath)
+                $language = $row.DocumentCulture 
+                $newItem = CreateItem -name $pageName -id $row.TreeNodeGUID -language $language -template $PageTemplateID -parentItem $LandingPageItemPath
+                    #create item with ID expects args (name(string), id(GUID), languageversion(languagecode), templateID(GUID), parentItem (GUID or string))
+                #begin edit#
+                $newItem.editing.beginedit()                
+                    $newItem['Title'] = NullCheck($row.Title)
+                    $newItem['Content'] = NullCheck($row.MainContent)
+    				$newItem['SubTitle'] = NullCheck($row.Summary)
+    				$newItem['__Display name'] = NullCheck($row.PageName)
+    				                
+                #Start DataMapping#                
+    				$newItem['KenticoGUID']=$row.TreeNodeGUID
+                    $newItem['Jurisdictions'] = if(NullCheck($row.Locations)){DataMapping -value $row.Locations -parentPath $LocationsPath -template $TagTemplateID }else{''}
+                    $newItem['Jurisdictions'] = DataFormatting($newItem['Jurisdictions'])
+                                                  
+                    
+    				if($mapRelated){
+    					if(NullCheck($row.Offices)){
+    						$newItem['Offices'] = ItemMappingWithGuid -Values $row.Offices -type 'Offices'
+    					}
+    					if(NullCheck($row.KeyContacts)){
+    						$newItem['Key Contacts'] = ItemMappingWithGuid -Values $row.KeyContacts -type 'People'
+    					}
+    				}
+                    
+                #End DataMapping#             
+                 $newItem.editing.endedit()                
+    			#PresentationLayerCopy -newItem $newItem -template $PageTemplateID
+            }
+            else{
+                break;
+            }
+            $count--;
+        }
+    }
+    $count = 100
+    
+    $mapRelated = $false
+    #$mapRelated = $true
+    GlobalReachData($count)
+    
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230818T172602Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1c551714-1034-49d4-ab36-8a024eabef3b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230828T184525Z

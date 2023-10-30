@@ -1,0 +1,70 @@
+﻿---
+ID: "826a9024-4b58-4115-a296-5a8b0c7ca880"
+Parent: "11547f04-5ca5-4dd9-b4ca-a132cd019812"
+Template: "31507380-1c3b-4574-907a-35b1ce9c596d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Events/Making the Single Code work for you
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {A417F6BB-86FB-4AF9-93B7-DC2BB25E4744}
+        {88768AE0-0F64-4DDC-8A85-E4735D09E55C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230913T182035Z
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: |
+        {50AFD730-9ED6-4BD6-ADBE-73497A7A979C}
+        {15440C43-40BA-4359-9333-B185EB8EE43F}
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Making the Single Code work for you
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: This second session will consider some practical steps trustee boards can take in relation to the Single Code.
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {5E57F1AE-5C92-4570-9771-94E8B88F67A6}
+        {5481F515-A786-427A-A3F2-2794DAF36018}
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Making the Single Code work for you
+    - ID: "79df820b-5ccc-4cb0-aff1-9f38b3281ab7"
+      Hint: EventStartDate
+      Value: 20230928T183000Z
+    - ID: "80eb5a2f-a16a-4df0-8d9f-21e4932c0d2a"
+      Hint: PublishedDate
+      Value: 20230907T183000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bbc358ee-02af-4dd6-b623-35fd1a5ca166"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: "{E34303D3-B12E-45FA-A3BE-B627B25F4AAD}"
+    - ID: "ac1204cb-944e-4c05-976f-aa15bb1a0515"
+      Hint: PageType
+      Value: "{B8184ACC-E856-4215-A8A6-5122368F93B9}"
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {0EE93E01-ECC7-409B-8306-B9531229FE02}
+        {D73FE530-6C76-4568-9CC0-0F4A90451156}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "bee3cf6c-d209-4d4f-82d0-664d4c76d917"
+      Hint: IsCPDorCLE
+      Value: 1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230914T084647Z
+    - ID: "ebb722c6-082d-4218-b303-fad412068894"
+      Hint: EventEndDate
+      Value: 20230929T183000Z

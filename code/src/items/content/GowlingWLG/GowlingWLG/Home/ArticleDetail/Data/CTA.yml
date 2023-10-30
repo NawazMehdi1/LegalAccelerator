@@ -1,0 +1,39 @@
+﻿---
+ID: "617c4950-753e-4126-9e31-904ab099b372"
+Parent: "71c28bd6-e731-42bd-a723-b4629fe1337b"
+Template: "5b793991-756e-471c-a97b-0af43c42ac33"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/ArticleDetail/Data/CTA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "134df07b-01c4-4632-bc65-4816ae79ef77"
+      Hint: AlertDescription
+      Value: Please make sure you have saved your data.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230818T045838Z
+    - ID: "5fbf0066-f77b-4b3c-9bef-0be27b2cbfb3"
+      Hint: AlertTitle
+      Value: "Attention: You are redirecting to new page."
+    - ID: "8b9659fc-1880-400c-9585-b969e5352b9e"
+      Hint: Title
+      Value: In mobile view, all the elements shall be added in a stack structure.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14064f5d-0f23-43e1-809e-7e7e0511b4de"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "c9b980bd-87b8-41df-9e29-d19edfe31ae4"
+      Hint: Image
+      Value: |
+        <image mediaid="{33069873-93DE-49F3-BEED-D68B6A7CDCA1}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230818T050922Z
+    - ID: "fde2b1f6-e116-4573-9aa8-69c0881d930d"
+      Hint: Description
+      Value: &nbsp;Above requirements are listed basis the default language and region i.e. English and Global and may/may not vary basis another selected language or region.

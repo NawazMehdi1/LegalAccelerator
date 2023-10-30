@@ -1,0 +1,38 @@
+﻿---
+ID: "9dd70121-cc97-4cfb-84bd-aa35821b50f7"
+Parent: "769d6cf5-7ad5-41e2-8b22-a4ce3b8833c0"
+Template: "e4d3f859-9d41-4b02-9826-a7f1a14b6def"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/Footer Navigation Data/Social Share/Twitter
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230523T205147Z
+    - ID: "6ef7056b-25e3-4a9e-b3cd-98938ef1ed9e"
+      Hint: Class
+      Value: Twitter
+    - ID: "7f6711eb-709a-42a6-aea0-963d7fdbefb2"
+      Hint: Link
+      Value: |
+        <link linktype="external" url="https://twitter.com" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bd07ae44-8659-49b5-9597-3fdc68a8755e"
+    - ID: "949cdacb-3130-4645-88e5-3353cf3f54f6"
+      Hint: Icon
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"9DA42825-8539-4FA9-B45BFCFD6A0C5BCE","name":"X_logo_icon_white","description":null,"assetType":"Image","createdAt":"2023-09-13T10:17:51Z","publishedAt":"2023-09-13T10:16:05Z","updatedAt":"2023-09-13T10:20:16Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/4247bf2ed27f63e7/webimage-X_logo_icon_white.png","width":587,"height":600,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/4247bf2ed27f63e7/thul-X_logo_icon_white.png","width":245,"height":250,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/4247bf2ed27f63e7/mini-X_logo_icon_white.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Tags":["twitter","X icon","X logo","X"],"Asset_Subtype":["Logos_-_External"],"extension":["png"],"Asset_Type":["logos"]}}],"file":null}]]></asset>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230918T124034Z

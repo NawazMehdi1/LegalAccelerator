@@ -1,0 +1,52 @@
+﻿---
+ID: "56358e7c-0aae-4d35-99ff-c927084bc260"
+Parent: "465339fa-f0a7-463a-a611-6cb4f57254bf"
+Template: "c20b160c-14ba-4966-bb7e-b55f0575310e"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Branch/Career/Data/MainMenu/Business services and PAs
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230926T110236Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "7058b998-e13e-45c4-8ace-a13e1e0d8105"
+      Hint: NavigationTitle
+      Value: Business services & PAs 
+    - ID: "87ce6bf2-f3ae-4f5d-a956-b8a7c1fbcb08"
+      Hint: SubMenuItems
+      Value: |
+        {D77EAABF-B0A9-46B7-A019-A8D568858047}
+        {56A91352-2E8E-4248-A35E-A7276D86B9E2}
+        {03A35F60-5221-4983-88C1-2B6283A3464F}
+        {377679E8-8740-4D47-961D-D2C3BE084930}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32492eac-07d0-40e4-8f37-be1ed15a54ea"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "c887e3a6-88b5-4222-81be-22008c0c305f"
+      Hint: HasSubMenu
+      Value: 1
+    - ID: "d875b55c-24f8-4940-8058-19a2117800a3"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230926T110903Z

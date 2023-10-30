@@ -1,0 +1,32 @@
+﻿---
+ID: "062d35f3-c576-491b-a69a-805cd57ae4a0"
+Parent: "cdb12c42-16f5-418e-ab3c-c1cc042b181f"
+Template: "4b14531d-ec0c-4f8e-9c06-cfd9ffc774e2"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/News/Diversity News/2023/Rachel Armstrong rejoins Gowling WLG
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01fc6a99-6cdc-4421-a454-cc507d8593ab"
+      Hint: Page Summary
+      Value: Gowling WLG is delighted to welcome back Rachel Armstrong to our Dubai office as a partner in our Global Intellectual Property (IP) team.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230726T132246Z
+    - ID: "814b7a52-7825-49fe-821a-9de1a67387f9"
+      Hint: Page Title
+      Value: Rachel Armstrong rejoins Gowling WLG
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "37c093fd-fce6-4d52-afbe-1252e7b0cacf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d684bad1-6cc5-4953-ad40-b6dd3a816745"
+      Hint: Date Published
+      Value: 20230703T183000Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230728T065545Z

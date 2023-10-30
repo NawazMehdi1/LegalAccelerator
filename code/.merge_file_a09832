@@ -1,0 +1,189 @@
+import { useSitecoreContext } from '@sitecore-jss/sitecore-jss-nextjs';
+import { ComponentProps } from 'lib/component-props';
+import { useI18n } from 'next-localization';
+import React, { useEffect, useState } from 'react';
+import { useQuery } from '@tanstack/react-query';
+import useLanguageHook from 'core/hooks/useLanguageHook';
+import dynamic from 'next/dynamic';
+import RelatedNewsQueryFn from 'core/api/queries/RelatedNewsQueryFn';
+import { newFormatDate } from 'core/utils/formatDate';
+import Link from 'next/link';
+
+type jsonValueType = {
+  querystring: string;
+  href: string;
+  anchor: string;
+  linktype: string;
+  title: string;
+  target: string;
+  class: string;
+};
+
+export type RelatedTopicsProps = ComponentProps & {
+  fields: {
+    data: {
+      datasource: {
+        SeeMore?: {
+          jsonValue?: {
+            value?: jsonValueType;
+          };
+        };
+      };
+    };
+  };
+};
+
+export interface Widgets {
+  widgets: {
+    total_item: number;
+    content: Array<RelatedNews>;
+  }[];
+}
+
+type RelatedNews = {
+  date: string;
+  name: string;
+  type: string;
+  value: string;
+  content_type_icon: string;
+  published_date: string;
+  page_type: string;
+  url: string;
+};
+
+const RelatedNews = (props: RelatedTopicsProps) => {
+  const { t } = useI18n();
+  const { language, country } = useLanguageHook();
+  const { sitecoreContext } = useSitecoreContext();
+  const [RelatedNews, setRelatedNews] = useState<RelatedNews[]>([]);
+  const searchApiUrl = sitecoreContext?.SearchApiUrl as string;
+  const searchSource = sitecoreContext?.SearchSource as string;
+
+  const { data } = useQuery({
+    queryKey: ['RelatedNews'],
+
+    queryFn: () =>
+      RelatedNewsQueryFn(searchApiUrl, {
+        searchSource,
+        language,
+        country,
+      }),
+  });
+
+  const Slider = dynamic(() => import('react-slick').then((m) => m.default), {
+    ssr: false,
+  });
+
+  const settings = {
+    dots: true,
+    infinite: true,
+    speed: 500,
+    arrows: false,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    initialSlide: 0,
+  };
+
+  useEffect(() => {
+    if (data?.widgets?.[0]?.content) {
+      setRelatedNews(data?.widgets?.[0]?.content);
+    } else {
+      setRelatedNews([]);
+    }
+  }, [data]);
+
+  if (RelatedNews?.length === 0) {
+    return <></>;
+  }
+
+  const link = `${props?.fields?.data?.datasource?.SeeMore?.jsonValue?.value?.href}${
+    props?.fields?.data?.datasource?.SeeMore?.jsonValue?.value?.querystring.split('=')[0]
+  }=${sitecoreContext?.route?.name}`;
+
+  return (
+    <>
+      <div className="my-[80.5px] md:mt-[92px] md:mb-[82px]">
+        <p className=" mb-[30px] md:mb-[40px] px-[19px] md:px-[100px] font-bold font-gowlingBliss text-black text-[32px] md:text-[48px]">
+          {t('RelatedNews')}
+        </p>
+
+        <div className="hidden  md:pl-[101px] md:pr-[99px] md:block">
+          <div
+            className={`grid grid-cols-${
+              RelatedNews.length === 1 ? '1' : RelatedNews.length === 2 ? '2' : '3'
+            } gap-4`}
+          >
+            {RelatedNews?.map((RelatedNews, index) => {
+              return (
+                <div key={index} className="mb-[40px]">
+                  <Link href={RelatedNews?.url}>
+                    <div className="bg-lightGrey hover:shadow-custom pl-[30px] pr-[27px] pt-[40px] pb-[45px]">
+                      <div className="flex mb-[20px]">
+                        <img
+                          src={RelatedNews?.content_type_icon}
+                          alt="image"
+                          className="mr-[11px]"
+                        />
+
+                        <p className="mr-[11px] text-darkBlue font-bold text-[16px]">
+                          {RelatedNews?.type}
+                        </p>
+
+                        <p className="text-black font-normal text-[16px]">
+                          {newFormatDate(RelatedNews?.published_date, 'en-US')}
+                        </p>
+                      </div>
+
+                      <p className="text-[24px] font-bold text-black">{RelatedNews?.name}</p>
+                    </div>
+                  </Link>
+                </div>
+              );
+            })}
+          </div>
+        </div>
+
+        <div className="md:hidden  px-[20px] related-news contentcards-react-slick-container">
+          <Slider {...settings}>
+            {RelatedNews?.map((RelatedNews, index) => {
+              return (
+                <div key={index} className="">
+                  <div className="bg-lightGrey h-[246px] hover:shadow-custom  pt-[40px] pl-[30px] pb-[30px] pr-[59px]">
+                    <div className="flex mb-[20px] md:mb-[30px]">
+                      <div className="w-26.59 mr-[11px] ">
+                        <img src={RelatedNews?.content_type_icon} alt="image" className="" />
+                      </div>
+
+                      <p className="mr-[11px] text-darkBlue font-bold text-[16px]">
+                        {RelatedNews?.type}
+                      </p>
+
+                      <p className="text-black font-normal text-[16px]">
+                        {newFormatDate(RelatedNews?.published_date, 'en-US')}
+                      </p>
+                    </div>
+
+                    <p className="text-black font-bold text-left text-[24px]">
+                      {RelatedNews?.name}
+                    </p>
+                  </div>
+                </div>
+              );
+            })}
+          </Slider>
+        </div>
+
+        <p className="text-center hidden md:block justify-center mt-[70px] md:mt-[41px] mb-[82px]">
+          <a
+            href={link}
+            className="rounded-full  px-[46px] py-[22px] text-[14px] bg-lightBlue font-bold "
+          >
+            {props?.fields?.data?.datasource?.SeeMore?.jsonValue?.value?.anchor}
+          </a>
+        </p>
+      </div>
+    </>
+  );
+};
+
+export default RelatedNews;

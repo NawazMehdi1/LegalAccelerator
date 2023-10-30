@@ -1,0 +1,128 @@
+﻿---
+ID: "7ca4b003-376e-4eab-bfbb-39190e4b0720"
+Parent: "e334f407-b6af-4f25-85eb-95c3aeb3e148"
+Template: "66a4442f-338d-493b-83a9-c1727e985320"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Services/Advertising and Product
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{9B864648-951A-4E32-B73B-FDBE63385A70}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{BBF2F05E-A776-4A22-AEC6-A62920363EBA}"
+          p:before="*"
+          s:ds="local:/Data/ServiceS Accordian"
+          s:id="{0E3D795C-548F-4AF6-99B6-9DC525C1BAE2}"
+          s:par="CSSStyles"
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{7E350F8E-5237-4C28-AA42-8336B1765EB3}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/HoverOverCards"
+          s:id="{A9C60D1E-AF4C-4DB8-BE22-43338634CB38}"
+          s:par="CSSStyles&amp;FieldNames=%7B81E71C31-2F34-400D-99AA-321BF3A06BA4%7D&amp;RenderingIdentifier&amp;Styles=%7B60672A1E-3DA6-4262-8533-456C8DE2610A%7D&amp;GridParameters&amp;DynamicPlaceholderId=1&amp;CTABackgroundColor"
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Advertising & Product
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {AC0511AC-20DF-47FB-8469-43ABE2E1321C}
+        {BAB9AED4-0AB0-40BE-B03D-4E327FA97493}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7E350F8E-5237-4C28-AA42-8336B1765EB3}"
+              s:par="GridParameters&amp;CTABackgroundColor&amp;FieldNames=%7B81E71C31-2F34-400D-99AA-321BF3A06BA4%7D&amp;Styles=%7B60672A1E-3DA6-4262-8533-456C8DE2610A%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" />
+            <r
+              uid="{D4448620-F9DF-4E17-97B0-24747798E19D}"
+              p:after="r[@uid='{7E350F8E-5237-4C28-AA42-8336B1765EB3}']"
+              s:ds="{1C51D4C2-4771-4083-91D9-F52C080AFBD3}"
+              s:id="{70D77A7D-7805-44AB-9BF1-192AE57B6156}"
+              s:par="CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{58E65220-9B01-44F6-A503-0DC34DF5B451}"
+              p:after="r[@uid='{D4448620-F9DF-4E17-97B0-24747798E19D}']"
+              s:ds="{14ABF3B8-AFBB-48F6-81D5-430E6E49B86A}"
+              s:id="{4FA3F34D-AA26-4A35-AAB9-7B6962E163CA}"
+              s:par="GridParameters&amp;FieldNames=%7BD9C182F7-B6AA-43A7-8728-92DAC51B3D7D%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{D8A0F4A6-3733-45E6-A0CC-78ACF9CCE43F}"
+              p:after="r[@uid='{58E65220-9B01-44F6-A503-0DC34DF5B451}']"
+              s:ds="{14ABF3B8-AFBB-48F6-81D5-430E6E49B86A}"
+              s:id="{4FA3F34D-AA26-4A35-AAB9-7B6962E163CA}"
+              s:par="GridParameters&amp;FieldNames=%7BC4E04D91-C8FC-45A7-8E1F-28D52325D6D2%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{3DFC34B9-3EF3-444D-A2A4-1362A05FCEC2}"
+              p:after="*[1=2]"
+              s:ds="{14ABF3B8-AFBB-48F6-81D5-430E6E49B86A}"
+              s:id="{4FA3F34D-AA26-4A35-AAB9-7B6962E163CA}"
+              s:par="GridParameters&amp;FieldNames=%7B10DAAE65-ADC4-4BC6-9D7F-1612A87104FB%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value:  Lorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg ItemLorem Ipsum Adeversting Contexg Item
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230627T124630Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{06A113F8-7DAF-473F-BFAF-D0E534965E64}"
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: "{8A517066-926B-4C39-9000-F595F6EA9C9D}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Advertising and Product
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Advertising and Product
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "96f92afa-9f3b-4908-ac26-9d44400247c8"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230906T230713Z

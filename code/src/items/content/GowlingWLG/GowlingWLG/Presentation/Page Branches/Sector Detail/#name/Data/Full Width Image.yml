@@ -1,0 +1,35 @@
+﻿---
+ID: "4993ed03-d864-4c61-b39f-1fc47f197fce"
+Parent: "619f8fb7-b82a-430a-8715-37a8d7b4d246"
+Template: "10f2461a-fb4d-4246-95e3-d6e2f01734f4"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Sector Detail/$name/Data/Full Width Image
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230830T104629Z
+    - ID: "47a6cc82-487f-425f-98e4-a573af91d6dd"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"D2EE6D54-87EA-4993-BFD8BA75C0F30B08","name":"220810-the-fcas-consumer-duty","description":null,"assetType":"Image","createdAt":"2023-09-14T08:02:51Z","publishedAt":"2023-09-14T08:01:52Z","updatedAt":"2023-09-14T08:02:51Z","files":[{"name":"original","url":"https://brandconnect.gowlingwlg.com/m/3b8abaadf75654c9/original/220810-the-fcas-consumer-duty.webp","width":930,"height":450,"fileSize":49458},{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/3b8abaadf75654c9/webimage-220810-the-fcas-consumer-duty.jpg","width":800,"height":387,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/3b8abaadf75654c9/thul-220810-the-fcas-consumer-duty.jpg","width":250,"height":121,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/3b8abaadf75654c9/mini-220810-the-fcas-consumer-duty.jpg","width":80,"height":80,"fileSize":0}],"metaProperties":{"Channel":["Website"],"Asset_Subtype":["Article_imagery"],"extension":["webp"],"Asset_Type":["imagery"]}}],"file":null,"overrideAltText":null}]]></asset>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e7d68147-5ba2-48ca-a1d6-18abdb983c80"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230927T183355Z

@@ -1,0 +1,67 @@
+﻿---
+ID: "5c686332-6688-4287-bfac-94db4c40fb04"
+Parent: "933a5d24-b0f8-4cf7-a1de-8fdb20d1ecad"
+Template: "77891984-7e21-45ff-a657-2203b78be33f"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/PeopleLanding/$name
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{727D975F-B828-4C2F-AF64-CA5333A28CD1}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{7276CA91-2F78-4FA8-BC5C-D591FDCB5D5D}"
+          p:before="*"
+          s:ds="local:/Data/HeroBanner"
+          s:id="{73246A93-D7E9-4088-8C26-10993148BBEB}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;CTABackgroundColor&amp;FieldNames=%7BC914FEDD-BF69-445E-BCA8-EB8E66277E89%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/container-1"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{1D015BB9-0004-45A7-99EC-48E12DC3412A}"
+          p:after="r[@uid='{7276CA91-2F78-4FA8-BC5C-D591FDCB5D5D}']"
+          s:ds="{1C6835CC-725E-4FE5-BBF1-A8600503BC0C}"
+          s:id="{011B4ACF-9BF0-4699-B8A9-D26F9A532AAD}"
+          s:par="CSSStyles&amp;GridParameters&amp;Rfk id=rfkid_8&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/container-1"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{71A23F4F-19E1-477D-ABE0-BD38B9F3F5C9}"
+          p:after="*[1=2]"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230914T075719Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76793af2-d1d9-4c77-a725-8026cf9779a2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231019T095519Z

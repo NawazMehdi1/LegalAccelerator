@@ -1,0 +1,23 @@
+﻿---
+ID: "74a483e9-b64e-4c60-9837-cb0604ac07e6"
+Parent: "e580c8d0-1b45-4c88-b56a-7b38275e06ac"
+Template: "1f063290-1882-4f8d-bd60-ca6bdf4dee2c"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/Data/ContentTeasers
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T000852Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f568407d-624c-4aef-aa02-3dd6c052064f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230607T000916Z

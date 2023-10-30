@@ -1,0 +1,95 @@
+﻿---
+ID: "6e0093c2-2357-46ce-a380-19ac12feb8d4"
+Parent: "c3da41fe-e178-40ad-98d2-45c67e887283"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/GlobalReach/CountryList
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: CountryList
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query CountryList($contextItem: String!, $language: String!) {
+      contextItem: item(path: $contextItem, language: $language) {
+        children(includeTemplateIDs: ["{FE3ED608-1AE2-43FC-8D2B-24D173D9A56C}"]) {
+          results {
+            ... on CountryPage {
+              id
+              url {
+                path
+              }
+              title: field(name: "title") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              content: field(name: "content") {
+                ... on RichTextField {
+                  jsonValue
+                }
+              }
+              offices: field(name: "offices") {
+                ... on MultilistField {
+                  targetItems {
+                    url {
+                      path
+                    }
+                    ... on OfficePage {
+                      title: field(name: "title") {
+                        ... on TextField {
+                          jsonValue
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      officeIcon: item(
+        path: "{7B586361-E929-4458-8CC2-680E5F765B46}"
+        language: $language
+      ) {
+        Image: field(name: "Image") {
+          ... on ImageField {
+            jsonValue
+          }
+        }
+      }
+    }
+    
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: 
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{4247AAD4-EBDE-4994-998F-E067A51B1FE4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230803T064820Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8357d507-7881-444e-8585-36c5e6395f42"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231020T102126Z

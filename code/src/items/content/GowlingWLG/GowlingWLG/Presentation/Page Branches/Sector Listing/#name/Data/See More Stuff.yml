@@ -1,0 +1,41 @@
+﻿---
+ID: "8bbed267-fae8-4a12-9a67-e14423c45441"
+Parent: "d79171e1-e787-4e21-bcd5-fc32f74e8003"
+Template: "a3ddc83b-44de-46a3-9987-9374da3cd343"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Sector Listing/$name/Data/See More Stuff
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230912T061523Z
+    - ID: "2f053e5d-70a9-4fcc-8852-1c93d0b6530d"
+      Hint: Description
+      Value: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
+    - ID: "3c0eb40c-4a5f-4d66-8d75-e36b00507eba"
+      Hint: CTA
+      Value: |
+        <link text="See More" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cd2a9894-0625-4863-8207-fd7290251eaa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230912T061625Z
+    - ID: "e4776fbb-6c74-40bf-b62c-fd1b386baa86"
+      Hint: Title
+      Value: See More Stuff About This

@@ -1,0 +1,39 @@
+﻿---
+ID: "35152621-3a62-4bf3-aaa5-62c9425d58ac"
+Parent: "894ccbbb-61d9-4aa1-8830-a613b8beac1c"
+Template: "fff37d92-b299-46cc-9777-95a752a5dfda"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/Images/Header/NormalAndScrollImagenew
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "21ff0009-2d85-4c9e-8359-ef46d7fc8e56"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"91755AC4-675A-4D5F-9D14D6C88BBD013E","name":"gowlingwlg-white","description":null,"assetType":"Image","createdAt":"2023-09-20T11:39:44Z","publishedAt":"2023-09-20T11:39:09Z","updatedAt":"2023-09-20T11:39:44Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/5a1d136d770ef0c8/webimage-gowlingwlg-white.png","width":800,"height":146,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/5a1d136d770ef0c8/thul-gowlingwlg-white.png","width":250,"height":46,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/5a1d136d770ef0c8/mini-gowlingwlg-white.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["Gowling_WLG_Logos"],"extension":["png"],"Asset_Type":["logos"]}}],"file":null,"overrideAltText":null}]]></asset>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230925T090932Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78742dbd-422b-40f1-8eb1-02e94389fd3f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230925T091916Z
+    - ID: "faae5f76-215a-45e8-b14d-a929229ef9eb"
+      Hint: ScrollImage
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"44853B18-2F47-4D30-A1E2A0F12232C5DE","name":"dark-logo-header","description":null,"assetType":"Image","createdAt":"2023-09-22T11:34:20Z","publishedAt":"2023-09-22T11:33:39Z","updatedAt":"2023-09-22T11:34:20Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/717037ffcf71a33a/webimage-dark-logo-header.png","width":800,"height":145,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/717037ffcf71a33a/thul-dark-logo-header.png","width":250,"height":45,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/717037ffcf71a33a/mini-dark-logo-header.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["Gowling_WLG_Logos"],"extension":["png"],"Asset_Type":["logos"]}}],"file":null,"overrideAltText":null}]]></asset>

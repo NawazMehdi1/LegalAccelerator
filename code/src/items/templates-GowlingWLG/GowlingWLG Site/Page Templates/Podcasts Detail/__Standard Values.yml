@@ -1,0 +1,41 @@
+﻿---
+ID: "45102d75-416f-47ef-92cc-c0bcd44f7c5e"
+Parent: "e60fa53d-7bfd-41a7-ae99-7a0ca9360ce0"
+Template: "e60fa53d-7bfd-41a7-ae99-7a0ca9360ce0"
+Path: /sitecore/templates/Project/GowlingWLG Site/Page Templates/Podcasts Detail/__Standard Values
+SharedFields:
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230802T184441Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01409b45-1c54-4ec2-9310-b4523be91f34"
+    - ID: "9e261863-71b1-4e26-b660-6da87d2fc726"
+      Hint: PageType
+      Value: "{EC560444-96F1-4A16-BD6B-7A098CCE2F07}"
+    - ID: "b6e20f3d-c0a0-4a17-9d3b-c15ebc67d6d9"
+      Hint: CategoryType
+      Value: "{A9A8F9C3-1DC4-4DC7-8B22-613A9F57E079}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230817T175246Z

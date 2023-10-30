@@ -1,0 +1,46 @@
+﻿---
+ID: "8f1df345-02a7-46f9-b9ba-d239261e5ac7"
+Parent: "001fbf32-f250-46d8-9a62-10d647576080"
+Template: "180c4932-4351-42a8-8537-3ba5fc1cffb8"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Services/Advertising/Data/HoverOverCards
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: imaging/32x32/drop_shadow.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+    {F36BC793-183B-49E2-80EC-D89313FA9536}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230828T112942Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "421be8be-ae46-42a5-979d-27c30122522d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d8b8bdb6-c190-45b9-86bc-168680c8ee5c"
+      Hint: Title
+      Value: Pellentesque Tristique
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230904T121848Z
+    - ID: "f3a1edd0-e468-4c51-b5d0-5bb8ee5a57af"
+      Hint: Description
+      Value: Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.

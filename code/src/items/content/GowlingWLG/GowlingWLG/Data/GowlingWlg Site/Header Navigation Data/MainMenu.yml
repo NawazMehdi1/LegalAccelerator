@@ -1,0 +1,43 @@
+﻿---
+ID: "9daddab7-806c-4af6-b712-66f58d5185c4"
+Parent: "68044083-1e55-4e71-b5e2-19285c15b54a"
+Template: "b93e6447-9496-4467-a330-9382191f6559"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/Header Navigation Data/MainMenu
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T212421Z
+    - ID: "299684c9-aecb-40bc-964a-f6f82a79e506"
+      Hint: MainMenuList
+      Value: |
+        {21782F3B-EF78-4419-B782-29E6D028E1F7}
+        {E2C94B33-3133-4A9B-84E6-7922E5D10F2F}
+        {BD4CADFD-90BD-4B8C-A1DC-9F2065AEE3B8}
+        {BF7236E2-D86C-4B7C-A85E-9577A016E9F0}
+        {9B0BD9B4-239B-4ED8-9DE8-D3646201F382}
+        {3D2EEDBF-E9F0-4F94-ABDA-42BD6F68C15A}
+        {2DB9C669-C3B9-4AF7-A88F-4EF9F9D7FD3D}
+        {9CAE1193-22C3-4B6C-9FF5-69593BACCDE4}
+        {6A17BE85-71FC-413F-BA7C-66CCC948E33A}
+        {84D6D271-2D7E-40BF-BD53-B27A19509200}
+        {84A7DF68-3FFF-4963-B08B-1B3EA65A3756}
+    - ID: "8c48a20f-515b-4013-8c78-4e85c27acf9c"
+      Hint: MainMenuTeasers
+      Value: |
+        {7A74E7E8-E290-4417-A10B-CC95A2CEF427}
+        {42AF1AD2-F850-4D98-93CA-15F3CB7ADB1F}
+        {3052E43F-837C-4437-86EA-DD27EFF96380}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fc85800e-6bc0-4b65-8476-f859c2e4cbb6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230727T173647Z

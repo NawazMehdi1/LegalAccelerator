@@ -1,0 +1,30 @@
+﻿---
+ID: "092b27fc-80a6-4c98-b8ab-d04c7aaabba7"
+Parent: "c3401a9c-8653-44c4-85d2-aada80369443"
+Template: "6f293fd6-d303-4ed8-ac75-cb1e3f8f78fc"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/PageTypes/NewsType/Firm News
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230812T003042Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa7dd7b8-5c0f-46e0-a281-93b61211a71b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "bc21b84b-ab25-4460-b83d-7d5f54ff491e"
+      Hint: PageType
+      Value: Firm News
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230812T003156Z
+    - ID: "f37f6f4f-154b-456f-876f-e20ccc7791a9"
+      Hint: Icon
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"9EFFFCBC-A2AC-4C12-9098860F6556970C","name":"Instagram-icon-white","description":"Social Media Icons","assetType":"Image","createdAt":"2023-05-25T17:29:27Z","publishedAt":"2023-05-25T17:28:43Z","updatedAt":"2023-05-25T17:29:27Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/657bd5bf56a611c2/webimage-Instagram-icon-white.png","width":600,"height":600,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/657bd5bf56a611c2/thul-Instagram-icon-white.png","width":250,"height":250,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/657bd5bf56a611c2/mini-Instagram-icon-white.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Tags":["twitter","LinkedIn","media","Instagram","facebook","icons","Social"],"Asset_Subtype":["icons_and_graphics"],"extension":["png"],"Asset_Type":["logos"]}}],"file":null}]]></asset>

@@ -1,0 +1,120 @@
+﻿---
+ID: "269321d9-62b2-4e3b-8d89-4a310ee7dddd"
+Parent: "bbd21fea-6067-478c-a1d7-021f9ebb64f6"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/PageContent/ArticleTeaser
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: ArticleTeaser
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query ArticleTeaser($datasource: String!, $language: String!) {
+      datasource: item(path: $datasource, language: $language) {    
+        ... on ArticleTeaser{
+          title{
+            ... on TextField{
+              jsonValue
+            }
+          }
+          description{
+            ... on RichTextField{
+              jsonValue
+            }
+          }
+          pageReferences{
+            targetItems{
+              url{
+                url
+              }
+              ... on C__ArticleDetail{
+                title{
+                  ... on TextField{
+                    jsonValue
+                  }
+                }
+                image{
+                  ... on TextField{
+                    jsonValue
+                  }
+                }
+                pageType{
+                  targetItem{
+                    ... on PageType{
+                      pageType{
+                        value
+                      }
+                      icon:field(name:"Icon"){
+                        jsonValue
+                      }
+                    }
+                  }
+                }
+                publishedDate{
+                  ... on DateField{
+                    jsonValue
+                  }
+                }
+                publishedDateOverrideText{
+                  ... on TextField{
+                    jsonValue
+                  }
+                }
+                summary{
+                  ... on RichTextField{
+                    jsonValue
+                  }
+                }
+                relatedTopics{
+                  targetItems{
+                    ... on Tag{
+                      title{
+                        ... on TextField{
+                          jsonValue
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+          cTALink{
+            ... on LinkField{
+              jsonValue
+            }
+          }
+        }
+      }
+    }
+    
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{0F005D89-2171-49FC-8907-9EE60943EDFE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230711T081813Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dac137f0-40b6-4eb7-8cf7-62e842006b2d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230802T194315Z

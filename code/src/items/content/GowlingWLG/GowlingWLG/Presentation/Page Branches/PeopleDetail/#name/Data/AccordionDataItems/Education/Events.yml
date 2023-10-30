@@ -1,0 +1,41 @@
+﻿---
+ID: "95f90272-72ae-4819-9c6c-683be82e0ee6"
+Parent: "49ebe7cb-f271-4bfd-aa1f-fb78959f8248"
+Template: "0e773d3c-e2e3-457e-a3bb-24c8b1786b95"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/PeopleDetail/$name/Data/AccordionDataItems/Education/Events
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230627T172411Z
+    - ID: "2fad9520-6165-4890-9d14-a2322466177e"
+      Hint: UniversityName
+      Value: University
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2d91133-0b3e-4b08-938d-db88b9019e4a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232725Z

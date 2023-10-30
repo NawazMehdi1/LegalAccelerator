@@ -1,0 +1,55 @@
+﻿---
+ID: "01a52199-eb9b-4aec-af13-07df3271f936"
+Parent: "4c220454-a46f-45b4-a8c0-f0c3aa49742b"
+Template: "9a81445c-8d62-4269-be73-136df6f86997"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/On Demand Webinar/2023/sample-manual-OnDemandWebinar/Data/YouTubeVideo"
+BranchID: "34e9c3d9-e514-4afd-a0c1-09c5889bba63"
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{510A9026-FDF8-40D9-BE66-FE4B2C401799}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "sample-manual-OnDemandWebinar"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230922T074513Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "804d23e3-8823-4570-b8ff-072e3e24b081"
+      Hint: VideoId
+      Value: ikYWfBqaKtI
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f0b6c24-a632-4e09-bf31-cefe39014d78"
+    - ID: "93ec7e90-0245-4a07-b5fa-661800a6861b"
+      Hint: TranscriptText
+      Value: My name is Stephanie Harvey and I am a corporate/commercial lending lawyer with Gowling WLG. You are watching video one of our 'Types of Security' video series. As the name suggests, each video in this series will discuss different security that a lender should consider when putting its security package together.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230922T074513Z

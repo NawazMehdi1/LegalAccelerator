@@ -1,0 +1,44 @@
+﻿---
+ID: "477d6fde-5fef-4636-a4cf-eb319f55ba35"
+Parent: "6d870bcf-458d-47a9-abab-0984ab9cbc9e"
+Template: "1967d875-9d66-47a9-a995-f966c596b925"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/Footer Navigation Data/Newsletter
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/16x16/scroll.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230807T075202Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5e11956d-2cd3-4ab6-b81f-3f8a5a9f529f"
+      Hint: CTA
+      Value: |
+        <link class="" id="{A8E60519-9567-4739-9732-2FFDC6643C2B}" querystring="" anchor="" target="" title="" linktype="internal" text="Subscribe" url="/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Subscription" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f31d4a27-06b7-4d6c-9689-55b2e0f2e588"
+    - ID: "9d50ec83-f79c-45a8-a140-1be3c2f008b8"
+      Hint: SubscribeText
+      Value: |
+        <p class="mb-2.5 md:mb-0"><strong class="md:text-[24px] leading-normal">Sign up to our newsletter</strong></p>
+        <p>Sign up to receive insights on the latest legal changes and developments</p>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231018T123559Z

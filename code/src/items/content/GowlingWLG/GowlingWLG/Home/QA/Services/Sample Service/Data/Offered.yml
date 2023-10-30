@@ -1,0 +1,45 @@
+﻿---
+ID: "cb9cf928-15da-4031-b50a-855a35ce76cf"
+Parent: "cfb6eb97-841f-47a1-a1fd-3f4cc0be984a"
+Template: "5b793991-756e-471c-a97b-0af43c42ac33"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Services/Sample Service/Data/Offered
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230830T104403Z
+    - ID: "4ddb2f27-f50e-426e-90a0-cfdc8683a7df"
+      Hint: CTALink
+      Value: |
+        <link text="Experienced Hires" anchor="" linktype="internal" class="" title=""  querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "724188a6-8635-430b-b5f9-69a21ac1170d"
+      Hint: CTALink2
+      Value: |
+        <link text="Students" linktype="external" url="https://google.com" anchor="" target="" />
+    - ID: "8b9659fc-1880-400c-9585-b969e5352b9e"
+      Hint: Title
+      Value: Services Offered
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b5602f4c-763f-49f6-8df7-de622baa4846"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231010T124540Z
+    - ID: "fde2b1f6-e116-4573-9aa8-69c0881d930d"
+      Hint: Description
+      Value: Etiam porta sem malesuada magna mollis euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non.

@@ -1,0 +1,41 @@
+﻿---
+ID: "6526906e-bcd9-40ea-aacb-6ec6d7633ded"
+Parent: "550c280f-8cea-466c-9e9c-745244395913"
+Template: "5b793991-756e-471c-a97b-0af43c42ac33"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Service Detail/$name/Data/CTA with Image
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230830T104403Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8b9659fc-1880-400c-9585-b969e5352b9e"
+      Hint: Title
+      Value: Services Offered
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3ae74c30-77c3-4530-bdd7-cc64bdf78c16"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "c9b980bd-87b8-41df-9e29-d19edfe31ae4"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"87FC59F1-48D7-4370-A0E1CCD73BAC3024","name":"Global IP Advert_2017.jpg","description":null,"assetType":"Image","createdAt":"2020-05-17T17:48:57Z","publishedAt":"2017-04-05T00:00:00Z","updatedAt":"2023-09-25T14:46:44Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/78ebef35fe09bdee/webimage-Global-IP-Advert_2017-jpg.png","width":464,"height":600,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/78ebef35fe09bdee/thul-Global-IP-Advert_2017-jpg.png","width":193,"height":250,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/78ebef35fe09bdee/mini-Global-IP-Advert_2017-jpg.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Tags":["examples","advert","Global","IP","2017"],"Services":["Intellectual_Property"],"Asset_Subtype":["advertisements"],"Office":["canada"],"extension":["jpg"],"Asset_Type":["documents"]}}],"file":null,"overrideAltText":null}]]></asset>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230927T183022Z
+    - ID: "fde2b1f6-e116-4573-9aa8-69c0881d930d"
+      Hint: Description
+      Value: Etiam porta sem malesuada magna mollis euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non.

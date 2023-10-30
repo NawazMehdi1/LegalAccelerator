@@ -1,0 +1,69 @@
+﻿---
+ID: "caa94a48-bf3e-46cf-bd2c-a2b68e5a2c60"
+Parent: "0a2cffe2-0ec3-4f06-a635-01e282825bb7"
+Template: "25f18683-2f03-4776-ada3-6d2a76dbdf2d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/Reform Data/Newsletter Signup
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230623T032527Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "13f2f823-a8b9-454c-9e1a-030488596dd2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230623T032557Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <form method="POST" action="https://forms.reform.app/headless/5D8RMp/untitled-form/j4xd6a/submissions">
+        <div>
+        <label for="c8bc5151-7878-4ae5-a858-8880d90bde24">What's your name?</label>
+        <input 
+                    type="text"
+                    id="c8bc5151-7878-4ae5-a858-8880d90bde24"
+                    name="answers[c8bc5151-7878-4ae5-a858-8880d90bde24]"
+                    placeholder="Jane Smith"
+                    required
+                />
+        </div>
+        <div>
+        <label for="bf5b0f50-f524-44e6-b7c2-a2f30471c25a">What's your email?</label>
+        <input 
+                    type="email"
+                    id="bf5b0f50-f524-44e6-b7c2-a2f30471c25a"
+                    name="answers[bf5b0f50-f524-44e6-b7c2-a2f30471c25a]"
+                    placeholder="jane@example.com"
+                    required
+                />
+        </div>
+        <fieldset>
+        <legend>Agree to terms</legend>
+        <div>
+        <label for="82bfb8fd-886f-481e-953c-6e3402e1024c">This is a rich text block with all the info an editor might want here</label>
+        <input 
+                        type="checkbox"
+                        id="82bfb8fd-886f-481e-953c-6e3402e1024c"
+                        name="answers[82bfb8fd-886f-481e-953c-6e3402e1024c]"
+                        required
+                    />
+        </div>
+        </fieldset>
+        <button type="submit">Submit</button>
+        </form>

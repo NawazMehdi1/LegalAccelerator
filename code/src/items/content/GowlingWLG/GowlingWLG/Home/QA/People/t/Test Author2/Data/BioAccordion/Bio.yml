@@ -1,0 +1,519 @@
+﻿---
+ID: "b5fbfa68-07c7-49c8-9bcd-a8df94261dd0"
+Parent: "683993bc-209e-4d6b-8677-73fc327e854d"
+Template: "a0a28aa6-11ee-4dec-a76b-3e0f3ff28e0d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People/t/Test Author2/Data/BioAccordion/Bio
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{673D58E1-15B1-4673-A0D4-C345994B73F1}"
+Languages:
+- Language: "de-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "de-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "de-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "de-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "de-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "de-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c08f1a8e-065e-48e4-8436-29a40c7a7a00"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\debahuti.panigrahy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230823T140340Z
+- Language: "en-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "en-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "en-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "en-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "en-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "fr-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "fr-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "fr-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "fr-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z
+- Language: "fr-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: "{998F4F31-2820-43EF-A746-A1D526316382}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9682954-2e5e-4bb9-a730-6cfc2a5dede0"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Bio
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232848Z

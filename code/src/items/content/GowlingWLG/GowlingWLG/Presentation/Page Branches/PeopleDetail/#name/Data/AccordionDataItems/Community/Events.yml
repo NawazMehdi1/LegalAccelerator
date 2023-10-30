@@ -1,0 +1,47 @@
+﻿---
+ID: "974ba635-e8d8-4030-8d87-20f8e75b4348"
+Parent: "8b9f3a44-91bd-4c9c-bf3b-d407a21b7115"
+Template: "8c9e0755-0dd1-4418-9e3a-d2fee09173af"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/PeopleDetail/$name/Data/AccordionDataItems/Community/Events
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0aec6ae6-b4cc-4660-ac53-4eb2ce0b1ed0"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230627T172134Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "315ff6c7-86de-43c4-a8eb-7fd690eb4bb7"
+    - ID: "b8da4343-d55e-4587-9d5c-d524f94fbe8e"
+      Hint: CommunityName
+      Value: CommunityName
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d8316657-f6cc-4eb4-8417-c3b7b39b953f"
+      Hint: EndYear
+      Value: 2023
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232736Z

@@ -1,0 +1,41 @@
+﻿---
+ID: "d258f049-4b93-496b-81cc-1572ed9b2c85"
+Parent: "60cf5288-f2a2-479e-ba23-72f28c75042b"
+Template: "2cd04a03-daa5-4ce2-a0b2-59ca8ba9f45d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Services/Advertising and Product/Data/ServiceS Accordian
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230824T142909Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "63cc1182-f9fb-48ee-9161-9a78eecbbf1e"
+      Hint: AccordianList
+      Value: |
+        {A13FE186-2DAF-4297-949A-EBB7AB6B08B9}
+        {A0CAA37B-3A33-4393-B5D7-5E48B35738EC}
+        {6AD83E14-117A-43B7-BF8F-3F92E251D565}
+        {16D1111F-7E59-4E22-97E5-7DA7DCDBF0BE}
+    - ID: "64fca717-66fe-4fe9-9081-3d8b555b6e29"
+      Hint: Title
+      Value: Services 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "61a150bd-df42-4ac1-a30a-5e5d7a1f698e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230824T143236Z

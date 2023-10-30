@@ -1,0 +1,39 @@
+﻿---
+ID: "7b586361-e929-4458-8cc2-680e5f765b46"
+Parent: "d94ea1bb-b41f-4fc0-9b6f-caa269cf39b3"
+Template: "10f2461a-fb4d-4246-95e3-d6e2f01734f4"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/Images/Icons/OfficeIcons/OfficeIcon
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230821T095145Z
+    - ID: "47a6cc82-487f-425f-98e4-a573af91d6dd"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"C00C0436-5C03-4F56-A969A3D366C0CA01","name":"OfficeIcon","description":null,"assetType":"Image","createdAt":"2023-09-28T10:22:40Z","publishedAt":"2023-09-28T10:22:22Z","updatedAt":"2023-09-28T10:22:40Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/2674ffbecf966ece/webimage-OfficeIcon.jpg","width":504,"height":600,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/2674ffbecf966ece/thul-OfficeIcon.jpg","width":210,"height":250,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/2674ffbecf966ece/mini-OfficeIcon.jpg","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["Internal"],"extension":["svg"],"Asset_Type":["brand_guidelines"]}}],"file":null,"overrideAltText":null}]]></asset>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d2fa6f48-5791-4eb9-b431-2170d600a6aa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230928T111225Z

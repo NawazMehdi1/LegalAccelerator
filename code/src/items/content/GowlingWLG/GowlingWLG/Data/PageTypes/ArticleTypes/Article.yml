@@ -1,0 +1,52 @@
+﻿---
+ID: "8fde1066-13a3-4783-a982-fdc892d1b48f"
+Parent: "f77b34ae-8e12-4a0f-aab2-68c710774e26"
+Template: "6f293fd6-d303-4ed8-ac75-cb1e3f8f78fc"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/PageTypes/ArticleTypes/Article
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230727T100857Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c950f46-db3f-4791-8d95-62b780e4a766"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "bc21b84b-ab25-4460-b83d-7d5f54ff491e"
+      Hint: PageType
+      Value: Article
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230727T102542Z
+    - ID: "f37f6f4f-154b-456f-876f-e20ccc7791a9"
+      Hint: Icon
+      Value: |
+        <image mediaid="{3445931D-CC7C-4BA9-9E00-BE245AEF9003}" />
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230727T100857Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "871ab833-10cf-44c1-b28a-164bf350e770"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "bc21b84b-ab25-4460-b83d-7d5f54ff491e"
+      Hint: PageType
+      Value: Article
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231013T143726Z
+    - ID: "f37f6f4f-154b-456f-876f-e20ccc7791a9"
+      Hint: Icon
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"2354B767-7395-4596-A1D60CEFCAF1B652","name":"Article Icon","description":null,"assetType":"Image","createdAt":"2023-08-03T08:32:34Z","publishedAt":"2023-08-03T08:31:24Z","updatedAt":"2023-08-03T08:32:34Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/45c0f7180642027e/webimage-Article-Icon.png","width":800,"height":770,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/45c0f7180642027e/thul-Article-Icon.png","width":250,"height":241,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/45c0f7180642027e/mini-Article-Icon.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["icons_and_graphics"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>

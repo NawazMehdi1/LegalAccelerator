@@ -1,0 +1,34 @@
+﻿---
+ID: "9410b584-ede6-4f45-84a4-a07e70f4a6a3"
+Parent: "06828b4a-2706-4819-a723-b596c5d26b34"
+Template: "1be47dc8-ae4e-40c9-b4c5-0102d8da1a37"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Sector Listing/$name/Data/Accordian Folder/Energy
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "23d761fa-5cdc-48b9-bfaa-e1865d4eff08"
+      Hint: Title
+      Value: Energy
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230912T071834Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "043f00df-9dcc-417a-946f-c16cd72b5ec8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230912T073331Z

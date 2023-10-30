@@ -1,0 +1,60 @@
+﻿---
+ID: "5fd3fe5f-1453-44ab-a58b-516503eefbe3"
+Parent: "36fcf4ac-f32e-4731-a9e4-37c83b5f6c45"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/GowlingWLG/GowlingWLG/RegionIcons/UK
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/5FD3FE5F145344ABA58B516503EEFBE3.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 112
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "2224bc9d-9723-4511-b56b-662ee309eff7"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAHAAAABDCAYAAABEDoFIAAAKd0lEQVR4nO1dwW7iWBY91ySpkkbdoqTejGpjilQ3hBrJpFq9bfgDPB/QDdLsk3wB5guS7EcK3T/g1BfAujVTIE0lUNUg3KtW7dCoK+qBwncWxmDsZ2MHnBQVzip59rMfOXnvnvvevRdCXmdssZloqbQDAF/yn3hi/mH8lvjKCNGtEOugoqNp//DdZFAI0+GXRKopaA7VN2a0AQzdjU/4JvncfK/Yv3elv+K/9BgAsAMAGfN3/PzhnzIx6ube3k/ZbtvwfYWiyyBoAH5c48Bvj5ZaBICOnJEpIQ3CdMn0r4uexvtdiQwwKmirTWfjQFaSI2l0xNbfe4Yf/vIP/JJIAQAk5wUmaDQeNTrpXNn3VW3VQEstg5GC479/i1thCEYNLTXlJu/ds+zRKDEeuMlzQxK0yQS+6KYPBiGILIKhAjAiD/2hg/kcjBTaquZs7uy/KHTTBwOT6IzBSU8/ouZ7fGHYv0oAcEN7Q8ErZAJfdNIHeiejyL4DaauXaKkpMCrYEhkGTTCKaP/9GG11aDe+e64o3XSuQWw2AMieXkRNJqmY6V0VnVpFAoA30tM2T8wUg3/y9ANKNB4N3qZzF0uIrG+JDMQQjApaatG5XA5kJfnuWe7UNEctgAvuTgQaMqiS6V0Vs703Tff12RKaNbpGtt8pM0lFCAhgcFkaj1pvnx1UA4fZVutgFMGoQaCoHiAsO2ctl3W7cSArybfPDqqjxHhgEh+7OxFoyITa3uRDKtu/qruv27AJTNoN2d6bZqZ/nWKQZyYxkGSCFso+tlUNjDwAz6x+QGiCkUdb1ZzLZTedLf0vMWoxQRPZOQLq5u4kn+1daynDGLqvO2ETqOBQv4Ciy/aFbP+qnulfp5hQE/SbC539FwXfpy8q1odEpAFGcbpcGnajJVByDYB0BNi5b/rXlWy3a3iuA8C3esHZlzz+D6EOE7WFF8sZGQnSCCT0/QhUN3d3a4H+I2D7kBdYp9PcUskeYwQ/kDyN6/EDh2Cce5SlrMhSYlxlcNmnnwHwSabfufR9sqInIeEUjPkzWip53QhGGYQGDvXZjTP7ODFTIGp6u3A5pND5fF0PgVtg2zkpMW6JyLPt3KPJTd6XPEVP4lCvgjBYIG8KkR8IADIYF8jrAzeRmd5VUWQfgRmRjRBC53NyPYRuQSedKwfZOQDne5MPqUA7d6iXp8RpcOgUJ7xLqP8gK85lFQC6+9ljMB1BtJ4DBoNqQQpqBkUvg1D1eU4w7m8JHYJx4lSWgGXniLkqcgkAAERNiXDy9a9Xbd8nf6sXMEEVy0yNcAkVowDCwC10Mr3OGU/Mosh/hEPovHueUwKfvlmuh9At6MiKPHfEheQZtiPuS56iy8jrDUzQQEidEHYGuntpMHG+sGSsV+hoCLtZfrcz0LMS2RvOIDoWuwQ0ZDJrmV7nzPeplkCpgnEcYgxzRJiBi2BoILREQgdICAWKLXTePcudhhA6n5rrIXQLnBvObvKcjrgveYsC5fg2A7vdDFyEAQkn+Ld66WzspHNlAvvZtSj2Mdj1iHcGit2C/RcFMienIFKELyBq8s7E35cDgJd6CSZOcRu7b+PWM3ARMkzooo0AnpjFpRsBQTs6wP25HgK3YMHOichzbDgHOuJ5vQETYmc+ItYxA91PjLwRAFCTd3crS+0j4FWs65+BTTBq7g3nsTSuivYsAWu5NIGTwBVF0eWpI14KM8ZQWNMMXMR8I2DmCy5sBAhnERdCbQQAcZ56CE8LVt5wntu51lrJm40h3lACA4QaXrt8pWD7CGJoe+beecpoDwOfruiyPdNXnoGKnlxQ1fsvCsTmhe8Ygbq5a9aC7dyrI5imBh8nfGW0VIqbQBuWinNtBHT2DzRi/IhVhQ7WQOBsTMsdcQbVRGdzM1iOuC/5a4MdlQagDcZJrC+zPozhbMj2rrWOnKljZ0f269SRM3LWCPgvXxNmdo7NY59bDCapEkgcYM3kjwCAyloH6AThFIACTKPSAAzdQTV3hSk5xn2824nx7lieML0C6JXo+uOPf7SXnc0BwHQZbq51cG7k9dk4dgJue1AI3Jv8hLF+FbrFnWJL4IZjB7BC0n9OHzyYHInuhn/WHyYDcWT2FpuHLYEbji2BG44tgRuOLYEbji2BG44tgRuOLYEbji2BG44tgRuOHQB4jy8M2vR8d0KSQ4YsEFCPdzDx4ob2Spie8u8AwG+Jr4xv+tfxHUDeAaYn8qUw9276Z0X+qYxpmOV2Cd1w2Ae6Mg51LdY3mTDciSBB6KRzZRDLomsEGj76+KEe6oR8DQgaC5gMT9yOopchxRgPw/NnzwlkBKeE3R52dHM9zM0LQUXiQ5/zR5MPZ3dFHmAFKXf2DzSJccSeCDNGN31QdQVgXcLE8TR+NVbEG5XGfA7QQn64HzqyIlNifBEYDeYMV3+pl0AY4l9WLM+to9KsHLyhOzVAPMaIAcpxV7WKJbDXQtMKS19MehTBzmKlxGggJM8dru4MTTfXskwJUwNEcAYoM+HSe4crQNmZqEMkuH91rJvAtiiLxw921LOonBSBhiA+mdVHUXQZh7oeJXcuEqyIck8OpAhZo2tke9fqkkzlwSxTua0aeF1S48hIXheBVrZqS82HCU+0y0mFSsuKOTTdA0FqgB9mlTz8iHSXZIkhLWBVAp3ZqmfLbrbLbPiVk/LUR3n56mhZjnhMkMHQ3DUC/BA6E8suyWJlJOenGckrYRUChUVsROjIivw2nbvwTT9210ex7NwApnmGuyXOjXmxB6s+iy+my6rmV7IMgExsNhz2cTgthrRSIuttCGyGtXPLymzAkTee7b1pzgSKZefkW4wtLsiYoBFV6IQqybKi0IlCoCFKv/JDmPTjR5Ob/FSgJHGon8YmUNaFiEInTEkWh328ldAJQ6Bt5/JhnPGl9S6d9VGSp1g1R/xeICiG5IclQsebqRxR6AQTSFSfpRkvs3NLBAqImrxrpjL96+OUYQynDnTrHgTKuiAshuSHmdAJLMmSa8wSXEMKHT8CLTv3ulQJ5YiHECgeR5zvIH/ubmAT2Yq0ESAk0rMRsFTouAl0ltNoBg3GWe/Srw6YxxGPWMRmw6BE2gjod8qSRHmE3QjwETo2gU4711w20k46Vw5dH8VZC+XzJG4Rc6FTXUbk179etSNuBFhCx/p6AgBzAtuR7Bz4IlSh0rlA0YKe+1nCKoYUTehYGwGG67KoNuvQvhjKjVhaB8zPEd9cgbIuRBM61kaAv9CZbgQ84Zuk3RhIoF2Q2/ekYHMc8fuGReShrq8qdBhcdn6LizDF2i7gNqKxbwE3k/j88ccb62DVKmJTxcRbkHQLBxglEEo41D3FkNyY1g4od9N/uwQmviW5PDMwUqHSuSPeElWT3cIHTqGzBJn+fy6DhM6MQKdAQRhH/P5OCj4fRDzxeDTZy7tPPGYp1sRmQdjTXdjGriZr+ty/RVTYQqeKBCp2iIgI08pVGvKp7zF1yQh5nb/kP5Exf/d0uKG94RvpadvRlMS0wMwngjamktr9FW1BcH39nIxPS3A1Q9yjAEjeZamtLeJASyXfmmGbiE4mI4e5L7BA3Ybh/04dNvuEc7x5AAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 2736
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 112 x 67
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 67
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230619T144532Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: UK
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d3a5c8c0-815d-447e-a234-54866fc9dd7f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230619T144539Z

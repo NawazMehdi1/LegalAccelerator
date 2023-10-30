@@ -1,0 +1,112 @@
+﻿---
+ID: "2fdc3a56-2a19-425c-94fa-1ec5605b40ab"
+Parent: "bbd21fea-6067-478c-a1d7-021f9ebb64f6"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/PageContent/ContentTypeCTA
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: ContentTypeCTA
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query ContactTypeCTA($datasource: String!, $language: String!) {
+      item(path: $datasource, language: $language) {
+        id
+        referenceItem: field(name: "ReferenceItem") {
+          ... on LookupField {
+            targetItem {
+              title: field(name: "title") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              publishedDate:field(name:"PublishedDate")
+              {
+                ...on DateField{
+                  jsonValue
+                }
+              }
+              publishedDateOverrideText:field(name:"PublishedDateOverrideText")
+              {
+                ...on TextField{
+                  jsonValue
+                }
+              }
+              pageType: field(name: "PageType") {
+                ... on LookupField {
+                  targetItem {
+                    pageType: field(name: "PageType") {
+                      ... on TextField {
+                        jsonValue
+                      }
+                    }
+                    icon: field(name: "Icon") {
+                      ... on TextField {
+                        jsonValue
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+        CallToAction:field(name:"CallToAction")
+        {
+          ...on LinkField{
+            jsonValue
+          }
+        }
+        
+      }
+      backgorundImage:item(path:"{1E470B63-7E89-4784-8EAA-8B557F5FE9A9}",language:$language)
+      {
+        Image:field(name:"Image")
+        {
+          ...on ImageField{
+            jsonValue
+          }
+        }
+      }
+    }
+    
+    
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: /sitecore/templates/Project/GowlingWLG Site/Page Content/ContentTypeCTA/ContentTypeCTA
+- ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
+  Hint: Open Properties after Add
+  Value: 1
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{8D7377CB-B6F1-452A-AED5-8156D5158F00}"
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: "query:$site//*[@@name='Data']//*[@@templatename='ContentTypeCTA']|query:./ancestor-or-self::*[@@templatename='Page Data']"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230811T045827Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "602aa976-3696-403f-9c05-edc959776e4f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230817T183707Z

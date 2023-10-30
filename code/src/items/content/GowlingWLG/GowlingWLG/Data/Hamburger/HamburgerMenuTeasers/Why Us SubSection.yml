@@ -1,0 +1,47 @@
+﻿---
+ID: "9368135e-acaa-4961-9e75-66a7f99675cf"
+Parent: "2c69fb7d-cef4-41ac-a836-48cbd356a6b7"
+Template: "95c51d87-56bb-4616-88b4-82c2f06756df"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/Hamburger/HamburgerMenuTeasers/Why Us SubSection
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24ec1f7c-a77b-4980-bdd3-e202ccfc285f"
+      Hint: Title
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230615T053249Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "751e1b70-9fb2-4975-aa32-5bc7681f1837"
+      Hint: SelectedTeasers
+      Value: |
+        {F2E22727-5165-4185-97E2-CE3DBCD81249}
+        {C40A20E1-84C8-4367-99E4-15C416CD8D09}
+        {34E85D69-13B1-4667-8E76-FD1CB118B320}
+        {72B25DD4-574D-4C17-90F1-127B77926860}
+        {22C9A93C-B8E2-42AF-838C-9D1C7E959870}
+        {D77AE3CC-E458-4498-B6AE-440BB73985AC}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "371afafd-54a1-499e-8884-a8b853ba0f09"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230804T103023Z

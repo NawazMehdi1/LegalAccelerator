@@ -1,0 +1,49 @@
+﻿---
+ID: "9d6a58f3-dc77-48f7-bbd2-128037177c18"
+Parent: "3c6ef68f-cc9a-4ed2-bc15-6abae8025631"
+Template: "acf800b3-ef9d-4c23-a9e0-cf425e2121f3"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/Data/PageTeasers/RecentInsightsPageTeaser
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19f57aca-0f30-46fe-8458-feb1d285e899"
+      Hint: Description
+      Value: Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec id elit non mi porta gravida at eget metus.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230605T062631Z
+    - ID: "270d7980-404a-4e37-97c7-482eb9602e72"
+      Hint: PageType
+      Value: Article
+    - ID: "3df4a8cc-eab0-4d48-baa0-aba8aa2bbc7b"
+      Hint: Title
+      Value: Recent Insights
+    - ID: "3f77f32c-7c62-4e67-a71a-5a91497ac77c"
+      Hint: PageReferences
+      Value: |
+        {61C1421F-FF82-4213-A6BF-A1FE5F5DFBAF}
+        {72895BC1-E990-4CD6-AF23-D1915B9A7242}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "54346669-3f18-4e2b-8e18-0cca5dd753a2"
+      Hint: CTALink
+      Value: |
+        <link text="See All" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{DCB9B37E-9544-4BB0-8600-E419AA3A5C66}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "75b08130-e3e1-47a1-abff-080935bbb999"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230818T072552Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "6d11a8f5-1eef-4c6f-866b-b25c8ae9eeaa"
+Parent: "550c280f-8cea-466c-9e9c-745244395913"
+Template: "5b793991-756e-471c-a97b-0af43c42ac33"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Service Detail/$name/Data/Offered
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230830T104403Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8b9659fc-1880-400c-9585-b969e5352b9e"
+      Hint: Title
+      Value: Services Offered
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5c01f093-b0ba-42c9-9995-b1a0fd316325"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230830T104459Z
+    - ID: "fde2b1f6-e116-4573-9aa8-69c0881d930d"
+      Hint: Description
+      Value: Etiam porta sem malesuada magna mollis euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non.

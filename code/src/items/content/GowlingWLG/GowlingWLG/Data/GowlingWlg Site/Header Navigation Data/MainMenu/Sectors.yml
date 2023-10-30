@@ -1,0 +1,68 @@
+﻿---
+ID: "bd4cadfd-90bd-4b8c-a1dc-9f2065aee3b8"
+Parent: "9daddab7-806c-4af6-b712-66f58d5185c4"
+Template: "c20b160c-14ba-4966-bb7e-b55f0575310e"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/Header Navigation Data/MainMenu/Sectors
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 175
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T212522Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "543d8645-9315-4e26-bb71-d7ef398a72a3"
+      Hint: TeaserList
+      Value: "{65EA28A0-DF21-4973-893A-1F23F0DD23AC}"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "7058b998-e13e-45c4-8ace-a13e1e0d8105"
+      Hint: NavigationTitle
+      Value: Sectors
+    - ID: "87ce6bf2-f3ae-4f5d-a956-b8a7c1fbcb08"
+      Hint: SubMenuItems
+      Value: |
+        {D25F5C6F-B35C-46AA-9CC0-A7676166BE4D}
+        {692F46A2-2A9F-448F-8525-FEB864AFABFB}
+        {3750E49C-DAE5-42EE-B612-45BA0DC56BE3}
+        {4FB08309-6244-4C87-B025-B799120C9A7E}
+        {669F6A2D-44FD-40A8-A886-22F6080B06F8}
+        {5F365BAC-242A-48D3-9088-1A7ED786AAA7}
+        {5191F6BF-DAA4-410E-A46B-7B8B7FDFED93}
+        {62BB0EB9-6227-49F7-BA61-D1F31185F888}
+        {F1FC5AFE-4B20-4D72-A51D-088779CAFB89}
+        {C880AEBC-8207-48BE-A139-18A7944B7DB2}
+        {3D504283-A452-4D35-8ED5-C0D2BF456247}
+        {4F1A2DCB-484B-4CAD-9370-DF29B577D871}
+        {F5B2450B-0B30-424F-A7DB-D92D312B4088}
+        {88560905-A381-4430-AAB4-31533C2083D3}
+        {1E121454-1A1D-4E98-8F73-FA3CE4D4B376}
+        {7EBC9942-EF2F-4BD3-854B-9C74B686E0C7}
+        {F4C043F3-4D4F-4063-946A-EF76DE542A36}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4ccf50d3-cbc3-43a0-9244-a51f48d0e283"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "c887e3a6-88b5-4222-81be-22008c0c305f"
+      Hint: HasSubMenu
+      Value: 1
+    - ID: "d875b55c-24f8-4940-8058-19a2117800a3"
+      Hint: Link
+      Value: |
+        <link text="Sectors" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230727T151626Z

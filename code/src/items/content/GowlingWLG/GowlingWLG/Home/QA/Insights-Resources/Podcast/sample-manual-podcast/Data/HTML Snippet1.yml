@@ -1,0 +1,46 @@
+﻿---
+ID: "d5bb39aa-02a6-4bb8-a8ae-48b76f13d74b"
+Parent: "053f9036-3660-4089-8004-32a35db51ff9"
+Template: "25f18683-2f03-4776-ada3-6d2a76dbdf2d"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Podcast/sample-manual-podcast/Data/HTML Snippet1"
+BranchID: "45707b7b-35f1-4a5c-b913-7c40c228e8b4"
+SharedFields:
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{78FA0E78-BD95-42C9-BBDC-B8715D033E7A}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230921T121215Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "97463f5f-d378-46db-9a39-898b90207000"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T121215Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <iframe height="352" loading="lazy" src="https://open.spotify.com/embed/episode/1inbRu2zORN5DzMcCXWP1W?utm_source=generator&amp;theme=0" title="Listen to the podcast - IP Basics: Online brand infringement" width="100%"></iframe>

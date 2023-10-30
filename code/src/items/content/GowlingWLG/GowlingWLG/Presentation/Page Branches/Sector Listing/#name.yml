@@ -1,0 +1,100 @@
+﻿---
+ID: "28e3ec50-383d-4acf-b7f7-ce239f381ebc"
+Parent: "7d880dc3-cc31-4703-927a-b6387ae682f9"
+Template: "ca295d2d-fc88-4564-af21-cc1fe4cdfd6d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Sector Listing/$name
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{8727AB96-A95B-49F0-82A3-451DD1BB9460}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{18617428-D700-49C9-8F38-3B6FF78E098A}"
+              p:before="*"
+              s:ds="local:/Data/Watch Now CTA"
+              s:id="{2FDC3A56-2A19-425C-94FA-1EC5605B40AB}"
+              s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7BB626CB0C-110F-4832-AF84-39426C11EF16%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-1/row-3-2"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{59A37114-C228-4071-A862-CB6F8E893B16}"
+              p:after="r[@uid='{18617428-D700-49C9-8F38-3B6FF78E098A}']"
+              s:ds="local:/Data/See More Stuff"
+              s:id="{EB7A9AFB-C09D-4C06-85A7-5532452DA093}"
+              s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames&amp;Styles=%7B89622332-ADC6-40F2-B709-28595AF561BB%7D%7C%7B96982C95-CCB2-4DD9-AC99-E3B44BF0256B%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-1/row-2-2/column-2-4"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{C53C881C-F9F4-406B-B3CE-0C064D05346D}"
+              p:after="r[@uid='{59A37114-C228-4071-A862-CB6F8E893B16}']"
+              s:ds=""
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B5FA2694A-9794-4FF9-B169-88009EF89662%7D&amp;ColumnWidth2=%7B5FA2694A-9794-4FF9-B169-88009EF89662%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-main/container-1/row-2-2" />
+            <r
+              uid="{10479691-8800-41C4-8792-1C90C94C667E}"
+              p:after="r[@uid='{C53C881C-F9F4-406B-B3CE-0C064D05346D}']"
+              s:ds="local:/Data/Hero Banner"
+              s:id="{73246A93-D7E9-4088-8C26-10993148BBEB}"
+              s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;CTABackgroundColor&amp;FieldNames=%7BC914FEDD-BF69-445E-BCA8-EB8E66277E89%7D&amp;Styles=%7B96982C95-CCB2-4DD9-AC99-E3B44BF0256B%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/container-1/row-1-2"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{F19BE07D-3FFF-41D6-B923-B5500A316B09}"
+              p:after="r[@uid='{10479691-8800-41C4-8792-1C90C94C667E}']"
+              s:ds=""
+              s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+              s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{318DAD71-4819-4EDC-B575-9D50CDE32A40}"
+              p:after="r[@uid='{F19BE07D-3FFF-41D6-B923-B5500A316B09}']"
+              s:ds=""
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{CAF06FED-E99E-45E8-A721-401776B3BAF3}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Accordian Folder"
+              s:id="{7EEAAECE-41EA-4E05-A58C-BB104F7555B1}"
+              s:par="CSSStyles"
+              s:ph="/headless-main/container-1/row-2-2/column-1-4"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230912T060705Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2151a81b-cdc4-4458-bf15-d8c79cfca054"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230922T093459Z

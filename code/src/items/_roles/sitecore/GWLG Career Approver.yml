@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\GWLG Career Approver
+MemberOf:
+  Role: |
+    sitecore\GWLG Base Approver

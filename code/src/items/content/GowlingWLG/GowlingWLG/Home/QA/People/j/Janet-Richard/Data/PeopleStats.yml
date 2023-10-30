@@ -1,0 +1,52 @@
+﻿---
+ID: "f099a13c-1f7e-4804-a782-e21658547fa4"
+Parent: "d8f7e1ec-9e5d-4a35-b5d5-68d95cdf5bf8"
+Template: "05f5555d-b5d8-4fd9-9bab-f8ab76e46e32"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People/j/Janet-Richard/Data/PeopleStats"
+BranchID: "8b85ba3a-7ded-4e46-aec4-2f21991c8712"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{941DF193-CE93-422B-AD3C-1329309E8433}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232849Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "276e88c6-13d8-4d8b-b602-841534beb9e9"
+    - ID: "bac87508-7417-423f-9a94-9378596c2b3c"
+      Hint: SelectedStats
+      Value: |
+        {6BC93F03-1BF0-45C4-912B-DA0AC3A40655}
+        {65605CE2-024C-45F4-BE26-07EABA6CCD5B}
+        {0E89198E-EEDF-4B07-9E6A-13AE29DDD9CC}
+        {AC251791-3E72-46DC-9062-869E036F4FD6}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232849Z

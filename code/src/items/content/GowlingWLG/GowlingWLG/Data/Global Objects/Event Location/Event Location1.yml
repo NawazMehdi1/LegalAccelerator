@@ -1,0 +1,66 @@
+﻿---
+ID: "001b871f-4bef-49a0-b56d-b777c23494a2"
+Parent: "c201647d-9b44-4212-8a05-8567563b8d9d"
+Template: "494cc863-9985-42fd-a55b-942287cf896c"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/Global Objects/Event Location/Event Location1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f6edbc7-7e28-43f7-91dd-c0a520d43644"
+      Hint: Map URL
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{CB41FED2-CEC0-4E03-9800-9B4762C45C44}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230919T115352Z
+    - ID: "2a3dbe97-b37b-4ae1-a52f-bceb84fab0c0"
+      Hint: Postal Code
+      Value: 841428
+    - ID: "2b5ce110-5621-4177-94d6-62d0022c6338"
+      Hint: Geographical Longitude
+      Value: 84.444649
+    - ID: "3e6db088-cd9d-4f8d-a756-63c5585a6e75"
+      Hint: Geographical Latitude
+      Value: 26.467884
+    - ID: "4265b192-fa1b-41cc-956a-8ec59c123b2e"
+      Hint: AlternateImage
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"C366FEB9-2610-4260-8F97351BBB04EC09","name":"locationmapbig","description":null,"assetType":"Image","createdAt":"2023-09-25T10:50:50Z","publishedAt":"2023-09-25T10:49:01Z","updatedAt":"2023-09-25T10:50:50Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/77c19a1f6a2acbe0/webimage-locationmapbig.png","width":800,"height":719,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/77c19a1f6a2acbe0/thul-locationmapbig.png","width":250,"height":225,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/77c19a1f6a2acbe0/mini-locationmapbig.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["location_maps"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null,"overrideAltText":null}]]></asset>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "5f94509d-9e7f-40d8-bae4-40bd9746059f"
+      Hint: Address 2
+      Value: payarepur
+    - ID: "664ac096-0d27-4d0e-917d-675f0c1fd8cd"
+      Hint: Country
+      Value: India
+    - ID: "6664eb02-4dbe-4f88-832f-357c5bf6e073"
+      Hint: Building Name
+      Value: Shanti Bhawan
+    - ID: "84992fe2-2ab2-456e-a911-540cc47200e5"
+      Hint: City
+      Value: Gopalganj
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e2fead73-2438-4f24-ad95-b72f1da302d7"
+    - ID: "9fa552a6-b363-4e3b-96a6-6bfeb80e0400"
+      Hint: Address 1
+      Value: Shri Krishna Nagar
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230925T162824Z
+    - ID: "e3ce3c98-a0f9-47f7-961a-8787ac2f6c27"
+      Hint: State
+      Value: Bihar

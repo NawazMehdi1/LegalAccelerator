@@ -1,0 +1,54 @@
+﻿---
+ID: "9bd97c61-990e-419b-b26e-82f4d86b2f16"
+Parent: "9f00abe6-e3bd-4d2c-82c6-b31c77752c34"
+Template: "743cf4f5-e786-4109-80d8-2c760a76b178"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People/j/Janet-Richard/Data/BarAdmission/Events"
+BranchID: "8b85ba3a-7ded-4e46-aec4-2f21991c8712"
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EFC4DB04-691D-4071-88F3-735E8892AD26}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232843Z
+    - ID: "3cb4cecc-ccba-45d3-99b7-d389c7c1bb19"
+      Hint: AdmissionName
+      Value: AdmissionName
+    - ID: "52102d85-cfe9-4d53-a1e7-a6554a051d5e"
+      Hint: EndYear
+      Value: 2023
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "544062d6-e19c-468a-9c69-7935074c9081"
+      Hint: AdmissionType
+      Value: AdmissionType
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "61c09f81-421e-4dbc-b0ad-1b46f1ae6159"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "491ef614-54a5-4904-b54b-5a6fd3fbfa3e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232843Z

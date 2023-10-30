@@ -1,0 +1,39 @@
+﻿---
+ID: "58dd5180-ac8b-4609-b696-c18982cfd247"
+Parent: "a4d01470-4fd8-459b-8ff4-e2fb9cf0188f"
+Template: "aff2c22e-7d16-41f6-a1d1-4c5dc844930a"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/Career/Data/MainMenu/Business services and PAs/Reward and benefits
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230926T110319Z
+    - ID: "304cfb18-5bfc-4c0a-8101-9ebcaa7a3611"
+      Hint: Link
+      Value: |
+        <link text="Reward &amp; benefits" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b681fad5-0b01-4038-9757-ecc477265bc3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230926T110753Z

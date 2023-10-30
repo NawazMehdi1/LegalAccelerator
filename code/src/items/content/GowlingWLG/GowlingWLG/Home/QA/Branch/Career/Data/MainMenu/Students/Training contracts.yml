@@ -1,0 +1,45 @@
+﻿---
+ID: "37629d7e-f728-48e0-9670-b17c59988b4f"
+Parent: "f7941e6e-ee5c-4d54-a9c2-bfc9411b8da0"
+Template: "aff2c22e-7d16-41f6-a1d1-4c5dc844930a"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Branch/Career/Data/MainMenu/Students/Training contracts
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1cbf2a64-1e53-4f41-803e-f4b876f86ddf"
+      Hint: HasSubMenu
+      Value: 1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230926T104514Z
+    - ID: "304cfb18-5bfc-4c0a-8101-9ebcaa7a3611"
+      Hint: Link
+      Value: |
+        <link text="Training contracts" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ec2f2cf8-0684-415d-8b92-914f465e6462"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230926T105052Z
+    - ID: "f6c8535a-d0ac-4920-b287-4a3d0f3ce312"
+      Hint: SubMenuItems
+      Value: |
+        {8346DD21-73B9-4CD9-B777-F1BAB8EC14C7}
+        {7FAF73E5-8802-4ACF-B3A6-D24C1E4DA7B2}
+        {D42DE800-4480-4A98-9C12-52945EAF98B4}
+        {C3E2B729-3741-4733-9816-CB8347C0F23D}

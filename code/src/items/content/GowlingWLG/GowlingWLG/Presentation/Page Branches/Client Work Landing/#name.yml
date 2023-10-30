@@ -1,0 +1,88 @@
+﻿---
+ID: "2d123e22-0cad-4e93-b19f-48f06c080b3b"
+Parent: "ab5e03d1-8f50-4f3a-9825-172539378c9d"
+Template: "ca295d2d-fc88-4564-af21-cc1fe4cdfd6d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Client Work Landing/$name
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{8727AB96-A95B-49F0-82A3-451DD1BB9460}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{F19FAC82-4C87-4206-BA8F-CC3F9EB4A031}"
+          p:before="*"
+          s:ds="{1C6835CC-725E-4FE5-BBF1-A8600503BC0C}"
+          s:id="{FCB24B62-97A7-4A6B-9012-A36431C90411}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/container-1/row-3-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{E16CDE6A-2DF1-4213-92E5-3CAD2D7D63EF}"
+          p:after="r[@uid='{F19FAC82-4C87-4206-BA8F-CC3F9EB4A031}']"
+          s:ds="local:/Data/Content Cards"
+          s:id="{E9D452A6-8288-4438-BD3F-6F6F523A3BEE}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/container-1/row-2-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{D2E771C7-CF79-4899-B8AD-262D6900B2FE}"
+          p:after="r[@uid='{E16CDE6A-2DF1-4213-92E5-3CAD2D7D63EF}']"
+          s:ds="local:/Data/Hero Banner"
+          s:id="{73246A93-D7E9-4088-8C26-10993148BBEB}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;CTABackgroundColor&amp;FieldNames=%7BC914FEDD-BF69-445E-BCA8-EB8E66277E89%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/container-1/row-1-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{8B8AFA74-EFED-44D5-9C56-85883DA0B4B1}"
+          p:after="r[@uid='{D2E771C7-CF79-4899-B8AD-262D6900B2FE}']"
+          s:ds=""
+          s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{24A7DFC8-7A30-47CB-AA22-59454C090AA7}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230922T035857Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "72d2f741-e379-4e21-b16d-6044a5103a9d"
+      Hint: HideInBreadcrumb
+      Value: 1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1ef6c5c8-0d2f-4dac-a8ce-637510a5751f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231010T064306Z

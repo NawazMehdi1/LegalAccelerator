@@ -1,0 +1,57 @@
+﻿---
+ID: "23bd7c47-c914-4fe9-ae91-a0f8e1d87bb9"
+Parent: "36fcf4ac-f32e-4731-a9e4-37c83b5f6c45"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/GowlingWLG/GowlingWLG/RegionIcons/GermanyMobile
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/23BD7C47C9144FE9AE91A0F8E1D87BB9.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 26
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "49ef52c2-20be-439d-b05b-84161ec4f2bb"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFLSURBVHgBvZYxUoNAFIb/t/EAHsCCGQ9gUlhYBY+QG+Qo8QQZb+BNgNoCcgJjb0FrEdd/YTdBhgQUnt/MP1CE9+U9YBdBPzGz9MfIx1EyBbNjXvz5n4iZhLEDk/hrBnPNbH8haGfra1wkYvIRkpAcpxF3djKFpCnr7GzMuC6N8QexgiQkbooSRVESJHNFybGrq4+b27VAoMkXRQaQOygz48piRKrRqWKtjQwn2PsWj0aEon/CWIt36FMaI3iDMny+d+YAZNDG2kLsK5eI2entVUGwMHKPlKcp9MhkgaJ+6g54ghaCjTtUoqori2dMDWuym/QoQn22wYgPjA4KX9OX99Bcss0VppEV+MSqqtkWedmessdRY3TXsoY8sFaz9tnf53zsbdX6EsPI3I0P96RN70ZE4Zwbyhr1Ku+2lLAIu6Vrzz+Tci7pOUHgG2WD3jHjwAgxAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 438
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 26 x 26
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 26
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230926T104819Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5fbb0e6f-170e-413d-80cf-5ac9a09a7cb2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230926T104819Z

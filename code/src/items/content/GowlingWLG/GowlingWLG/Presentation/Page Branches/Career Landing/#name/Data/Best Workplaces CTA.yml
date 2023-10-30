@@ -1,0 +1,41 @@
+﻿---
+ID: "2bd262d9-404e-4d25-8db1-b528f55521ba"
+Parent: "879b4e20-75ec-44f8-b10e-73b480d964f8"
+Template: "5b793991-756e-471c-a97b-0af43c42ac33"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Career Landing/$name/Data/Best Workplaces CTA
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230901T073852Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8b9659fc-1880-400c-9585-b969e5352b9e"
+      Hint: Title
+      Value: Ranked by Great Place to Work for 23 Consecutive Years
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fdd35218-0251-4746-bbe3-644e834fb5bb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "c9b980bd-87b8-41df-9e29-d19edfe31ae4"
+      Hint: Image
+      Value: |
+        <image mediaid="{33069873-93DE-49F3-BEED-D68B6A7CDCA1}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230901T074249Z
+    - ID: "fde2b1f6-e116-4573-9aa8-69c0881d930d"
+      Hint: Description
+      Value: We are delighted to announce that we have been recognized as one of the top 10 best place to work in UK and have been ranked by great place to work for 23rd consecutive years.

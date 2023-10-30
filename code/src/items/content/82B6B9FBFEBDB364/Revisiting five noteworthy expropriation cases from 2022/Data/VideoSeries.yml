@@ -1,0 +1,57 @@
+﻿---
+ID: "f34098e4-e1cc-4f39-9d27-0fd79f53af1f"
+Parent: "58daba14-4038-40d5-a757-324256613eb1"
+Template: "7862cccf-30dc-4644-ab02-ebe6f8605619"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Videos/Revisiting five noteworthy expropriation cases from 2022/Data/VideoSeries"
+SharedFields:
+- ID: "39c4902e-9960-4469-aeef-e878e9c8218f"
+  Hint: __Hidden
+  Value: 0
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{148F4BB6-3339-4050-B1E7-6BF1C655D994}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T060324Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fd71ab25-6b4b-4d4b-a0d3-1d3370f89095"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d39b9020-987c-4c8c-892f-0e0ac29c9c42"
+      Hint: Series
+      Value: |
+        {F1F4271E-33A9-474C-80C4-54BCE0A856E0}
+        {9C92F8E0-F995-45A0-AC37-17434C570524}
+        {888D8031-3AFC-4C1D-A594-62459051EEC4}
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230821T123532Z
+    - ID: "df39f04a-b7ca-4493-b70b-448a79875f7d"
+      Hint: SeeAllCTA
+      Value: |
+        <link class="" id="{5119B51D-2CAD-4506-9842-B0D40ABC2CD0}" querystring="" anchor="" target="" title="" linktype="internal" text="See All" url="/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Videos" />

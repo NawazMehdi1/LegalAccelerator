@@ -1,0 +1,46 @@
+﻿---
+ID: "2fbd6338-66af-474d-b51b-0d5fd63bd2d5"
+Parent: "879b4e20-75ec-44f8-b10e-73b480d964f8"
+Template: "180c4932-4351-42a8-8537-3ba5fc1cffb8"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Career Landing/$name/Data/HoverOverCards
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: imaging/32x32/drop_shadow.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+    {F36BC793-183B-49E2-80EC-D89313FA9536}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230828T112942Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5243fb18-bf44-4bf7-a5b3-397501564968"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d8b8bdb6-c190-45b9-86bc-168680c8ee5c"
+      Hint: Title
+      Value: Learn More
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230829T122247Z
+    - ID: "f3a1edd0-e468-4c51-b5d0-5bb8ee5a57af"
+      Hint: Description
+      Value: Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit

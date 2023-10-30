@@ -1,0 +1,38 @@
+﻿---
+ID: "9afc93db-0195-4814-bf23-81d4910638db"
+Parent: "f77b34ae-8e12-4a0f-aab2-68c710774e26"
+Template: "6f293fd6-d303-4ed8-ac75-cb1e3f8f78fc"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/PageTypes/ArticleTypes/ClientWork
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230821T060557Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "10a68886-c7ab-4f4b-8d64-e765adc1efd1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "bc21b84b-ab25-4460-b83d-7d5f54ff491e"
+      Hint: PageType
+      Value: Client Work
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230905T073728Z
+    - ID: "f37f6f4f-154b-456f-876f-e20ccc7791a9"
+      Hint: Icon
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"2AA6803F-93FC-4F5D-86ACAA84A5D3E901","name":"ClientWork_PageType","description":null,"assetType":"Image","createdAt":"2023-09-05T07:35:14Z","publishedAt":"2023-09-05T07:34:22Z","updatedAt":"2023-09-05T07:35:14Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/20433124b56b96ef/webimage-ClientWork_PageType.png","width":800,"height":711,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/20433124b56b96ef/thul-ClientWork_PageType.png","width":250,"height":222,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/20433124b56b96ef/mini-ClientWork_PageType.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["icons_and_graphics"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>

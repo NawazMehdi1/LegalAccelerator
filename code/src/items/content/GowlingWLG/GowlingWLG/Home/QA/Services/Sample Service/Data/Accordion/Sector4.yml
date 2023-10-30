@@ -1,0 +1,41 @@
+﻿---
+ID: "cb7dc7a3-e8f6-495d-b78d-7d45665fabb4"
+Parent: "73b7423f-635a-4b39-96c8-c0cddf6822cc"
+Template: "1be47dc8-ae4e-40c9-b4c5-0102d8da1a37"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Services/Sample Service/Data/Accordion/Sector4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b64d01b-78cd-4e06-83ea-59b5827aac4d"
+      Hint: Description
+      Value: Etiam porta sem malesuada magna mollis euismod. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper nulla non metus auctor fringilla. Maecenas sed diam eget risus varius blandit sit amet non.
+    - ID: "23d761fa-5cdc-48b9-bfaa-e1865d4eff08"
+      Hint: Title
+      Value: Section Subheading
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230830T104052Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "964bd837-1f2e-42a3-be7d-b5d4bbd178ea"
+    - ID: "ac511b8a-fc0e-4bf9-b980-463b837da1e1"
+      Hint: CTA
+      Value: |
+        <link text="Learn More" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{42AA17EA-738C-4E8A-8242-7DFC3F201A82}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230830T104221Z

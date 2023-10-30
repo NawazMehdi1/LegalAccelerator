@@ -1,0 +1,109 @@
+{
+  "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Project.GowlingWLG",
+  "items": {
+    "includes": [
+      {
+        "name": "content",
+        "path": "/sitecore/content/gowlingwlg",
+        "rules": [
+          {
+            "path": "/GowlingWLG/Home",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+		  {
+            "path": "/GowlingWLG/Home/People",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/GowlingWLG/Home/Global Reach",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/GowlingWLG/Home/Insights-Resources",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/GowlingWLG/Dictionary/GowlingWLG/News",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/GowlingWLG/Dictionary/GowlingWLG/Events",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/GowlingWLG/Home/Services",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/GowlingWLG/Home/Sectors",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/GowlingWLG/Dictionary/GowlingWLG/People",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/GowlingWLG/Data/Tags",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/GowlingWLG/Data/Global Objects",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/GowlingWLG/Data/Texts/Event Contacts",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/sitecore/system/Settings/Services/Rendering Hosts",
+            "scope": "ignored"
+          },
+          {
+            "path": "/GowlingWLG/Settings/Site Configuration",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/GowlingWLG/Settings/Site Grouping/GowlingWLG",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/GowlingWLG/Settings/Sitemap",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateOnly"
+          }
+        ]
+      },
+      {
+        "name": "media library",
+        "path": "/sitecore/media library/Project/GowlingWLG/GowlingWLG",
+        "rules": [
+          {
+            "path": "/Sitemaps",
+            "scope": "ignored"
+          }
+        ]
+      }
+    ],
+    "excludedFields": [
+      {
+        "fieldId": "f57099a3-526a-49f2-aebd-635453e48875",
+        "description": "Predefined application rendering host field in Site Grouping Template"
+      }
+    ]
+  }
+}

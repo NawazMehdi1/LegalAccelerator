@@ -1,0 +1,35 @@
+﻿---
+ID: "674ab48b-0052-4236-9e9b-09736b0a3ca7"
+Parent: "4aa82db5-08fc-41b0-be68-0d5aea77419f"
+Template: "aff2c22e-7d16-41f6-a1d1-4c5dc844930a"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/Career/Data/MainMenu/Legal professionals/Reward and benefits
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230926T110319Z
+    - ID: "304cfb18-5bfc-4c0a-8101-9ebcaa7a3611"
+      Hint: Link
+      Value: |
+        <link text="Reward &amp; benefits" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e5ade189-89f2-41ca-a00b-6f782893187d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230926T110419Z

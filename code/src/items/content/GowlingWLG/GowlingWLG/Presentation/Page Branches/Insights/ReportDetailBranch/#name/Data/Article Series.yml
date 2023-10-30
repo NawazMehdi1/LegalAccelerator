@@ -1,0 +1,53 @@
+﻿---
+ID: "cc1d45a1-d163-4d03-956c-59c25bbb78ac"
+Parent: "eed142ba-4aaa-4104-9ebb-4ecbbfd6d36a"
+Template: "acf800b3-ef9d-4c23-a9e0-cf425e2121f3"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Insights/ReportDetailBranch/$name/Data/Article Series
+BranchID: "b71e4e6b-a942-4622-8c4c-60aeedff3e73"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "19f57aca-0f30-46fe-8458-feb1d285e899"
+      Hint: Description
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230921T101847Z
+    - ID: "270d7980-404a-4e37-97c7-482eb9602e72"
+      Hint: PageType
+      Value: Report
+    - ID: "3df4a8cc-eab0-4d48-baa0-aba8aa2bbc7b"
+      Hint: Title
+      Value: Rest of Articles in the series
+    - ID: "3f77f32c-7c62-4e67-a71a-5a91497ac77c"
+      Hint: PageReferences
+      Value: |
+        {61C1421F-FF82-4213-A6BF-A1FE5F5DFBAF}
+        {72895BC1-E990-4CD6-AF23-D1915B9A7242}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "54346669-3f18-4e2b-8e18-0cca5dd753a2"
+      Hint: CTALink
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "806547dd-44f4-4aba-ae4e-a1918470ddac"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T173925Z

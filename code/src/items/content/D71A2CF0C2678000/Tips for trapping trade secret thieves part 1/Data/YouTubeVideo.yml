@@ -1,0 +1,54 @@
+﻿---
+ID: "ff7ae968-c168-4cb1-b472-b5d7c8683d78"
+Parent: "24e800b3-8527-4a4a-8876-78b4e5d9f5b8"
+Template: "9a81445c-8d62-4269-be73-136df6f86997"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/On Demand Webinar/2023/Tips for trapping trade secret thieves part 1/Data/YouTubeVideo"
+BranchID: "34e9c3d9-e514-4afd-a0c1-09c5889bba63"
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{510A9026-FDF8-40D9-BE66-FE4B2C401799}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Tips for trapping trade secret thieves - part 1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "20b4a65e-75bb-4ab9-abc8-0312e019baf4"
+      Hint: VideoTitle
+      Value: Tips for trapping trade secret thieves
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230810T165247Z
+    - ID: "6c642084-0c24-4c05-9fdb-ad9651ccf263"
+      Hint: TileCTA
+      Value: |
+        <link class="" id="{72C91DA5-1F04-4359-BD4E-542DB3DB4F66}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/On Demand Webinar/2023/Tips for trapping trade secret thieves part 1" />
+    - ID: "767f713b-2a11-49db-a37e-40f703891fde"
+      Hint: VideoDescription
+      Value: Tips for trapping trade secret thieves Tips for trapping trade secret thieves Tips for trapping trade secret thieves Tips for trapping trade secret thieves Tips for trapping trade secret thieves Tips for trapping trade secret thieves Tips for trapping trade secret thieves Tips for trapping trade secret thievesTips for trapping trade secret thievesTips for trapping trade secret thieves
+    - ID: "804d23e3-8823-4570-b8ff-072e3e24b081"
+      Hint: VideoId
+      Value: C_o9o1PUvKo
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2fad5833-6b5a-4355-b44e-77cf018ab91e"
+    - ID: "93ec7e90-0245-4a07-b5fa-661800a6861b"
+      Hint: TranscriptText
+      Value: My name is Stephanie Harvey and I am a corporate/commercial lending lawyer with Gowling WLG. You are watching video one of our 'Types of Security' video series. As the name suggests, each video in this series will discuss different security that a lender should consider when putting its security package together.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T065224Z

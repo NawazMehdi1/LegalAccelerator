@@ -1,0 +1,90 @@
+﻿---
+ID: "0def21b6-f205-4364-b2ab-e42ccbbb1a22"
+Parent: "83df2d75-b7b9-4349-a5f2-46a742ac0bc2"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/Search/EventsListing
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: EventsListing
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
+  Hint: Placeholders
+  Value: "{EC229D6A-40CC-4202-B829-1FD7CDE0A1EB}"
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Business/32x32/calendar.png
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query SearchQuery($datasource: String!, $language: String!) {
+      datasource: item(path: $datasource, language: $language) {
+        ResultsPerPage: field(name: "ResultsPerPage") {
+          ... on MultilistField {
+            targetItems {
+              ResultCount: field(name: "ResultCount") {
+                ... on IntegerField {
+                  jsonValue
+                }
+              }
+            }
+          }
+        }
+      }
+      searchWidgetId: item(
+        path: "{779F06CE-DDE4-4C5A-BFA1-9322614FAEC9}"
+        language: $language
+      ) {
+        name
+        widgetId: field(name: "Title") {
+          value
+        }
+      }
+      eventCategoryType: item(
+        path: "{EA03DA76-1937-415E-9CA4-0136BC6110C1}"
+        language: $language
+      ) {
+        name
+        type: field(name: "PageType") {
+          value
+        }
+      }
+    }
+    
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: /sitecore/templates/Project/GowlingWLG Site/Page Content/Pagination/ResultsPerPage
+- ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
+  Hint: Open Properties after Add
+  Value: 1
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{4247AAD4-EBDE-4994-998F-E067A51B1FE4}"
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: "query:$site//*[@@name='Data']//*[@@templatename='ResultsPerPage']|query:$sharedSites//*[@@name='Data']//*[@@templatename='ResultsPerPage']"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230918T131430Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6a5478a4-9f55-4180-8297-74565dbdb749"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231020T104912Z

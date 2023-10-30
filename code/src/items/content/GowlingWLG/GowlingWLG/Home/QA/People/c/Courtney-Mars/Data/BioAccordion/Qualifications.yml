@@ -1,0 +1,45 @@
+﻿---
+ID: "0377fa3f-2595-4e15-a520-03da30f392be"
+Parent: "0462e1b5-7ddf-4178-bf24-3c3f52008043"
+Template: "a0a28aa6-11ee-4dec-a76b-3e0f3ff28e0d"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People/c/Courtney-Mars/Data/BioAccordion/Qualifications"
+BranchID: "8b85ba3a-7ded-4e46-aec4-2f21991c8712"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 175
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{64137506-EFB0-42F4-BE5B-136826434BCA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232848Z
+    - ID: "6d97f306-2e07-4c1c-a940-41dc197b6309"
+      Hint: DataItems
+      Value: |
+        {297ECAD5-FBED-400C-8FBC-A483FB91489A}
+        {68EA5929-B4C7-4CCB-B381-F2D71F42146F}
+        {713F23F5-B413-4971-95E0-4BBAAC65D638}
+        {C976156B-636A-4EC3-BA8C-84EEA7BECD53}
+        {FCF21B02-8DBF-4C19-B842-07FC2EDFE9C0}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b54fe970-fcd6-471e-aba2-dbd21dc0b72e"
+    - ID: "90d4ff5b-ce28-4a08-b204-570d399ec665"
+      Hint: AccordionTitle
+      Value: Qualifications
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230905T092236Z

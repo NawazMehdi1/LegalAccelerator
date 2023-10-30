@@ -1,0 +1,38 @@
+﻿---
+ID: "e337a067-1d74-4856-9637-67bb9454a7b2"
+Parent: "a5501e7e-1291-4d6c-be62-0900d1cb467c"
+Template: "d3a06107-b0fe-4dab-8efa-ad719a813cd2"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Home/$name/Data/ContentTeasers/StartTheConversations
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230607T000906Z
+    - ID: "4f0b0991-ac19-46ca-940d-ff659fc993b9"
+      Hint: Image
+      Value: |
+        <image mediaid="{B97A1511-0143-4C96-9E6B-E8613FC50092}" />
+    - ID: "5cc50661-2245-4356-9884-949073755ec6"
+      Hint: Title
+      Value: Start the Conversation
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c535f5bb-8938-44d3-84a1-9c4a741d25f5"
+    - ID: "b58d02fb-5985-46d5-a12e-944140295ba5"
+      Hint: Description
+      Value: Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Fusce.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230908T113314Z
+    - ID: "dc48ab6f-ed61-4430-8a12-c5e8930e2201"
+      Hint: CTAList
+      Value: |
+        {AA5E42E6-FC06-498B-861C-98011C6D0EA6}
+        {D340159C-B25F-451E-9676-B051FAB33A20}

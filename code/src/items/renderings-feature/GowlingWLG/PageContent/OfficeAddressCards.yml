@@ -1,0 +1,123 @@
+﻿---
+ID: "a589394e-642a-4ccc-8c25-abd801e203fb"
+Parent: "bbd21fea-6067-478c-a1d7-021f9ebb64f6"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/PageContent/OfficeAddressCards
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: OfficeAddressCards
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query OfficeAddressInfo ($contextItem: String!, $language: String!) {
+     dataSource: item(
+        language:$language
+        path: $contextItem
+      ) { 
+          offices: field(name: "offices") {
+            ... on MultilistField {
+              targetItems {
+                ... on OfficePage {
+                  CityTitle: field(name: "Title") {
+                  jsonValue
+                }
+                BuildingName: field(name: "Building Name") {
+                  jsonValue
+                }
+                OfficeAddress1: field(name: "Address 1") {
+                  jsonValue
+                }
+                OfficeAddress2: field(name: "Address 2") {
+                  jsonValue
+                }
+                OfficeAddress3: field(name: "Address 3") {
+                  jsonValue
+                }
+                City: field(name: "City") {
+                  jsonValue
+                }
+                State: field(name: "State") {
+                  jsonValue
+                }
+                PostalCode: field(name: "Postal Code") {
+                  jsonValue
+                }
+                DXForUKOnly: field(name: "DX_UKOnly") {
+                  jsonValue
+                }
+                Country: field(name: "Country") {
+                  jsonValue
+                }
+                PhoneNumber: field(name: "Phone") {
+                  jsonValue
+                }
+                FaxNumber: field(name: "Fax") {
+                  jsonValue
+                }
+                MapURL: field(name: "Map URL") {
+                  jsonValue
+                }
+    
+                }
+              }
+            }
+          } 
+      }
+    Icons: item(path: "{07B4784D-C66C-448A-BDB4-FC90F143BB5D}", language: "en") {
+        children(includeTemplateIDs: "{9C78DD38-32E0-4997-843E-863DE66AE2F3}") {
+          results {
+            name
+            MapIcon: field(name: "MapIcon") {
+              jsonValue
+            }
+            HoverMapIcon: field(name: "HoverMapIcon") {
+              jsonValue
+            }
+          }
+        }
+      }
+    }
+    
+    
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: 
+- ID: "308e88f5-cd6e-4f8f-bafe-95a47dedefdc"
+  Hint: Editable
+  Value: 1
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{D5ED5723-EC3C-4A38-AE3A-FF93BCF5EADB}"
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: 
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230802T100015Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7df50a52-b426-4cc5-a0d8-81e69d3df0d8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231005T095634Z

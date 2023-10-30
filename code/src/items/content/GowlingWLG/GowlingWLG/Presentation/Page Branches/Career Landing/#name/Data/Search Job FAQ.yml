@@ -1,0 +1,46 @@
+﻿---
+ID: "fdb63942-d171-4c0b-ae04-1271a370c28e"
+Parent: "879b4e20-75ec-44f8-b10e-73b480d964f8"
+Template: "2cd04a03-daa5-4ce2-a0b2-59ca8ba9f45d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Career Landing/$name/Data/Search Job FAQ
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "03201255-a0a8-411e-9fd9-be0878925cd3"
+      Hint: Description
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230901T071820Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "63cc1182-f9fb-48ee-9161-9a78eecbbf1e"
+      Hint: AccordianList
+      Value: |
+        {AD474EAE-6586-4CE3-B396-D773320EE922}
+        {F414A25F-79D3-4B5B-A202-BEEF141B2524}
+        {39D39910-765D-4648-8ACF-87D879AA30EF}
+        {B90B0D0A-E3F0-4338-8561-A297E014AB40}
+        {FFEB3DA6-30BA-4B41-8F60-BD2CF16D99A4}
+        {1F7FA05C-A8BD-4FB6-9111-9A7968F926BC}
+    - ID: "64fca717-66fe-4fe9-9081-3d8b555b6e29"
+      Hint: Title
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "636d7d93-35da-4d56-986a-738cc2a7602a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230906T094511Z

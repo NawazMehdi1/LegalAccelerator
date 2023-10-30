@@ -1,0 +1,60 @@
+﻿---
+ID: "b61bb9cc-65f4-44d6-b163-3b306c9215ae"
+Parent: "36fcf4ac-f32e-4731-a9e4-37c83b5f6c45"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/GowlingWLG/GowlingWLG/RegionIcons/China
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/B61BB9CC65F444D6B1633B306C9215AE.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 99
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "ac74ca0a-bc39-4ea2-9a12-0fe00d68c6ae"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAGMAAABCCAYAAABDy2gGAAADo0lEQVR4nO2bO1DbQBCGf0sIGz3M056EQMBkaHAtZlKFtEnt1NRJTdpQk5rU1KSmp8a1M2mSEcNADOJlZAmDIpHCMDwCWI8Ze7H2Kz13vrU/3+7d6Zz69Xr6AkzH6cl6Kz3untTpOBgAf/ckCJ0OgrmGZRCCZRCCZRCCZRCi7TIExYOUdwEA6cmzdg9Pmp52D+jbIvLzuxBlH4LiYWtxot0hkKUjacp3BKizJ5Dy58jOHXciBJK0fWZkJhu4uEihYWRwWpFxbmTaHQJZYslQdQvODxm+LQbu0zAyaKxk0D9Xg1OR4Zp8AnBFrDSVfVuDOmtF6muVVRZxh8gyBMWDpp+g/00tUv8wsykpRJYhFx0AzRogKF7sQK6Wu0kmsgxVb6YnQfEgzzixAxkumVB1C4puQcolU0xkGZp+XSui1g2gKXO4ZEIu2njxeQt9hUZia0kkGeqsdSs1aboVOVX5toiT9YHrgOT4Ke+pcu/SNl04Q3ri9MFO2p2ZICgeBt8dPvqLrpe1B4u2a0pwKgoOVnNIF5o1KIkFPvXz1cy9j11HPpgYLpmxB3DNXlSXR+FU5Njv1c2kgJUH09T+ag6/P07DNXsjD1AvazAWplhEQB6tGa4pYevLBGo3cnoQfFvE3sozbC+Nw7f5lD4oLY9DXFNCdXkUZ0YGIyWzZaF2zV7sLI2hEfHMSVD8xAoM/KmP1obw59toy3bGwlRoEYLiQ1B8SHkXw6W9UH27iVAHhareej+RmWyErhG+LeD5px1k544vV2QpHK8NxqpXT5FQ+UAu2i3bKPpJpECssgYAEGUfdllLnAgghIy+ovPfMcXR2hCcinLrtYG5aAeH6ckGNi9TXFJXX4HTVP+NJ3J39w439ySC4kEuOqG/0IPVHABg++tYYjd9gWfGVYq6b+9wd08SNVUBzWVxEkUAAWWkC2cQZf/RvYNrSjAWCqitD0RKVYLih+7TbQSSIc/YMBamcLQ29Gg73xZRXR7F/vdc4Gs4ufld9BUd5Oergdp3M4FqRisJcdqLioeXiwbqG9lQY3QjHd3qqrMW5JlmLerJn2Pw/WEnw+k4bb+qc5P6hob6hobxxU2+zAYid22rAY5ZkgAJGfzvqSYkZDBNWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYhWAYh/gF1Eyf6QBYNxQAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 988
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 99 x 66
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 66
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230619T144639Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: China
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f23e31f6-874f-4f36-8937-c009f6152265"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230619T144644Z

@@ -1,0 +1,49 @@
+﻿---
+ID: "d0723321-8761-4164-bf74-d13e6dcd7142"
+Parent: "da5f7668-03d3-4845-be44-d5811f4864ec"
+Template: "1be47dc8-ae4e-40c9-b4c5-0102d8da1a37"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Home/$name/Data/AboutGowling/DEandI
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: DE&I
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0b64d01b-78cd-4e06-83ea-59b5827aac4d"
+      Hint: Description
+      Value: Aenean lacinia bibendum nulla sed consectetur. Nullam id dolor id nibh ultricies vehicula ut id elit. Donec id elit non mi porta gravida at eget metus. Curabitur blandit tempus porttitor. Donec id elit non mi porta gravida at eget metus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Cras justo odio, dapibus ac facilisis in, egestas eget.
+    - ID: "23d761fa-5cdc-48b9-bfaa-e1865d4eff08"
+      Hint: Title
+      Value: DE&I
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230603T002345Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ca7f4870-febe-4191-8d9d-ff31d286f8c4"
+    - ID: "a5398da9-2e7a-494d-b9d1-ea8b66ee9cf8"
+      Hint: Image
+      Value: |
+        <image mediaid="{B25D7AE0-DA13-40DE-92AA-A73DC4C7B6F3}" />
+    - ID: "ac511b8a-fc0e-4bf9-b980-463b837da1e1"
+      Hint: CTA
+      Value: |
+        <link text="Learn More" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230622T075711Z

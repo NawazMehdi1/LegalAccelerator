@@ -1,0 +1,30 @@
+﻿---
+ID: "b8184acc-e856-4215-a8a6-5122368f93b9"
+Parent: "2ef1d9a8-743b-4f01-97e2-7b91451afeb2"
+Template: "6f293fd6-d303-4ed8-ac75-cb1e3f8f78fc"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/PageTypes/EventTypes/Webinar
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230727T191732Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1828665-6c61-4344-80d1-d5d4086a60d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "bc21b84b-ab25-4460-b83d-7d5f54ff491e"
+      Hint: PageType
+      Value: Webinar
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230913T183041Z
+    - ID: "f37f6f4f-154b-456f-876f-e20ccc7791a9"
+      Hint: Icon
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"D520DEBA-C942-4B44-99596FBD91255836","name":"Webinar","description":null,"assetType":"Image","createdAt":"2023-08-03T08:35:59Z","publishedAt":"2023-08-03T08:33:19Z","updatedAt":"2023-08-03T08:35:59Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/62f71b4ec0e47c1/webimage-Webinar.png","width":800,"height":747,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/62f71b4ec0e47c1/thul-Webinar.png","width":250,"height":233,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/62f71b4ec0e47c1/mini-Webinar.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["icons_and_graphics"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>

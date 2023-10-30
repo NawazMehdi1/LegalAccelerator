@@ -1,0 +1,90 @@
+﻿---
+ID: "1eb87c8e-6f0c-4e64-ac7d-8ff196693d6e"
+Parent: "9e91c33d-5ac7-462c-a66c-7d886f4b0fc9"
+Template: "df90741b-5591-477c-9214-35c6c7c8ae16"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Events Listing/$name
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/Flag.png
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{8727AB96-A95B-49F0-82A3-451DD1BB9460}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{30452DE8-678D-44D5-B0AD-0FB5D2814A61}"
+              p:before="*"
+              s:ds="{1C6835CC-725E-4FE5-BBF1-A8600503BC0C}"
+              s:id="{0DEF21B6-F205-4364-B2AB-E42CCBBB1A22}"
+              s:par="CSSStyles"
+              s:ph="/headless-main/container-1/row-2-2"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{4CB2040C-EF56-4FCF-8E35-9BF4968BD48D}"
+              p:after="r[@uid='{30452DE8-678D-44D5-B0AD-0FB5D2814A61}']"
+              s:ds="local:/Data/Hero Banner"
+              s:id="{73246A93-D7E9-4088-8C26-10993148BBEB}"
+              s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;CTABackgroundColor&amp;FieldNames=%7BC914FEDD-BF69-445E-BCA8-EB8E66277E89%7D&amp;Styles=%7B96982C95-CCB2-4DD9-AC99-E3B44BF0256B%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/container-1/row-1-2"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{BF0107E7-3659-4413-9E96-C3D513DFAD36}"
+              p:after="r[@uid='{4CB2040C-EF56-4FCF-8E35-9BF4968BD48D}']"
+              s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+              s:par="Styles8&amp;FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;EnabledPlaceholders=1%2c2&amp;Styles4&amp;CSSStyles&amp;GridParameters=%7b40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7d&amp;Styles5&amp;Styles3&amp;Styles2&amp;Styles6&amp;Styles7&amp;DynamicPlaceholderId=2&amp;Styles1&amp;SplitterSize=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{46DD617C-5B0D-4121-9CEB-76CD7CBD0D6E}"
+              p:after="*[1=2]"
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;BackgroundImage&amp;CSSStyles&amp;GridParameters=%7b40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7d&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "0cbc6e2a-e7ca-4f1a-8cc8-48e6156f9e3c"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{33069873-93DE-49F3-BEED-D68B6A7CDCA1}" />
+    - ID: "0d88eec5-b6af-4dd8-91e2-7923905c22a5"
+      Hint: SubTitle
+      Value: |
+        <span style="color: #212529; background-color: #ffffff;">Lorem ipsum dolor sit amet. Et totam laudantium sed quisquam similique 33 Quis ipsa eos voluptates placeat quo quia beatae id eius natus. Eos excepturi iure id aspernatur totam qui perspiciatis delectus. Qui impedit minus eum vero dignissimos est obcaecati molestiae qui consequuntur nesciunt quo voluptatem tempore et amet nostrum et internos consequuntur.</span>
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value: |
+        <span style="background-color: #ffffff; color: #212529;">Lorem ipsum dolor sit amet. Et totam laudantium sed quisquam similique 33 Quis ipsa eos voluptates placeat quo quia beatae id eius natus. Eos excepturi iure id aspernatur totam qui perspiciatis delectus. Qui impedit minus eum vero dignissimos est obcaecati molestiae qui consequuntur nesciunt quo voluptatem tempore et amet nostrum et internos consequuntur.</span>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230907T043320Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1349f36e-7048-40f2-858f-96c807a16f15"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230922T093432Z

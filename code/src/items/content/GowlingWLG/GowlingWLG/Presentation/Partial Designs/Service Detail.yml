@@ -1,0 +1,71 @@
+﻿---
+ID: "1b88a0c5-224c-47aa-aea0-55d525e5c07f"
+Parent: "ecde3261-d86e-49bf-9ae9-d0be391cb99d"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Partial Designs/Service Detail
+SharedFields:
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "service-detail"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{8BCD2150-527E-4CA5-9737-86F337084055}"
+              p:before="*"
+              s:id="{73246A93-D7E9-4088-8C26-10993148BBEB}"
+              s:par="CacheClearingBehavior=Clear on publish&amp;CSSStyles"
+              s:ph="headless-main" />
+            <r
+              uid="{A19AFFDE-7966-457F-815B-2B75DDACE43B}"
+              p:after="r[@uid='{8BCD2150-527E-4CA5-9737-86F337084055}']"
+              s:id="{181036D4-633C-4227-90F5-F3459F559002}"
+              s:par="CacheClearingBehavior=Clear on publish&amp;CSSStyles"
+              s:ph="headless-main" />
+            <r
+              uid="{3E7896E2-36E6-4A33-8BDF-F4C32BD8750F}"
+              p:after="*[1=2]"
+              s:id="{87878402-9303-4C09-BB58-0D766B41AB58}"
+              s:par="CacheClearingBehavior=Clear on publish&amp;CSSStyles"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230627T125148Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1591c5fd-2dea-4c27-8dcf-a0dcb260dd08"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230705T110811Z

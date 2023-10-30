@@ -1,0 +1,231 @@
+﻿---
+ID: "62a26cb5-4092-4044-8b4a-a43a05d814de"
+Parent: "87a316a2-a591-4854-abb6-1a62febadb0f"
+Template: "83fbb85e-11f5-4b0c-84c2-c0e45f2a2434"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Guides/sample-manual-guides"
+BranchID: "c4d84e1d-5ce9-4862-bd1d-97c121f3091c"
+SharedFields:
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 0
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{AD7CE8C0-FFB4-48D4-80D4-3986FB2D0021}"
+          p:before="*"
+          s:ds="{6C77756B-ACB5-4AB0-A0BD-B709B8C9CC55}"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B2E989634-5256-46C6-83B3-3B32AF02BBBF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+          s:ph="/headless-main/container-1/row-4-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{81B3C7E2-E34D-4DDA-BD38-092562D51B4F}"
+          p:after="r[@uid='{AD7CE8C0-FFB4-48D4-80D4-3986FB2D0021}']"
+          s:ds=""
+          s:id="{10351392-40DB-4A8A-A9EA-CC8EDEC0AF0F}"
+          s:par="OverrideTitle=Authors&amp;CarouselConversionLimit&amp;GridParameters&amp;FieldNames=%7B9FDC5359-DCB4-4686-A69D-0A8C90F03986%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/container-1/row-4-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{F99D958F-025E-411C-AF4E-C97A83033814}"
+          p:after="r[@uid='{81B3C7E2-E34D-4DDA-BD38-092562D51B4F}']"
+          s:ds=""
+          s:id="{7C8A79E6-5A92-4DC2-9D30-E3D6C56A5500}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/container-1/row-4-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{9AF8A257-6C41-44E5-8EB9-634A07B2738F}"
+          p:after="r[@uid='{F99D958F-025E-411C-AF4E-C97A83033814}']"
+          s:ds="local:/Data/Article Series"
+          s:id="{BDE64CA8-18C2-401C-B2D4-1AEA2A486465}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7BB8B04B48-4767-4662-9069-A1711DBCB91E%7D&amp;Styles=%7B2918A12C-24EB-43CC-A734-5D3E64EEB654%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/container-1/row-4-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{36CB5112-BFF5-44F6-81D1-DA18E889032E}"
+          p:after="r[@uid='{9AF8A257-6C41-44E5-8EB9-634A07B2738F}']"
+          s:ds=""
+          s:id="{1021FE46-0A3A-4268-BF7E-5B30A89FED1A}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/container-1/row-4-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{24FFC25F-52F8-406F-88CE-3CB6D7C0CA5F}"
+          p:after="r[@uid='{36CB5112-BFF5-44F6-81D1-DA18E889032E}']"
+          s:ds=""
+          s:id="{8A406D51-B57E-4827-BABA-CACD045D9A52}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/container-1/row-4-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{01FA724E-A6A6-45E9-85E5-D0B89BF44877}"
+          p:after="r[@uid='{24FFC25F-52F8-406F-88CE-3CB6D7C0CA5F}']"
+          s:ds="{A706FA88-91D2-4F2C-988C-0862C1A10C41}"
+          s:id="{4FA3F34D-AA26-4A35-AAB9-7B6962E163CA}"
+          s:par="FilterType=SearchFilter&amp;GridParameters&amp;FieldNames=%7BC4E04D91-C8FC-45A7-8E1F-28D52325D6D2%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="/headless-main/container-1/row-3-2/column-2-3"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{176EDFBB-9E99-49D1-9B2F-AFB019745986}"
+          p:after="r[@uid='{01FA724E-A6A6-45E9-85E5-D0B89BF44877}']"
+          s:ds=""
+          s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B119D5E08-9159-459A-8B99-4B637FF68244%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="/headless-main/container-1/row-3-2/column-1-3"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{81FC986E-2212-42C2-80A7-760065076F70}"
+          p:after="r[@uid='{176EDFBB-9E99-49D1-9B2F-AFB019745986}']"
+          s:ds=""
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="ColumnWidth1=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D%7C%7BE2836F23-4724-4AAA-9AB4-B60C26220D3D%7D%7C%7B21831E1B-ACF4-4A07-978B-8A3761BCC0E3%7D%7C%7B8A31F20B-A7DC-46B4-9BBF-B14A88C8DEEE%7D%7C%7B33FBD72E-F94C-4939-920F-435D574AA994%7D%7C%7B31442325-3B95-4EF3-965A-77067AC2E8E1%7D&amp;ColumnWidth2=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D%7C%7B50C48484-8A56-442B-A2E7-DCE5530F4F31%7D%7C%7B77086040-F5E2-4E50-B130-E70F26B2CF96%7D%7C%7B33DBD654-5789-4DE5-BE45-82ECE950AFCD%7D%7C%7BE6DC598D-6884-4C63-B5BA-0E076C4D62C3%7D%7C%7B9B484263-A669-4B76-81F6-B688BB10233A%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/container-1/row-3-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{106FEED0-9066-4E4F-9DD3-C6F4F46D6215}"
+          p:after="r[@uid='{81FC986E-2212-42C2-80A7-760065076F70}']"
+          s:ds=""
+          s:id="{10351392-40DB-4A8A-A9EA-CC8EDEC0AF0F}"
+          s:par="OverrideTitle=Authors&amp;CarouselConversionLimit&amp;GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B307B3B96-3C8E-4CCC-BBEC-484D755C20BC%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/container-1/row-2-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{453184E1-6D2E-426A-B961-81E76E75CF70}"
+          p:after="r[@uid='{106FEED0-9066-4E4F-9DD3-C6F4F46D6215}']"
+          s:ds=""
+          s:id="{BAFF264D-8FB0-4DC7-97B6-60E01D3E3BCE}"
+          s:par="HideReadTime&amp;HideDownload&amp;GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B68D7AB31-80B6-42BC-8F76-A95B35ABD892%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-main/container-1/row-1-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{D070EAFF-C621-4E9C-886A-FAD4A7B2779A}"
+          p:after="r[@uid='{453184E1-6D2E-426A-B961-81E76E75CF70}']"
+          s:ds=""
+          s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{8E2395A5-57D7-4F30-A48A-CCD62A5CD28E}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+      </d>
+      <d
+        id="{73966209-F1B6-43CA-853A-F1DB1C9A654B}">
+        <r
+          uid="{FD95CD84-7ABD-4162-92FB-ED180D37A2D3}"
+          s:ds="" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {1DF907FF-D54C-44CE-9B6C-315610837045}
+        {42AA17EA-738C-4E8A-8242-7DFC3F201A82}
+        {88768AE0-0F64-4DDC-8A85-E4735D09E55C}
+    - ID: "0cbc6e2a-e7ca-4f1a-8cc8-48e6156f9e3c"
+      Hint: BackgroundImage
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"ACCC8126-C764-4F61-AC0861F0F72D2171","name":"Article Background image","description":null,"assetType":"Image","createdAt":"2023-08-08T06:43:33Z","publishedAt":"2023-08-08T06:42:35Z","updatedAt":"2023-08-08T06:43:33Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/34654b34ed55b4a9/webimage-Article-Background-image.png","width":800,"height":527,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/34654b34ed55b4a9/thul-Article-Background-image.png","width":250,"height":165,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/34654b34ed55b4a9/mini-Article-Background-image.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["cr_event_photography"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>
+    - ID: "0d88eec5-b6af-4dd8-91e2-7923905c22a5"
+      Hint: SubTitle
+      Value: SUMMARY OF THE KEY CHANGES IMPACTING UK LIMITED PARTNERSHIPS
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value: |
+        The Economic Crime and Corporate Transparency Bill is now in its final stages of consideration and will introduce some sweeping changes to UK Limited Partnerships. The funds industry will be particularly impacted by the reforms, as Limited Partnerships have been the vehicle of choice for many years, and also real estate property holding structures.
+        
+        The new changes are designed to tackle the abuse that some Limited Partnerships have been subject to (including fraud and money laundering). In this article, we provide an overview of the changes, which focus on strengthening the transparency requirements and the reliability of published information, and enabling Limited Partnerships to be deregistered.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230921T112847Z
+    - ID: "366f39a9-4521-4cfa-91ab-db5decb1ff35"
+      Hint: Key Contacts
+      Value: |
+        {54A9266B-9382-480B-817D-35B1E432EB01}
+        {2BA50DD7-D78B-4DA9-BFB9-29AEDC8A1C21}
+        {D3720A17-7497-43D4-9D11-838F96829CE9}
+        {747B55B3-6CC0-458B-8ABF-C4A5EAC2DA78}
+    - ID: "4174e99f-33a1-4393-b5dd-09e1bd384336"
+      Hint: CPDorCLEPoints
+      Value: 10
+    - ID: "41e425e2-fc4b-4363-a117-3f8a83b22bc2"
+      Hint: IsCPDorCLE
+      Value: 1
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: |
+        {50AFD730-9ED6-4BD6-ADBE-73497A7A979C}
+        {15440C43-40BA-4359-9333-B185EB8EE43F}
+        {8A517066-926B-4C39-9000-F595F6EA9C9D}
+        {C5EB94BD-3FFF-41EB-B73B-34632BD88F23}
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "sample-manual-guides"
+    - ID: "633dff38-95a8-4876-a5a5-07e4175233d7"
+      Hint: ShowReadTime
+      Value: 1
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {BE92B8FE-8551-4FCB-B5C3-4CD857AE7BCD}
+        {F2FC07C6-BFDB-46CD-A88E-ABF9B733AA94}
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "sample-manual-guides"
+    - ID: "7dec7f6f-5207-4e03-a064-ca621abe97c6"
+      Hint: Related Insights
+      Value: |
+        {0A1FE649-360D-4D92-8D4E-9416BFD4CEF2}
+        {BCBC80E2-1060-4840-A099-A5CF599F35BF}
+        {30EB2B41-4F92-4707-A712-B2C97C14BB30}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "66aa525c-e6bd-4d35-8da5-e6bd07da496c"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {30F37415-C372-4106-A0F8-9088F51EB23E}
+        {1109AC59-E8A8-4811-B937-81161A44FE6C}
+    - ID: "b39ad9cc-af0e-4550-8414-4b7478f1ad31"
+      Hint: PublishedDate
+      Value: 20230705T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "c0ca828b-328d-4748-ab56-206f968a4504"
+      Hint: Summary
+      Value: Ontario superior court reinforces the importance of proper notice when recognizing and enforcing foreign arbitral awards
+    - ID: "d5d97d87-81b1-4b48-8d2f-d336d999dace"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"C8BF3029-3220-4D45-99E59DF352824165","name":"Gowling-AlumniEvent-June12023-89","description":null,"assetType":"Image","createdAt":"2023-06-02T16:03:33Z","publishedAt":"2023-06-02T16:01:05Z","updatedAt":"2023-06-02T16:03:33Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/370b1fd477470e4/webimage-Gowling-AlumniEvent-June12023-89.png","width":800,"height":534,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/370b1fd477470e4/thul-Gowling-AlumniEvent-June12023-89.png","width":250,"height":167,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/370b1fd477470e4/mini-Gowling-AlumniEvent-June12023-89.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Tags":["alumni"],"Asset_Subtype":["cr_event_photography"],"Office":["canada"],"extension":["jpg"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230922T070052Z
+    - ID: "f8eb5f78-2048-4a1d-b1b5-e5414469bfa8"
+      Hint: ReadTime
+      Value: 8 minute read

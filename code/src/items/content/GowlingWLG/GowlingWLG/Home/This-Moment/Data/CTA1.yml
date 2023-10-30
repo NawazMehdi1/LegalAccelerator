@@ -1,0 +1,45 @@
+﻿---
+ID: "1f2489f9-a42c-4e6c-9544-4887b184954e"
+Parent: "96f1b034-32ef-4307-9764-248c4b051efb"
+Template: "5b793991-756e-471c-a97b-0af43c42ac33"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/This-Moment/Data/CTA1"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230929T101601Z
+    - ID: "4ddb2f27-f50e-426e-90a0-cfdc8683a7df"
+      Hint: CTALink
+      Value: |
+        <link text="Learn More" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8b9659fc-1880-400c-9585-b969e5352b9e"
+      Hint: Title
+      Value: "Covid 19: How will corona virus impact your business?"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4aada861-883c-4dee-8c45-56c5fbfc56d4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "c9b980bd-87b8-41df-9e29-d19edfe31ae4"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"9E0CC814-0F0E-445B-92D65DBCF73949D8","name":"Event email banner seminar photo","description":null,"assetType":"Image","createdAt":"2023-09-20T09:28:10Z","publishedAt":"2023-09-20T09:27:06Z","updatedAt":"2023-09-20T09:28:10Z","files":[{"name":"original","url":"https://brandconnect.gowlingwlg.com/m/7d9b304d0c0d20ad/original/Event-email-banner-seminar-photo.jpg","width":355,"height":300,"fileSize":24918},{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/7d9b304d0c0d20ad/webimage-Event-email-banner-seminar-photo.png","width":800,"height":676,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/7d9b304d0c0d20ad/thul-Event-email-banner-seminar-photo.png","width":250,"height":211,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/7d9b304d0c0d20ad/mini-Event-email-banner-seminar-photo.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Channel":["Email"],"Asset_Subtype":["Banners_-_Emails"],"extension":["jpg"],"Asset_Type":["imagery"]}}],"file":null,"overrideAltText":null}]]></asset>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230929T102640Z
+    - ID: "fde2b1f6-e116-4573-9aa8-69c0881d930d"
+      Hint: Description
+      Value: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries..

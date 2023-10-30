@@ -1,0 +1,33 @@
+﻿---
+ID: "5287d1c6-b4d6-4520-b630-f7bcf40ddd76"
+Parent: "89cdf442-72dd-4a0c-b291-0be687367e87"
+Template: "a758b4eb-ef0a-4752-a0ab-ba876fd886ec"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/ArticleDetail/Data/StatsWithCTA/StatsColumn2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230901T070132Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de576700-5307-4a09-8add-6195efa46ad6"
+    - ID: "91e71295-de0c-4399-85fe-a281f80f6207"
+      Hint: Title
+      Value: 60+
+    - ID: "b3faaff6-7ede-4283-a81a-64aa4d525e1b"
+      Hint: CTALink
+      Value: |
+        <link text="Page" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{7F65E9A9-584B-48AC-AF3A-B336B391C311}" />
+    - ID: "b9efc3a5-7a42-4c01-9aee-4054fdef9597"
+      Hint: Description
+      Value: Student Hired EveryYear
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230901T070315Z

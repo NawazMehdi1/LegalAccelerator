@@ -1,0 +1,222 @@
+﻿---
+ID: "bcbc80e2-1060-4840-a099-a5cf599f35bf"
+Parent: "0ccf519f-b74d-43bc-8339-894997f11253"
+Template: "c8e1eb5d-883a-441a-8367-28c967ea8c8e"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Articles/2023/Ontario-superior-court"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{6BB58A8C-522D-490C-93E0-36DC9A9FC8A2}"
+- ID: "39c4902e-9960-4469-aeef-e878e9c8218f"
+  Hint: __Hidden
+  Value: 
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{1F2AD924-1D96-4DA0-8FE4-6AA65C233FBF}"
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{FD9DFCE0-8011-4CFD-8DD4-5BB17B6D0161}"
+          p:before="*"
+          s:ds="{9A3DE552-8DE4-48ED-B37D-45BB517A7D26}"
+          s:id="{7C8A79E6-5A92-4DC2-9D30-E3D6C56A5500}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/container-1/row-7-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{A0F8AC12-D9F8-4567-B2FF-98F9A307CE18}"
+          p:after="r[@uid='{FD9DFCE0-8011-4CFD-8DD4-5BB17B6D0161}']"
+          s:ds=""
+          s:id="{10351392-40DB-4A8A-A9EA-CC8EDEC0AF0F}"
+          s:par="OverrideTitle=Authors&amp;GridParameters&amp;FieldNames=%7B9FDC5359-DCB4-4686-A69D-0A8C90F03986%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/container-1/row-6-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{5C347DF5-45F0-4E08-A820-CF717678830F}"
+          p:after="r[@uid='{A0F8AC12-D9F8-4567-B2FF-98F9A307CE18}']"
+          s:ds=""
+          s:id="{10351392-40DB-4A8A-A9EA-CC8EDEC0AF0F}"
+          s:par="OverrideTitle=Authors&amp;GridParameters&amp;FieldNames=%7B307B3B96-3C8E-4CCC-BBEC-484D755C20BC%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/container-1/row-2-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{FE3C0B17-FE9F-44AA-88A2-410FB94C9BB4}"
+          p:after="r[@uid='{5C347DF5-45F0-4E08-A820-CF717678830F}']"
+          s:ds=""
+          s:id="{BAFF264D-8FB0-4DC7-97B6-60E01D3E3BCE}"
+          s:par="FieldNames=%7b9B78A50A-561D-4AD4-B795-F50DC4DA0063%7d&amp;HideDownload=0&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters&amp;HideReadTime=0&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/container-1/row-1-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{F3B13F72-1175-43C2-8965-47C648D1A236}"
+          p:after="r[@uid='{FE3C0B17-FE9F-44AA-88A2-410FB94C9BB4}']"
+          s:ds=""
+          s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+          s:par="Styles8&amp;FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;EnabledPlaceholders=1%2c2%2c3%2c4%2c5%2c6%2c7%2c8&amp;Styles4&amp;CSSStyles&amp;GridParameters=%7b40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7d&amp;Styles5&amp;Styles3&amp;Styles2&amp;Styles6&amp;Styles7&amp;DynamicPlaceholderId=2&amp;Styles1&amp;SplitterSize=2"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{B7D2FEE4-F2FC-4DE6-A07B-350F50E8431D}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;BackgroundImage&amp;CSSStyles&amp;GridParameters=%7b40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+      </d>
+      <d
+        id="{73966209-F1B6-43CA-853A-F1DB1C9A654B}">
+        <r
+          uid="{FD95CD84-7ABD-4162-92FB-ED180D37A2D3}"
+          s:par="DateField=PublishedDate&amp;AuthorField&amp;TitleField=Title&amp;EnclosureField&amp;BodyField=Summary" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Ontario superior court
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+    - ID: "0cbc6e2a-e7ca-4f1a-8cc8-48e6156f9e3c"
+      Hint: BackgroundImage
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"ACCC8126-C764-4F61-AC0861F0F72D2171","name":"Article Background image","description":null,"assetType":"Image","createdAt":"2023-08-08T06:43:33Z","publishedAt":"2023-08-08T06:42:35Z","updatedAt":"2023-08-08T06:43:33Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/34654b34ed55b4a9/webimage-Article-Background-image.png","width":800,"height":527,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/34654b34ed55b4a9/thul-Article-Background-image.png","width":250,"height":165,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/34654b34ed55b4a9/mini-Article-Background-image.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["cr_event_photography"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>
+    - ID: "0d88eec5-b6af-4dd8-91e2-7923905c22a5"
+      Hint: SubTitle
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. </p>
+    - ID: "12f11df0-91a1-4d5a-b8e0-237b544745a5"
+      Hint: SeriesOfArticles
+      Value: |
+        {72895BC1-E990-4CD6-AF23-D1915B9A7242}
+        {32029D52-37A5-4280-B70C-331882122846}
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value: |
+        <div>
+        <div><h5>Summary of Article</h5>
+        
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus pronin sapien nunc accuan eget.</p></div>
+        
+        
+        <p>The Ontario Superior Court recently reinforced applications of Article 36 of the Model Law in respect to recognizing and enforcing foreign arbitral awards. In Tianjin Dinghui Hungjun Equity Investment Partnership v. Du, the Ontario Superior Court refused to enforce an award of the Shenzhen Court of International Arbitration (the SCIA) on the basis that the defendants had not been given proper notice of the arbitral proceeding. This in turn impacted the ability of those defendants to present their case.</p>
+        
+        
+        <h5>Background</h5>
+        
+        <p>The Plaintiff Tianjin Dinghui Hungjun Equity Investment Partnership (Tianjin) made a loan to Tianjin Kapolei Business Information Consultancy Co., Ltd. (TKB), a corporate entity controlled by the Defendants, Mr. and Mrs. Du (the Dus). As part of that transaction, the Dus provided a guarantee and executed a loan agreement. The loan agreement and the guarantee were subject to Chinese law and included a clause requiring disputes to be resolved before the SCIA (the Loan Agreements).</p>
+        
+        <p>On July 10, 2020, after having delivered to TKB a default pursuant to the Loan Agreements, Tianjin commenced an arbitration proceeding against TKB, the Dus and other related parties before the SCIA (Arbitration and the Arbitration Notice).</p>
+        
+        
+        
+        <h5>The decision</h5>
+        
+        <p>Regarding notice:</p>
+        
+        
+        <ul>
+        <li>The Court stated that "proper notice" under the Model Law has been held to mean notice that is reasonably calculated to inform the party of the arbitration and to give them an opportunity to respond. However, it does not require actual notice.</li>
+        <li>The Court was not satisfied that the Dus received the Notice of Arbitration by any method that was provided for in the Loan Agreements.</li>
+        <li>The Dus did not formally change their address for notice under the Loan Agreements to their address in Canada. However, Tianjin failed to inform the SCIA that it was aware that the Dus were staying in Canada as of March 2020 when the travel restrictions began, and which remained where the Dus resided at the time of the Arbitration.</li>
+        <li>Collectively, this was sufficient to satisfy the Court that the Dus met their onus of demonstrating that they did not receive proper notice:</li>
+        <li>For TDH [Tianjin] to come to this court seeking recognition and enforcement of an arbitration Award in excess of $100 million (CDN) granted during an Arbitration Proceeding conducted in China in the summer of 2020 against two Canadians who TDH's representative knew had decided in March of 2020 to stay in Canada and not return to China at the beginning of the global COVID-19 pandemic, strict compliance with the contractual notice requirements is what would have to be demonstrated for "proper notice" to be grounded in the contractual notice provisions that TDH seeks to rely upon.[1]</li>
+        
+        </ul>
+        <h5>What does it mean</h5>
+        
+        <p>The decision in Tianjin v. Du involves the application of Article 36 of the Model Law in respect of grounds for refusing recognition and enforcement of foreign arbitral awards. This decision confirmed the importance of ensuring proper notice and the opportunity for meaningful participation, as well as the importance to making candid disclosure to the arbitral panel.</p>
+        
+        <p>This decision is a reminder to litigants that the ability to enforce a foreign award in Ontario and other jurisdictions across Canada will be impacted by grounds set out in Article 36 of the Model Law. While each case will turn on its own facts, prior to any recognition and enforcement, the courts will generally be concerned with reviewing the underlying process to confirm notice and the opportunity to participate.</p>
+        <hr />
+        <ul>
+        <li>[1] 2023 ONSC 1808 at para 79</li>
+        
+        <li>[2] 2023 ONSC 1808 at para 116</li>
+        </ul>
+        <hr />
+        <p>NOT LEGAL ADVICE. Information made available on this website in any form is for information purposes only. It is not, and should not be taken as, legal advice. You should not rely on, or take or fail to take any action based upon this information. Never disregard professional legal advice or delay in seeking legal advice because of something you have read on this website. Gowling WLG professionals will be pleased to discuss resolutions to specific legal concerns you may have.</p>
+        <hr />
+        </div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T103322Z
+    - ID: "366f39a9-4521-4cfa-91ab-db5decb1ff35"
+      Hint: Key Contacts
+      Value: |
+        {54A9266B-9382-480B-817D-35B1E432EB01}
+        {D3720A17-7497-43D4-9D11-838F96829CE9}
+        {601FF004-E3E7-42B5-B072-10DD3816BFAE}
+        {1BE60192-79BC-4C67-B118-0979C9FFC508}
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: |
+        {8A517066-926B-4C39-9000-F595F6EA9C9D}
+        {15440C43-40BA-4359-9333-B185EB8EE43F}
+        {50AFD730-9ED6-4BD6-ADBE-73497A7A979C}
+        {C5EB94BD-3FFF-41EB-B73B-34632BD88F23}
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Ontario superior court
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Ontario superior court reinforces the importance of proper notice when recognizing and enforcing foreign arbitral awards
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7a2016f8-db76-44c9-9d6a-3c8c26b281a3"
+    - ID: "9e261863-71b1-4e26-b660-6da87d2fc726"
+      Hint: PageType
+      Value: "{8FDE1066-13A3-4783-A982-FDC892D1B48F}"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+        {AE2E8456-4823-49A7-9446-8314414E670B}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {CD3CB7F9-1FFE-4F2B-80DB-D41A24DA4910}
+        {BF3AFED6-5C43-42FA-BC05-BC184C4977B6}
+    - ID: "b39ad9cc-af0e-4550-8414-4b7478f1ad31"
+      Hint: PublishedDate
+      Value: 20230705T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "c0ca828b-328d-4748-ab56-206f968a4504"
+      Hint: Summary
+      Value: Ontario superior court reinforces the importance of proper notice when recognizing and enforcing foreign arbitral awards
+    - ID: "d5d97d87-81b1-4b48-8d2f-d336d999dace"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"C8BF3029-3220-4D45-99E59DF352824165","name":"Gowling-AlumniEvent-June12023-89","description":null,"assetType":"Image","createdAt":"2023-06-02T16:03:33Z","publishedAt":"2023-06-02T16:01:05Z","updatedAt":"2023-06-02T16:03:33Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/370b1fd477470e4/webimage-Gowling-AlumniEvent-June12023-89.png","width":800,"height":534,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/370b1fd477470e4/thul-Gowling-AlumniEvent-June12023-89.png","width":250,"height":167,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/370b1fd477470e4/mini-Gowling-AlumniEvent-June12023-89.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Tags":["alumni"],"Asset_Subtype":["cr_event_photography"],"Office":["canada"],"extension":["jpg"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230904T072646Z
+    - ID: "f8eb5f78-2048-4a1d-b1b5-e5414469bfa8"
+      Hint: ReadTime
+      Value: 8 minute read

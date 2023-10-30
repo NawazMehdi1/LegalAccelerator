@@ -1,0 +1,37 @@
+﻿---
+ID: "6f01ae71-7a65-485d-aa1f-306b0fc9386c"
+Parent: "ea9af70d-04c7-4d50-ba64-234802e7d1a5"
+Template: "f36bc793-183b-49e2-80ec-d89313fa9536"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Services/Product  Advertising/Data/HoverOverCards/Card3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230829T053050Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a07cce1e-627b-4b70-af7a-8d1bd202841e"
+    - ID: "a1347e59-5a32-4793-9aeb-4fd1cde6c301"
+      Hint: Description
+      Value: Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Maecenas sed diam eget risus varius blandit sit amet non magna. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
+    - ID: "a5adbcf8-e26f-40d6-9cc7-71bd02afcea7"
+      Hint: Title
+      Value: Cras mattis consectetur purus
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230904T131352Z
+    - ID: "ea73b1e8-1d5a-459e-b5d9-d42018847d7d"
+      Hint: CTALink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{7F65E9A9-584B-48AC-AF3A-B336B391C311}" />
+    - ID: "f32cf29c-04c8-45e4-a1dc-07515315ea26"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"92E2B324-68B4-499F-989636E4580A1ACA","name":"HoverCardImage","description":null,"assetType":"Image","createdAt":"2023-09-04T13:10:31Z","publishedAt":"2023-09-04T13:09:52Z","updatedAt":"2023-09-04T13:10:31Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/42281cc94815576e/webimage-HoverCardImage.png","width":800,"height":564,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/42281cc94815576e/thul-HoverCardImage.png","width":250,"height":176,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/42281cc94815576e/mini-HoverCardImage.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["sector_service_photography"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>

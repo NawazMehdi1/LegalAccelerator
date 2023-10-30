@@ -1,0 +1,47 @@
+﻿---
+ID: "4960cd24-3c6e-4ee8-b621-fd75d9f1fa91"
+Parent: "2b8e9f0c-6c23-4eb5-84c6-7424bd557dbd"
+Template: "1ae0965e-81fd-493a-8338-5fdb292dd7cd"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/PeopleDetail/$name/Data/AccordionDataItems/Careers/Events
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1213854d-a715-4bca-88d2-d231628b49a8"
+      Hint: EndYear
+      Value: 2023
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230627T172134Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "73a50952-de66-43d2-85ca-370824a8ecbc"
+    - ID: "94bb7cae-0dc1-4753-991c-c554c0551e71"
+      Hint: CareerName
+      Value: CareerName
+    - ID: "94bdd4ab-2204-474f-b811-19c8b8970362"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232415Z

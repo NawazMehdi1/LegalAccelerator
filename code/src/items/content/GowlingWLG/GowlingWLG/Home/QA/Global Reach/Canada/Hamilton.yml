@@ -1,0 +1,64 @@
+﻿---
+ID: "a7991eb3-4073-439d-85c7-1ecee7bd6add"
+Parent: "7551eb6e-24a3-4cc0-87df-34c62270b20c"
+Template: "6d35d469-9e90-4d14-b1a9-b675fe74b532"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Global Reach/Canada/Hamilton
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value: |
+        <p>With a population of over 600,000, Hamilton is Ontario's fifth largest city, and one of the most economically active regions in the province. A major transportation hub and home to the largest port in Ontario, Hamilton has evolved in recent years from a largely industrial city to one experiencing major growth across a number of future-focused sectors, including advanced manufacturing, health sciences, nuclear medicine, biotech and transportation.</p>
+        <p>As one of the city's top business law firm, Gowling WLG works closely with organizations, both locally and globally, to help them seize opportunities and overcome hurdles on the road to success. Led by managing partner <a data-cke-saved-href="/en/people/pam-vermeersch/" href="/en/people/pam-vermeersch/" target="_blank">Pam Vermeersch</a>, our diverse and highly experienced team provides insightful advice, valuable counsel and trusted representation across a variety of key industries &ndash; all underpinned by a tailored legal service experience built around our clients' unique needs, challenges and aspirations.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230823T092408Z
+    - ID: "2a65650c-d874-4ef2-9159-2d8bd62215f4"
+      Hint: Geographical Longitude
+      Value: "-79.8696805"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Hamilton
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "677f702d-0684-43d2-b3d6-ae82a9f1d27b"
+      Hint: Map URL
+      Value: |
+        <link text="Page" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{7F65E9A9-584B-48AC-AF3A-B336B391C311}" />
+    - ID: "6ec9ffbb-3776-480c-beb3-86bbba8e505e"
+      Hint: Address 1
+      Value: 1600, 421 7th Avenue SW
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Hamilton
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5026b1b2-4e8d-4a8a-9e74-5b93152e9a56"
+    - ID: "9495e0dc-9963-40e8-9be5-f9eba5dd1304"
+      Hint: Postal Code
+      Value: T2P 4K9
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "c3c01440-7053-4507-9a15-f5ba3822d1c1"
+      Hint: City
+      Value: Hamilton
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230905T093005Z
+    - ID: "e391c013-6e8e-4b80-b33f-ae7d4a542f5a"
+      Hint: Geographical Latitude
+      Value: 43.2553547
+    - ID: "e8b026ea-348a-4f81-b437-88f7e1ab6780"
+      Hint: State
+      Value: Alberta

@@ -1,0 +1,56 @@
+﻿---
+ID: "fac15440-eacb-44a0-889a-d375d6e73f0e"
+Parent: "7551eb6e-24a3-4cc0-87df-34c62270b20c"
+Template: "6d35d469-9e90-4d14-b1a9-b675fe74b532"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Global Reach/Canada/Calgary
+SharedFields:
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230705T101410Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Toronto
+    - ID: "677f702d-0684-43d2-b3d6-ae82a9f1d27b"
+      Hint: Map URL
+      Value: |
+        <link text="Home" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "6ec9ffbb-3776-480c-beb3-86bbba8e505e"
+      Hint: Address 1
+      Value: 100 King Street West
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Calgary
+    - ID: "7b3a57cb-ee07-44b6-aa47-63424a0fd2ef"
+      Hint: Address 3
+      Value: 100 King Street West 2
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "218fa42f-1108-43e8-b4f4-b3bd3e58802b"
+    - ID: "9143fd75-9a22-4049-9e7a-771637a55393"
+      Hint: Address 2
+      Value: 100 King Street West 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "c3c01440-7053-4507-9a15-f5ba3822d1c1"
+      Hint: City
+      Value: Calgary
+    - ID: "d0a258ee-8157-4ca0-9f2c-e31dd53c8db4"
+      Hint: AlternateImage
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"4DD08BDD-45D0-4A60-A548EA6FFBD4B028","name":"Annual Energy Dinner - May 10, 2023 20","description":"Photos of Annual Energy Dinner - May 10, 2023 held in the Toronto Office","assetType":"Image","createdAt":"2023-05-17T12:38:15Z","publishedAt":"2023-05-17T12:36:42Z","updatedAt":"2023-05-17T12:38:15Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/603baa23d10ce3d5/webimage-Annual-Energy-Dinner-May-10-2023-20.png","width":800,"height":600,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/603baa23d10ce3d5/thul-Annual-Energy-Dinner-May-10-2023-20.png","width":250,"height":188,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/603baa23d10ce3d5/mini-Annual-Energy-Dinner-May-10-2023-20.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["cr_event_photography"],"Office":["canada"],"Sector":["energy"],"extension":["jpg"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230920T072011Z

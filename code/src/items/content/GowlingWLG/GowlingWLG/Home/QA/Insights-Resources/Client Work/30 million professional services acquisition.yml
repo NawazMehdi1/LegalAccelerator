@@ -1,0 +1,66 @@
+﻿---
+ID: "43facf1f-acdb-4cf1-84d1-14a3dc3cb6c1"
+Parent: "aeb79b21-f32e-48ee-b8c6-e2a2dbff0e5c"
+Template: "0a2929f8-306f-47a1-bfa5-3afe137ec446"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Client Work/30 million professional services acquisition"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {88768AE0-0F64-4DDC-8A85-E4735D09E55C}
+        {42AA17EA-738C-4E8A-8242-7DFC3F201A82}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T103918Z
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: |
+        {15440C43-40BA-4359-9333-B185EB8EE43F}
+        {50AFD730-9ED6-4BD6-ADBE-73497A7A979C}
+        {8A517066-926B-4C39-9000-F595F6EA9C9D}
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 30 million professional services acquisition
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: "A multi-skilled team of experts from Gowling WLG has advised law firm Memery Crystal LLP on its sale to AIM-listed professional services group RBG Holdings plc for a total of £30 million."
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: 30 million professional services acquisition
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "30cd340e-8acf-470b-9028-2e9085a6f85e"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {DF29C883-F0B0-4087-807F-C8E8C95BA9FE}
+        {3773748B-3F99-414F-BF34-E8D5F5D5FF40}
+        {18E37624-EDC1-401D-A72C-2FBBE1A10BEA}
+        {7A75F42A-1581-4C17-9F2B-C3E4848A74EF}
+    - ID: "b39ad9cc-af0e-4550-8414-4b7478f1ad31"
+      Hint: PublishedDate
+      Value: 20231005T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T104105Z

@@ -1,0 +1,103 @@
+{
+  "$schema": "../../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Foundation.GowlingWLG",
+  "items": {
+    "includes": [
+      {
+        "name": "layouts-project",
+        "path": "/sitecore/layout/Layouts/Project/GowlingWLG",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "layoutmodels-project",
+        "path": "/sitecore/layout/Models/Project/GowlingWLG",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "placeholders-project",
+        "path": "/sitecore/layout/Placeholder Settings/Project/GowlingWLG",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "languages",
+        "path": "/sitecore/system/Languages",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "dictionary",
+        "path": "/sitecore/system/Dictionary/GowlingWLG",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "templates-feature",
+        "path": "/sitecore/templates/Feature/GowlingWLG",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "templates-foundation",
+        "path": "/sitecore/templates/Foundation/GowlingWLG",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "templates-Project-GowlingWLG",
+        "path": "/sitecore/templates/Project/GowlingWLG",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "templates-GowlingWLG",
+        "path": "/sitecore/templates/Project/GowlingWLG Site",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },      
+      {
+        "name": "branch-templates-feature",
+        "path": "/sitecore/templates/Branches/Feature/GowlingWLG",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "branch-templates-foundation",
+        "path": "/sitecore/templates/Branches/Foundation/GowlingWLG",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "branch-templates-project",
+        "path": "/sitecore/templates/Branches/Project/GowlingWLG",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "renderings-feature",
+        "path": "/sitecore/layout/Renderings/Feature/GowlingWLG",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "SPE",
+        "path": "/sitecore/system/Modules/PowerShell/Script Library/GowlingWLG Scripts",
+        "allowedPushOperations": "CreateOnly"
+      },
+      {
+        "name": "ItemBucketsOverride",
+        "path": "/sitecore/system/Settings/Buckets/Item Buckets Settings",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "media-library-project",
+        "path": "/sitecore/media library/Project/GowlingWLG",
+        "allowedPushOperations": "CreateUpdateAndDelete",
+        "scope": "SingleItem"
+      },
+      {
+        "name": "gwlg-tailwind-grid-theme-medialibrary",
+        "path": "/sitecore/media library/Feature/GowlingWLG",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+       {
+        "name": "gwlg-tailwind-grid",
+        "path": "/sitecore/system/Settings/Feature/GowlingWLG",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "gwlg-workflow",
+        "path": "/sitecore/system/Workflows/Gowling WLG Workflow"
+      }
+    ]
+  }
+}

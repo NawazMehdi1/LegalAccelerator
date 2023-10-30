@@ -1,0 +1,35 @@
+﻿---
+ID: "a3ca32db-0af2-4e45-aa92-b621ab36dd6f"
+Parent: "550c280f-8cea-466c-9e9c-745244395913"
+Template: "10f2461a-fb4d-4246-95e3-d6e2f01734f4"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Service Detail/$name/Data/Full Width Image
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230830T104629Z
+    - ID: "47a6cc82-487f-425f-98e4-a573af91d6dd"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"A0CC3702-795D-4DD5-93B128E85B7B172E","name":"Proposal Cover_Bubbles_Supergraphic","description":null,"assetType":"Image","createdAt":"2023-09-20T20:55:44Z","publishedAt":"2023-09-20T20:55:27Z","updatedAt":"2023-09-20T20:55:44Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/125bf0e0557bfae4/webimage-Proposal-Cover_Bubbles_Supergraphic.png","width":800,"height":533,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/125bf0e0557bfae4/thul-Proposal-Cover_Bubbles_Supergraphic.png","width":250,"height":167,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/125bf0e0557bfae4/mini-Proposal-Cover_Bubbles_Supergraphic.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["pitches_proposals_cover_templates"],"extension":["jpg"],"Asset_Type":["templates_and_resources"]}}],"file":null,"overrideAltText":null}]]></asset>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5af44089-c0d2-4d99-90dc-d0d657447872"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230927T183312Z

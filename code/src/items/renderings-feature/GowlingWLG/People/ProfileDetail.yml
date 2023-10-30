@@ -1,0 +1,213 @@
+﻿---
+ID: "afd7367d-8a24-4505-ab49-5695da9b1b0e"
+Parent: "855d6bfb-2f2a-405d-8009-138a6a6e2a4d"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/People/ProfileDetail
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: ProfileDetail
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/id_card.png
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query ProfileDetailQuery($contextItem: String!, $language: String!) {
+      item(path: $contextItem, language: $language) {
+        ... on PeoplePage {
+          title {
+            ... on TextField {
+              jsonValue
+            }
+          }
+          alternateTitle {
+            ... on TextField {
+              jsonValue
+            }
+          }
+          professionalTitle {
+            jsonValue
+          }
+          role {
+            value
+          }
+          profileImage {
+            ... on TextField {
+              jsonValue
+            }
+          }
+          prefix {
+            jsonValue
+          }
+          suffix {
+            jsonValue
+          }
+          jurisdictions {
+            targetItems {
+              ... on Tag {
+                title {
+                  value
+                }
+              }
+            }
+          }
+          additionalOffices {
+            value
+          }
+          email {
+            value
+          }
+          phone1 {
+            value
+          }
+          phone2 {
+            value
+          }
+          linkedIn {
+            jsonValue
+          }
+          twitter {
+            jsonValue
+          }
+          offices {
+            targetItems {
+              url {
+                path
+              }
+              ... on OfficePage {
+                title {
+                  value
+                }
+              }
+            }
+          }
+          barAdmission: children(
+            includeTemplateIDs: "{1C82E550-EBCD-4E5D-8ABD-D50D0809541E}"
+          ) {
+            results {
+              children(
+                includeTemplateIDs: "{541839C4-1424-434F-BA72-7079974F9E1C}"
+              ) {
+                results {
+                  children(
+                    includeTemplateIDs: "{743CF4F5-E786-4109-80D8-2C760A76B178}"
+                  ) {
+                    results {
+                      ... on BarAdmissionEvent {
+                        admissionName {
+                          value
+                        }
+                        endYear {
+                          value
+                        }
+                        startYear {
+                          value
+                        }
+                        admissionType {
+                          value
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+          sectors: field(name: "Related Sectors") {
+            ... on MultilistField {
+              targetItems {
+                url {
+                  path
+                }
+                ... on SectorDetail {
+                  title {
+                    value
+                  }
+                }
+              }
+            }
+          }
+          services: field(name: "Related Services") {
+            ... on MultilistField {
+              targetItems {
+                url {
+                  path
+                }
+                ... on ServiceDetail {
+                  title {
+                    value
+                  }
+                }
+              }
+            }
+          }
+          contactCTA {
+            ... on LinkField {
+              jsonValue
+            }
+          }
+        }
+      }
+      icons: item(
+        path: "{DCE8C62D-DC12-4534-993C-3C91B78109DA}"
+        language: $language
+      ) {
+        children(includeTemplateIDs: "{10F2461A-FB4D-4246-95E3-D6E2F01734F4}") {
+          results {
+            name
+            image: field(name: "Image") {
+              jsonValue
+            }
+            TargetUrl: field(name: "TargetUrl") {
+              jsonValue
+            }
+          }
+        }
+      }
+    }
+- ID: "308e88f5-cd6e-4f8f-bafe-95a47dedefdc"
+  Hint: Editable
+  Value: 1
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{4247AAD4-EBDE-4994-998F-E067A51B1FE4}"
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: 
+- ID: "c39a90ce-0035-41bb-90f6-3c8a6ea87797"
+  Hint: AddFieldEditorButton
+  Value: 
+- ID: "f172b787-7b88-4bd5-ae4d-6308e102ef11"
+  Hint: Enable Datasource Query
+  Value: 
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Profile Detail
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230626T110936Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2fbe3224-df04-46df-97f9-2d3fc98dff3e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231020T104616Z

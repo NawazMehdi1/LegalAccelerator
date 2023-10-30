@@ -1,0 +1,64 @@
+﻿---
+ID: "d73c2fd6-916a-4193-a513-b2d391e98f43"
+Parent: "0fb70b5d-156d-4bcf-a727-c901b165b9de"
+Template: "0a7aa373-5ed1-4e9b-9678-22d3c5faf6df"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Insights/WhitePaperDetailBranch/$name/Data/Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230912T051515Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "729034fc-24f3-40b7-8fa4-fb49d7de20dd"
+      Hint: Text
+      Value: |
+        It is with great pleasure that we share with you our annual review of UK patent judgments in 2022: 'A Slightly Slippery Slope'.<br />
+        <br />
+        <br />
+        <br />
+        The paper comprehensively reviews the patent decisions of the courts of England and Wales, laced with comment and opinion on the big issues arising. In a busy year for patent case law, the judgments in 2022 developed some legal tests, consolidated others, and on some points put out reasoning that we think invites a fair bit of commentary.<br />
+        <br />
+        Highlights include:<br />
+        <br />
+        What is the 'inventive concept' and is it the same for all purposes?<br />
+        Does the implied licence doctrine have a place in the assessment of indirect (s.60(2)) infringement?<br />
+        The first Formstein defence<br />
+        The territorial reach of the Patents Act &ndash; into the North Sea?<br />
+        Should American Cyanamid remain the test for the award of injunctive relief in 2023?<br />
+        Can an online take-down amount to a threat of infringement proceedings?<br />
+        When will the court permit alternative service out of the jurisdiction?<br />
+        Who is the "Judge of the Year" for 2022?<br />
+        <br />
+        <br />
+        .<br />
+        <br />
+        <br />
+        <br />
+        A recording of our 26 January 2023 presentation, also entitled A Slightly Slippery Slope, will be made available separately.<br />
+        <br />
+        <br />
+        <br />
+        We hope you enjoy the read. If you have any questions, please contact Gordon Harris or Ailsa Carter.
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b0d6400e-ea40-433c-a5f9-398e3b7b1356"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230912T071727Z

@@ -1,0 +1,59 @@
+﻿---
+ID: "5a1d34b6-4fd9-4787-be45-de9577ab3fd8"
+Parent: "aeb79b21-f32e-48ee-b8c6-e2a2dbff0e5c"
+Template: "0a2929f8-306f-47a1-bfa5-3afe137ec446"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Client Work/Quantum Automotive acquires Honda Dubois"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: "{1DF907FF-D54C-44CE-9B6C-315610837045}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231003T103403Z
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: "{C5EB94BD-3FFF-41EB-B73B-34632BD88F23}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Quantum Automotive acquires Honda Dubois
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: |
+        On February 2, 2022, Quantum Automotive Group ("Quantum") completed the acquisition of a Honda dealership in Woodstock, Ontario. The transaction involved the purchase of 100% of the share capital of the operating company, 1247843 Ontario Inc. (d.b.a Honda Dubois), and the real estate holding company, Dubois Automotive Realty Inc., through Quantum's subsidiaries Quantum Automotive Woodstock Incorporated, Quantum Realty Woodstock Incorporated and Questerra Development Incorporated.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Quantum Automotive acquires Honda Dubois
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "563dd349-cabd-4735-bd08-c9491719aa43"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: "{D9D13CCA-FF54-418B-8E51-E09DF6B759FE}"
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {630149FB-2548-4EF0-81ED-6DBE59E14FB4}
+        {BF3AFED6-5C43-42FA-BC05-BC184C4977B6}
+        {B2BA524C-A036-4B4B-867C-B7E7B324D668}
+    - ID: "b39ad9cc-af0e-4550-8414-4b7478f1ad31"
+      Hint: PublishedDate
+      Value: 20230909T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231003T103703Z

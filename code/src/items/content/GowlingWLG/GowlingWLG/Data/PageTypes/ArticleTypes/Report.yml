@@ -1,0 +1,48 @@
+﻿---
+ID: "eb6193f2-fc79-42a6-8b28-3e38b6474f6f"
+Parent: "f77b34ae-8e12-4a0f-aab2-68c710774e26"
+Template: "6f293fd6-d303-4ed8-ac75-cb1e3f8f78fc"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/PageTypes/ArticleTypes/Report
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230727T101029Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eeb2bf99-3de3-4c2d-af7f-dc46ead62e20"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "bc21b84b-ab25-4460-b83d-7d5f54ff491e"
+      Hint: PageType
+      Value: Report
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230727T101029Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230727T101029Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "88cdf401-6541-4936-b25e-9afcb9955712"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "bc21b84b-ab25-4460-b83d-7d5f54ff491e"
+      Hint: PageType
+      Value: Report
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231013T143815Z
+    - ID: "f37f6f4f-154b-456f-876f-e20ccc7791a9"
+      Hint: Icon
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"3E91317F-D74E-4B33-9C35DAC619611EAE","name":"Reports","description":null,"assetType":"Image","createdAt":"2023-08-03T08:35:59Z","publishedAt":"2023-08-03T08:33:19Z","updatedAt":"2023-08-03T08:35:59Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/68cb3598ef6b250b/webimage-Reports.png","width":600,"height":600,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/68cb3598ef6b250b/thul-Reports.png","width":250,"height":250,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/68cb3598ef6b250b/mini-Reports.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["icons_and_graphics"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>

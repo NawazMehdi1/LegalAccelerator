@@ -1,0 +1,37 @@
+﻿---
+ID: "4fdd7a71-6464-4d10-9f2a-9d70ac34cdd3"
+Parent: "a06d2afb-1c90-4afb-99a7-d62c2e5e788c"
+Template: "6b0f3125-62bb-4110-b239-1876e5e35a51"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/Hamburger/ContentCards/Moments Content Card
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d4a93c7-bb0e-44a0-b06b-5c805dd0ff5d"
+      Hint: FeaturedContentCards
+      Value: "{7FCC2D77-8FB4-45AF-99EC-C9289DA91032}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230727T184310Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "50373694-4e6f-409b-89b0-8315f9baa977"
+    - ID: "b2a8b577-00a5-4a9e-a3b1-c1a08712bceb"
+      Hint: Title
+      Value: Featured Content
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231012T160316Z

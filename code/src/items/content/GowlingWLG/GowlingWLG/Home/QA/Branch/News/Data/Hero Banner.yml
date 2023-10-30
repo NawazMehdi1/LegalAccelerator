@@ -1,0 +1,41 @@
+﻿---
+ID: "41c2f1e8-99b6-47bc-9cbd-04f368daaac1"
+Parent: "99ea5c75-6c4d-49a2-b022-9dab2de1b953"
+Template: "ac63d976-3a92-430d-b7a4-5cae4a1fcaa0"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Branch/News/Data/Hero Banner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230911T055841Z
+    - ID: "3d9c8116-1f84-4225-90d6-e14c62cd2fbe"
+      Hint: Description
+      Value: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    - ID: "49d3a5f2-fcd8-4eae-a4b9-0dc02f134cff"
+      Hint: Title
+      Value: News
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a1513ec-1fd4-4dec-bf89-eba54231003c"
+    - ID: "943df8f9-6619-4a73-8bb5-522f503389db"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{33069873-93DE-49F3-BEED-D68B6A7CDCA1}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230911T060105Z

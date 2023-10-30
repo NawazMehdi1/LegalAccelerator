@@ -1,0 +1,84 @@
+﻿---
+ID: "275e847c-9cd7-44eb-b0f4-eaadb68a3114"
+Parent: "e2e907f5-5008-4c2a-ad2f-0548a9944ee9"
+Template: "ca295d2d-fc88-4564-af21-cc1fe4cdfd6d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/News Listing/$name
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/scroll.png
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{8727AB96-A95B-49F0-82A3-451DD1BB9460}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{7276CA91-2F78-4FA8-BC5C-D591FDCB5D5D}"
+          p:before="*"
+          s:ds="local:/Data/Hero Banner"
+          s:id="{73246A93-D7E9-4088-8C26-10993148BBEB}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;CTABackgroundColor&amp;FieldNames=%7BC914FEDD-BF69-445E-BCA8-EB8E66277E89%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/container-1"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{1D015BB9-0004-45A7-99EC-48E12DC3412A}"
+          p:after="r[@uid='{7276CA91-2F78-4FA8-BC5C-D591FDCB5D5D}']"
+          s:ds="{1C6835CC-725E-4FE5-BBF1-A8600503BC0C}"
+          s:id="{C584C1BC-ABDC-4F5F-8AD9-6593A3FB9D32}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/container-1"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{71A23F4F-19E1-477D-ABE0-BD38B9F3F5C9}"
+          p:after="*[1=2]"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0cbc6e2a-e7ca-4f1a-8cc8-48e6156f9e3c"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{33069873-93DE-49F3-BEED-D68B6A7CDCA1}" />
+    - ID: "0d88eec5-b6af-4dd8-91e2-7923905c22a5"
+      Hint: SubTitle
+      Value: |
+        <span style="color: #212529; background-color: #ffffff;">Lorem ipsum dolor sit amet. Et quis odio et ratione repellat qui impedit nemo cum maxime magni. Ea placeat earum et soluta consequatur sed voluptatem incidunt ut galisum provident et voluptatem consequatur! At similique dolor et beatae minima rem ipsam officia. Sed sint corrupti qui dolores soluta id laborum architecto cum nisi reprehenderit nam cupiditate blanditiis cum voluptas molestiae.</span>
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value: |
+        <span style="color: #212529; background-color: #ffffff;">Lorem ipsum dolor sit amet. Et quis odio et ratione repellat qui impedit nemo cum maxime magni. Ea placeat earum et soluta consequatur sed voluptatem incidunt ut galisum provident et voluptatem consequatur! At similique dolor et beatae minima rem ipsam officia. Sed sint corrupti qui dolores soluta id laborum architecto cum nisi reprehenderit nam cupiditate blanditiis cum voluptas molestiae.</span>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230907T050008Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "363637a5-8606-47bc-bcac-bfa67b4ce4ca"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231019T095511Z

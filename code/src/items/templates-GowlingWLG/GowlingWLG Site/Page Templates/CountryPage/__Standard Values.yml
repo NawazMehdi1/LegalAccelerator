@@ -1,0 +1,48 @@
+﻿---
+ID: "364cc3ed-c480-450a-83f8-82c446c78fca"
+Parent: "fe3ed608-1ae2-43fc-8d2b-24d173d9a56c"
+Template: "fe3ed608-1ae2-43fc-8d2b-24d173d9a56c"
+Path: /sitecore/templates/Project/GowlingWLG Site/Page Templates/CountryPage/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {705A7160-D23C-454D-87AE-135D75534223}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+    {1C82E550-EBCD-4E5D-8ABD-D50D0809541E}
+    {6D35D469-9E90-4D14-B1A9-B675FE74B532}
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230803T060840Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5b009260-06a8-4bc2-8177-a0d77b1bd9c8"
+    - ID: "b6e20f3d-c0a0-4a17-9d3b-c15ebc67d6d9"
+      Hint: CategoryType
+      Value: "{147DC2D6-02CF-42A8-A864-D7C3659F8D23}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230817T175519Z

@@ -1,0 +1,91 @@
+﻿---
+ID: "1df907ff-d54c-44ce-9b6c-315610837045"
+Parent: "e334f407-b6af-4f25-85eb-95c3aeb3e148"
+Template: "66a4442f-338d-493b-83a9-c1727e985320"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Services/Advertising
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{EA25391C-2E25-484B-8C7E-C42729774A91}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5E5BA149-B82E-4CBA-862D-303BB6895BF2}"
+          s:ds="{14ABF3B8-AFBB-48F6-81D5-430E6E49B86A}"
+          s:id="{4FA3F34D-AA26-4A35-AAB9-7B6962E163CA}"
+          s:par="FilterType=PageContextFilter&amp;GridParameters&amp;FieldNames=%7B10DAAE65-ADC4-4BC6-9D7F-1612A87104FB%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8DC5D0FD-E7AF-413E-B7E9-C3261812CBF5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{96B92047-E071-4851-99B7-B2689CACB36D}"
+              p:before="*"
+              s:ds="local:/Data/HoverOverCards"
+              s:id="{A9C60D1E-AF4C-4DB8-BE22-43338634CB38}"
+              s:par="GridParameters&amp;CTABackgroundColor&amp;FieldNames=%7B81E71C31-2F34-400D-99AA-321BF3A06BA4%7D&amp;Styles=%7BAA7172C8-68C1-4445-B403-3847351CBF4B%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{7F066B1E-301A-4701-8991-1C2EC7F62126}"
+              p:after="*[1=2]"
+              s:ds="{1C51D4C2-4771-4083-91D9-F52C080AFBD3}"
+              s:id="{70D77A7D-7805-44AB-9BF1-192AE57B6156}"
+              s:par="CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230828T133335Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{F0512CCE-EF24-4D6C-9C09-05C521058522}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Advertising
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Advertising
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c7046be6-4937-440a-98cd-f84108fda87c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230927T030620Z

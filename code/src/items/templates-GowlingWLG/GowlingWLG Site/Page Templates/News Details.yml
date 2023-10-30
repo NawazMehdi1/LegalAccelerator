@@ -1,0 +1,55 @@
+﻿---
+ID: "452896f9-a6bd-4742-b8f1-80aa6adf6943"
+Parent: "6a86a8d8-d60e-4005-a88f-1d49a1f1dfa0"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/GowlingWLG Site/Page Templates/News Details
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Applications/32x32/scroll.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {705A7160-D23C-454D-87AE-135D75534223}
+    {F2AACD78-A8D7-43BA-8AB7-7C916CD59061}
+    {FA692362-92A6-47B1-89AC-878CCB1C2BBA}
+    {78509BB5-EFF0-4CF1-8104-161286913BED}
+    {23AE9E80-3117-4EC3-91BC-D2F0E304133E}
+    {0DE79F00-5A45-42AC-B596-18333BAEB7B4}
+    {4A126E18-0AA2-4EFE-A96E-7B3CC16F8022}
+    {D89FEA49-31C4-42F2-AA5D-6C7BD7A16314}
+    {74B6674F-D4A8-449D-B8FA-DD9D1DDD7924}
+    {C11159C2-70DE-4336-B8E0-3CC47E7ECAE9}
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1600
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{7CC2724B-C9F2-43C4-8058-B4AE57A236CE}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T063256Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\pranshu.katiyar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8422410-a490-471f-b380-c83ec0545b8f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230906T210835Z

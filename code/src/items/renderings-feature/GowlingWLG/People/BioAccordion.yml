@@ -1,0 +1,144 @@
+﻿---
+ID: "c3d0abee-8dde-4c3e-8f28-8465d8d0818e"
+Parent: "855d6bfb-2f2a-405d-8009-138a6a6e2a4d"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/People/BioAccordion
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: BioAccordion
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
+  Hint: Placeholders
+  Value: "{62C2E219-905C-4D5E-99F6-5561CC68715A}"
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/rack_servers.png
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query BioAccordion($datasource: String!, $language: String!) {
+      item(path: $datasource, language: $language) {
+        children(includeTemplateIDs: ["{A0A28AA6-11EE-4DEC-A76B-3E0F3FF28E0D}"]) {
+          results {
+            ... on BioAccordionSelector {
+              name
+              accordionTitle: field(name: "accordionTitle") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              dataItems: field(name: "dataItems") {
+                ... on MultilistField {
+                  targetItems {
+                    ... on Text {
+                      template {
+                        name
+                      }
+                      text: field(name: "text") {
+                        ... on RichTextField {
+                          jsonValue
+                        }
+                      }
+                    }
+                    ... on SpokenLanguages {
+                      template {
+                        name
+                      }
+                      spokenLanguagesheading: field(name: "Heading") {
+                        ... on TextField {
+                          jsonValue
+                        }
+                      }
+                      spokenLanguages: field(name: "SpokenLanguages") {
+                        ... on MultilistField {
+                          targetItems {
+                            fields(ownFields: true) {
+                              name
+                              jsonValue
+                            }
+                          }
+                        }
+                      }
+                    }
+                    ... on FolderWithTitle {
+                      title: field(name: "title") {
+                        ... on TextField {
+                          jsonValue
+                        }
+                      }
+                      children {
+                        results {
+                          template {
+                            name
+                          }
+                          fields(ownFields: true) {
+                            name
+                            jsonValue
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+      searchCategoryType: item(
+        path: "{1690075D-EED7-453F-8D0D-846390AFFD31}"
+        language: $language
+      ) {
+        name
+        type: field(name: "PageType") {
+          value
+        }
+      }
+      searachPageType: item(
+        path: "{36B1E0FE-1CC5-40C3-829D-C8DDF39F894D}"
+        language: $language
+      ) {
+        name
+        type: field(name: "PageType") {
+          value
+        }
+      }
+    }
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: /sitecore/templates/Project/GowlingWLG Site/Page Content/Bio Accordion/BioAccordionSelector
+- ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
+  Hint: Open Properties after Add
+  Value: 1
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{2CB0B8BB-78A9-4A84-AC3D-2F52B4373F04}"
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: "query:$site/*[@@name='Data']"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230719T161913Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1655b37-363c-455a-8432-2404206fd80d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231006T044927Z

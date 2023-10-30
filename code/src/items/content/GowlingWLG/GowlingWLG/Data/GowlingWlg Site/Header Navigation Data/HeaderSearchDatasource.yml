@@ -1,0 +1,54 @@
+﻿---
+ID: "0a79e7b6-b1e9-4a9a-9017-4b69f741d1c5"
+Parent: "68044083-1e55-4e71-b5e2-19285c15b54a"
+Template: "31595a06-4ef6-40fc-9ded-2a23b67fbdce"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/Header Navigation Data/HeaderSearchDatasource
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "05296f9c-9313-4c08-9c61-88bdab9d2a25"
+      Hint: SectorsLink
+      Value: |
+        <link text="See All Sectors" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{0B354EAD-3D79-401A-991A-944806C8BC05}" />
+    - ID: "057310d5-06b2-46e9-bc87-7843bf951890"
+      Hint: InsightsLink
+      Value: |
+        <link text="See All Insights" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{1CBCEC78-4A20-41E2-824C-5C1E3882E3E0}" />
+    - ID: "108f5a05-2fb2-4cf7-a505-185ef50f63be"
+      Hint: PlaceholderText
+      Value: Search
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230823T074730Z
+    - ID: "28b3b042-cf08-4be4-b8ff-7b96720efcc4"
+      Hint: InsightsLabel
+      Value: Insights
+    - ID: "50ab804d-8021-4793-bf72-831bc965a9af"
+      Hint: PeopleLabel
+      Value: People
+    - ID: "801e098c-9201-4c11-8308-65dc4f3e6068"
+      Hint: SectorsLabel
+      Value: Sectors
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "86dcd085-c836-4958-ba35-8d554484eeae"
+    - ID: "a3529a57-3898-410e-9077-599fabe68137"
+      Hint: PeopleLink
+      Value: |
+        <link text="See All People" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{9F5E944D-11FA-457E-8928-F991473757A2}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "c6bae6ac-7dbe-4b5d-a693-593bd9aa09d5"
+      Hint: ServicesLabel
+      Value: Services
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T093145Z
+    - ID: "f330f8a0-f243-4b20-ba34-37e66f4ad2f9"
+      Hint: ServicesLink
+      Value: |
+        <link text="See All Services" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{65BA310F-F4FF-430A-B728-8CF55F2B3D81}" />

@@ -1,0 +1,100 @@
+﻿---
+ID: "67fa118c-6fd8-4ca5-9d94-21b8909f88e4"
+Parent: "df3f6ad0-2b6f-474d-a688-dc56dde9b1f7"
+Template: "77891984-7e21-45ff-a657-2203b78be33f"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{1C82E550-EBCD-4E5D-8ABD-D50D0809541E}"
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{FC3AAE76-7301-4583-BBE2-463B8388DA3D}"
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "a0cb3965-8884-4c7a-8815-b6b2e5ced162"
+  Hint: __Editors
+  Value: "{59F53BBB-D1F5-4E38-8EBA-0D73109BB59B}"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 1
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{7276CA91-2F78-4FA8-BC5C-D591FDCB5D5D}"
+          p:before="*"
+          s:ds="{1444AD14-E562-4BFF-AA93-A801C2CEAB06}"
+          s:id="{73246A93-D7E9-4088-8C26-10993148BBEB}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;CTABackgroundColor&amp;FieldNames=%7BC914FEDD-BF69-445E-BCA8-EB8E66277E89%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/container-1"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{1D015BB9-0004-45A7-99EC-48E12DC3412A}"
+          p:after="r[@uid='{7276CA91-2F78-4FA8-BC5C-D591FDCB5D5D}']"
+          s:ds="{1C6835CC-725E-4FE5-BBF1-A8600503BC0C}"
+          s:id="{011B4ACF-9BF0-4699-B8A9-D26F9A532AAD}"
+          s:par="GridParameters&amp;Rfk id=rfkid_8&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/container-1"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{71A23F4F-19E1-477D-ABE0-BD38B9F3F5C9}"
+          p:after="*[1=2]"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "0cbc6e2a-e7ca-4f1a-8cc8-48e6156f9e3c"
+      Hint: BackgroundImage
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"447783CF-9103-40BE-AC90736973B4D2FF","name":"hand-shake","description":null,"assetType":"Image","createdAt":"2023-09-19T09:55:22Z","publishedAt":"2023-09-19T09:55:00Z","updatedAt":"2023-09-19T09:55:22Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/76ad3e55e0821984/webimage-hand-shake.png","width":800,"height":286,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/76ad3e55e0821984/thul-hand-shake.png","width":250,"height":89,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/76ad3e55e0821984/mini-hand-shake.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["Banners_-_Website"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>
+    - ID: "0d88eec5-b6af-4dd8-91e2-7923905c22a5"
+      Hint: SubTitle
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230627T145952Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{06A113F8-7DAF-473F-BFAF-D0E534965E64}"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: People
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Our People
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d9910a8e-82a4-4a39-a976-1ea399315b8f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231019T092144Z

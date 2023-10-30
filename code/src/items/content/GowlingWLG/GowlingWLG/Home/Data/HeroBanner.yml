@@ -1,0 +1,52 @@
+﻿---
+ID: "7b3c60b2-ecaa-41aa-9abb-6fc071395d0a"
+Parent: "e580c8d0-1b45-4c88-b56a-7b38275e06ac"
+Template: "ac63d976-3a92-430d-b7a4-5cae4a1fcaa0"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/Data/HeroBanner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230602T013520Z
+    - ID: "3d9c8116-1f84-4225-90d6-e14c62cd2fbe"
+      Hint: Description
+      Value: Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis.
+    - ID: "49d3a5f2-fcd8-4eae-a4b9-0dc02f134cff"
+      Hint: Title
+      Value: Ornare Dolor Sollicitudin Ultricies Cursus
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "8878f6cd-75cb-4ce0-b7bd-dda3bbb54671"
+      Hint: CTA1
+      Value: |
+        <link text="Start Collaborating" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0e543316-d80b-48e7-aeae-7ae2fcffffb9"
+    - ID: "943df8f9-6619-4a73-8bb5-522f503389db"
+      Hint: BackgroundImage
+      Value: 
+    - ID: "9a7c722f-11b4-446b-ad0b-875d0030507c"
+      Hint: CTA2
+      Value: |
+        <link text="Start Collaborating" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d54961e0-20cb-4f37-8a95-46ceb5b383fb"
+      Hint: ForegroundImage
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"5CFD0FC4-82E5-4B55-A7C3FAE3D8B3BCC1","name":"HeroBanner","description":null,"assetType":"Image","createdAt":"2023-09-28T14:12:57Z","publishedAt":"2023-09-28T14:12:09Z","updatedAt":"2023-09-28T14:12:57Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/2817f2256b131461/webimage-HeroBanner.png","width":386,"height":600,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/2817f2256b131461/thul-HeroBanner.png","width":161,"height":250,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/2817f2256b131461/mini-HeroBanner.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["hero_images"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null,"overrideAltText":null}]]></asset>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230928T142310Z

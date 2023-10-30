@@ -1,0 +1,39 @@
+﻿---
+ID: "ddc02513-790c-4f3e-b86d-040b268722c4"
+Parent: "dce8c62d-dc12-4534-993c-3c91b78109da"
+Template: "10f2461a-fb4d-4246-95e3-d6e2f01734f4"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/Images/Icons/People/Person
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230711T084904Z
+    - ID: "47a6cc82-487f-425f-98e4-a573af91d6dd"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"2744E12F-B5C9-4E52-87710876CD58D841","name":"Profile_PhoneBook","description":null,"assetType":"Image","createdAt":"2023-09-28T12:29:02Z","publishedAt":"2023-09-28T12:26:10Z","updatedAt":"2023-09-28T12:29:02Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/2503ce7549167bc8/webimage-Profile_PhoneBook.png","width":566,"height":600,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/2503ce7549167bc8/thul-Profile_PhoneBook.png","width":236,"height":250,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/2503ce7549167bc8/mini-Profile_PhoneBook.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["Internal"],"extension":["png"],"Asset_Type":["brand_guidelines"]}}],"file":null,"overrideAltText":null}]]></asset>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a054960-bec3-43c0-8d17-ebcae234ce74"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230929T064257Z

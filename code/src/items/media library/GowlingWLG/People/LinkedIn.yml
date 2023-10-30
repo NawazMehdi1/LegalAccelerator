@@ -1,0 +1,57 @@
+﻿---
+ID: "865d26b6-62f3-4a36-89d0-4e58854edd84"
+Parent: "1de92f1c-2ea1-4d56-ab11-2bf78a58aef0"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/Project/GowlingWLG/GowlingWLG/People/LinkedIn
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/865D26B662F34A3689D04E58854EDD84.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 23
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "3948d457-e767-4f80-a3de-23063f007cb6"
+  Value: /9j/4AAQSkZJRgABAgEASABIAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCAAaABcDAREAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD5C/Zb/Zi/at/bP/Y3/bY/bu1f/goL448F3f7NI8Q6/f8AgrxN498c6vrnxI1fTfCp8fa2+seID8QdI/4QkeIIbuPR/At4dB8U/wDCY+LxqGgx22kiwN3L+0Y7HYDLcxyzKo5RSqLG8kFVhSpRjRi6nso8sPYy9ryW5qq5qfs6dp3ley+urVqGHxGHwywsZe2suaMIpRTlyqy5XzWeslePLGz1vY/JP/hpD9oj/ovXxo/8Ol44/wDl7X0H1PB/9AmG/wDBFL/5E7fY0f8An1T/APAI/wCR0PhX9rv9qnwRr1h4n8K/tHfG/Rte0z7V9g1K3+J/jJ5rb7bZXGn3WxbjWJoT51ld3EDb42wkrFcMFYRUy/AVYOnUweFlCVrxdCnZ2aa2ino0mJ0KElZ0abT6ckfXsftf/wAEx/2Lf2Z/jl/wSb/4KfftBfFP4Zp4p+LvwT8K/Eq9+GXi1vF3jzRh4bufDPwRl8Z6DI+geH/FGk+GNd/s3xOiavAniPRdXjM6rHKkluohHzWd5ljcLn+SYShX9nh8TOiq9P2dKXOp4n2c/fnCU480PdfJKOnnqefjMRWp47B0oT5adRw548sXe9TlerTavHTRo/Q3xX+zB/wRI/Yq/Yj/AOCbX7WP7WH7MPjrxp4q+PHwL+D8+uaD8PvFHjjW7fxz448dfBrwB4z8bfEnxj4d174peHNFjsPC11Pf3VrpHh+/06xa88XvBB4W1NbbTW0Px6eO4mzLM85wGAx1KnTwuKxCjOtClH2VKliatOlRpzjQnK9RJJymm7U7ucbvm5Y1swxGIxdChWjFU6lSzkorljGpKMYRag372mrTfu7rW/5d/wDBwn+wP8Av2If2j/hBf/s0+HH8EfC745fC268VDwQup6vq2naF4p8Oa6+m6vc6HceIL/UNZtdI1jStS8PXi6VeXEyWOpLqZs5I7S4h0/T/AHeEc1xeZ4PELGz9rXwtdU/a8sYuVOcLxUlBKLlGUZrmS1jy31V32ZXiquIpVFWfNOlNR5rJNpq6vbS6aevVW9Xd/wCCcH7fn7Mf7On/AAS1/wCCkH7MXxV8Zavovxj/AGjPDfxK0z4U+HbHwd4o1qy1q68SfBR/Beki+1/S9MudE0VJ/EEgtnfVb61EEStdTBINrtOc5TjsZnuTY6hTjLDYOdGVebqU4uKhifaStCUlKVoa+6nfZaixeFrVcbhK0Ip06Tg5vmSatU5no3d6djL/AOCoP7en7NP7TX/BPP8A4Jdfs+/B/wAX6vr/AMUP2ZPhB4I8JfGHR77wh4l0Gy8P67onwQ+GvgnULWx1nWdNs9M15I/EPh3VrVLnRrm9t5YrdbpJDbzwSSVkeVY3BZvnmLxFOMKGOxFWph5KpCbnCWKr1U3GMnKHuTi7SSett0x4PDVqOKxlWpFKFacpU2pJtp1JyWid1o1vYP8Agu5+3p+zT+3LrX7IN3+zj4v1fxbb/CP4Qa/4S8cSar4Q8S+E/wCztc1C78MS21rbJ4k03Tn1FGTS7tmubFZrdNqAyZdRRwrlWNyuOYLGU403iMRCpS5akKnNGKqXb5JS5fiWjswy3C1sMq/tYqPPOLjaSldLm7N23P0p+NP7NX7OcPxj+LMMPwB+CkUMXxL8dxRRRfCvwLHHFHH4p1VUjjRdBCoiKAqIoCqoAAAFeNhsbjHh6DeLxLbo0v8Al/V/kj/fOKnWrckP3tT4I/bl2XmeZ/8ADN/7O/8A0QX4L/8AhrfA/wD8oq2+uYz/AKC8T/4Pq/8AyRftq3/P2p/4HL/M+t/2G/2Wv2ZNZ/aY8BafrH7OfwI1awltPGDS2WpfCL4f31pI0Xg3XpImktrrw9LC7RyKrxlkJR1DLhgDXn5pjsbHBVXHGYqLvT1jiKyf8SHVTuY4ivWVKVq1VarapPuvMP/Z
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 2061
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/jpeg
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: jpg
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 23 x 26
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 26
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230711T084827Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "255bbd93-db30-47af-b2d1-714207fa63f9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230711T084828Z

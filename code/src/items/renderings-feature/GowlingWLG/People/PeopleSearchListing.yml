@@ -1,0 +1,85 @@
+﻿---
+ID: "011b4acf-9bf0-4699-b8a9-d26f9a532aad"
+Parent: "855d6bfb-2f2a-405d-8009-138a6a6e2a4d"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/People/PeopleSearchListing
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: PeopleSearchListing
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query SearchQuery($datasource: String!, $language: String!) {
+      datasource: item(path: $datasource, language: $language) {
+        ResultsPerPage: field(name: "ResultsPerPage") {
+          ... on MultilistField {
+            targetItems {
+              ResultCount: field(name: "ResultCount") {
+                ... on IntegerField {
+                  jsonValue
+                }
+              }
+            }
+          }
+        }
+      }
+      searchWidgetId: item(
+        path: "{D490363B-DE04-4BC1-8EDE-8C4DFCD6FAA5}"
+        language: $language
+      ) {
+        name
+        widgetId: field(name: "Title") {
+          value
+        }
+      }
+      peopleCategoryType: item(
+        path: "{D4C959F8-17C6-4405-8786-3333B34A9E7C}"
+        language: $language
+      ) {
+        name
+        type: field(name: "PageType") {
+          value
+        }
+      }
+    }
+    
+- ID: "705a4365-065a-4104-b755-7363f455ebc6"
+  Hint: Customize Page
+  Value: |
+    <link linktype="internal" />
+- ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
+  Hint: Open Properties after Add
+  Value: 1
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{4247AAD4-EBDE-4994-998F-E067A51B1FE4}"
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: /sitecore/templates/Project/GowlingWLG Site/Page Content/Pagination/ResultsPerPage
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230914T064721Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9538b4be-3b05-44f3-9581-586f5e972b7c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231020T104552Z

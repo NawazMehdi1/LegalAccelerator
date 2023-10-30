@@ -1,0 +1,40 @@
+﻿---
+ID: "9dad2bda-af7e-4fc2-b2c1-87283c3aa4cf"
+Parent: "bee1f92c-86a8-4765-930b-ae2552125ea6"
+Template: "541839c4-1424-434f-ba72-7079974f9e1c"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People/j/John-Peter/Data/AccordionDataItems/Education"
+BranchID: "8b85ba3a-7ded-4e46-aec4-2f21991c8712"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{0E773D3C-E2E3-457E-A3BB-24C8B1786B95}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{49EBE7CB-F271-4BFD-AA1F-FB78959F8248}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232844Z
+    - ID: "827ac6df-52ae-491a-9a8c-73e70cd5c0dc"
+      Hint: Title
+      Value: Education
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9979e081-1057-4b69-aa82-b2a345673f35"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232844Z

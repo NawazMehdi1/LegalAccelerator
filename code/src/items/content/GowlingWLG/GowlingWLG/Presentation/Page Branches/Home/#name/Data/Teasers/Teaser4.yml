@@ -1,0 +1,45 @@
+﻿---
+ID: "ee7a81a5-3b53-4989-a371-11584ec52117"
+Parent: "41cf4681-395e-4603-82b9-268b0c671ee9"
+Template: "03ae9d27-64a3-4939-be65-7dc133381460"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Home/$name/Data/Teasers/Teaser4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b804da3-0e7b-4902-8619-09a2ed552331"
+      Hint: Image
+      Value: |
+        <image mediaid="{01944C8C-960D-46F7-B670-CCB58B3F8645}" />
+    - ID: "24269fb4-3b18-42d1-b5cc-6ea87e53bd1a"
+      Hint: Title
+      Value: Teaser 4
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230621T130216Z
+    - ID: "44c9952c-390f-49e2-89e1-ece3f52317e0"
+      Hint: CTA
+      Value: |
+        <link text="Read More" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "493f0353-2998-43a4-87db-2599d04ba935"
+      Hint: Description
+      Value: Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Fusce.  Read More
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5ecfc1ea-bacd-4b07-be3c-1b9f6e201e81"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230621T130321Z

@@ -1,0 +1,50 @@
+﻿---
+ID: "769d6cf5-7ad5-41e2-8b22-a4ce3b8833c0"
+Parent: "6d870bcf-458d-47a9-abab-0984ab9cbc9e"
+Template: "54fc0bbe-593f-4717-bc85-5572fbe1f2ef"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/Footer Navigation Data/Social Share
+SharedFields:
+- ID: "04cf61b4-08ed-463d-a54f-1e370785423b"
+  Hint: Styles
+  Value: "{FCC2FFE2-9B50-4FB8-A73A-1A85C7C11F46}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0ae3d812-3f20-45fb-8e5a-451b8f1b8e6f"
+      Hint: SocialShareTitle
+      Value: Stay Connected on Our Social Media
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230523T205007Z
+    - ID: "469eb351-4306-424b-abc8-4b6c38cf236a"
+      Hint: BackgroundImage
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"FE6AC89D-6B7D-41ED-B334AB3CDDA9695E","name":"BackgroundImage-Footer","description":null,"assetType":"Image","createdAt":"2023-08-09T05:22:43Z","publishedAt":"2023-08-09T05:21:20Z","updatedAt":"2023-08-09T05:22:43Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/4df24063f86048b/webimage-BackgroundImage-Footer.png","width":800,"height":242,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/4df24063f86048b/thul-BackgroundImage-Footer.png","width":250,"height":76,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/4df24063f86048b/mini-BackgroundImage-Footer.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["icons_and_graphics"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "5bc6be25-0b75-45b5-84a6-ed00a59afd96"
+      Hint: SocialShareIcons
+      Value: |
+        {0F9C57B2-F9D7-41E7-919D-597156C62616}
+        {9DD70121-CC97-4CFB-84BD-AA35821B50F7}
+        {E1C84F2B-104C-4515-87FE-B69908677293}
+        {EFDF3652-DA93-40D5-A1F0-AB85B58539B4}
+        {4035330D-A725-449C-87A3-67DB4F20EA4B}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4be6b19d-43cc-4ddb-9aa8-4f4b4251656d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T172755Z

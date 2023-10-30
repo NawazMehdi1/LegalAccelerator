@@ -1,0 +1,177 @@
+﻿---
+ID: "4fa3f34d-aa26-4a35-aab9-7b6962e163ca"
+Parent: "bbd21fea-6067-478c-a1d7-021f9ebb64f6"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/PageContent/RelatedInsights
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: RelatedInsights
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/logviewer.png
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query RelatedInsights(
+      $contextItem: String!
+      $datasource: String!
+      $language: String!
+    ) {
+      contextItem: item(path: $contextItem, language: $language) {
+        template {
+          name
+        }
+        CategoryType: field(name: "CategoryType") {
+          ... on LookupField {
+            targetItem {
+              type: field(name: "PageType") {
+                jsonValue
+              }
+            }
+          }
+        }
+        PageType: field(name: "PageType") {
+          ... on LookupField {
+            targetItem {
+              type: field(name: "PageType") {
+                jsonValue
+              }
+            }
+          }
+        }
+    
+        Sectors: field(name: "Related Sectors") {
+          ... on MultilistField {
+            targetItems {
+              title: field(name: "title") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+            }
+          }
+        }
+        Services: field(name: "Related Services") {
+          ... on MultilistField {
+            targetItems {
+              title: field(name: "title") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+            }
+          }
+        }
+        Jurisdictions: field(name: "Jurisdictions") {
+          ... on MultilistField {
+            targetItems {
+              title: field(name: "title") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+            }
+          }
+        }
+      }
+    
+      searchCategoryType: item(
+        path: "{A9A8F9C3-1DC4-4DC7-8B22-613A9F57E079}"
+        language: $language
+      ) {
+        name
+        type: field(name: "PageType") {
+          value
+        }
+      }
+      datasource: item(path: $datasource, language: $language) {
+        SeeMore: field(name: "SeeMore") {
+          ... on LinkField {
+            jsonValue
+          }
+        }
+        ... on Related_Insights {
+          RelatedInsights: field(name: "Related Insights") {
+            ... on MultilistField {
+              targetItems {
+                url {
+                      path
+                    }
+                Title: field(name: "Title") {
+                  ... on TextField {
+                    jsonValue
+                  }
+                }
+                SubTitle: field(name: "SubTitle") {
+                  ... on RichTextField {
+                    jsonValue
+                  }
+                }
+                Image: field(name: "Image") {
+                  ... on TextField {
+                    jsonValue
+                  }
+                }
+                PublishedDate: field(name: "PublishedDate") {
+                  ... on DateField {
+                    jsonValue
+                  }
+                }
+                pageType: field(name: "PageType") {
+                  ... on LookupField {
+                    targetItem {
+                      pageType: field(name: "PageType") {
+                        value
+                      }
+                      icon: field(name: "Icon") {
+                        jsonValue
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: 
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{A9319CD5-7C1B-4F63-838E-06DFD1F016AF}"
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1650
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230807T170049Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "14bea88d-af3b-4ebf-982b-173932dd4e66"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230927T181000Z

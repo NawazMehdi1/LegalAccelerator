@@ -1,0 +1,57 @@
+﻿---
+ID: "f761491c-8ec7-4ec2-8298-7a1b3d4ba073"
+Parent: "06d22d2c-875f-421e-9fe4-f695041446f4"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/GowlingWLG/GowlingWLG/socialShare/insta
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/F761491C8EC74EC282987A1B3D4BA073.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 20
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "39a3fdfe-72a0-43ae-933e-a60d6feea893"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAJtSURBVHgBjVRLUttAEH3T2ISwCZwg4gQxJ7B8A3MCnFXKYWFEVsSVQq7EsErJLIgrq9gnoHIC8AlwToByArziU4pn0j2SyhIZB7pK357+vX7dCpn8iMKNe1Q7gPEB5fEvD/+XmM/GWusxkb5sB2EsP5XczqJ+jaDO+YB1Ygx+p0ozM1AzhzN7Tim8zp1rYGcv6E7VMDphpbnInJ2uIQnfBuEMz5DUVrf49Uicsu12hVP2ieBxhB5HCPFMkaq0/tNcp/ng3lQ3uJzOrV7ZrxCZXSmOkIyWZnISevJsH6Y4iaww7IaodsuZrFMSCv5EK3UyRm1Jujmo5ZL6R9+i/g3Wqtdy8bdcUp7gOxasieYjgSjF3XiVDFiHsy+MK3y+ZtrgJ3dPynrDz3AYHfvvgo8N1g0emXkk97yruXy3WSifjacvkWztHXSb7w+6/E3b8k+odfb1c1i0IYUb+4RDNFTLcGYGyU6x4+3gMH6BpCE6RdQp2himmNNhRiOPT/xy4SoBlDETgWAYpc0qZYolkkd0isKrZap/HEpZtiSl6jKOcFTA01PDEmaQK6LS+lRKekD1oliWBFDQ56Jj+o3LSSsbvJJ+oJRJ+8MnoUady/YNqldMoanM9B3TSM4yKybc+bBow9TaZAqCHlNmUbrlWU/Z5WAp1MxUPaEQ3BLzcjiWxeDzYG8uWwp52S7MUr1dEteSeQV6PgGRf4dVGanAna3bUS4EvcuY8jqbj1S6WFevsvUVAsn4KQe5iO0DJ8JY78OOb9JwLlhks50uWJRgsE3JOorFVl8sWJRx8BmHlhwsbGOnZM2M+dwl4z/I8f8LxRwmVV+9/hsAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 728
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 20 x 20
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 20
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230615T094556Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "21c113c7-0887-42d9-8c24-bbba2059b902"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230615T094556Z

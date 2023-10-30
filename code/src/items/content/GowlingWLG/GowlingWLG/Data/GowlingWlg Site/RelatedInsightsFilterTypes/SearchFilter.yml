@@ -1,0 +1,31 @@
+﻿---
+ID: "b3a4f816-fcec-422d-9262-77bbe1800340"
+Parent: "7ec625dd-2c9a-4224-94bd-688baaa75d94"
+Template: "d5846f4f-f6d9-4add-8e8d-01a53f2b5ddf"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/RelatedInsightsFilterTypes/SearchFilter
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230911T093115Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7e6d0d60-f16f-41cf-917a-bd06e7ddbfbe"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230911T093133Z

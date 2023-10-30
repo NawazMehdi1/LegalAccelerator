@@ -1,0 +1,41 @@
+﻿---
+ID: "5b457e81-cd3b-4714-ab93-7c5cf18025ed"
+Parent: "cb58050e-33e7-4e49-be9b-607e4a32b499"
+Template: "5b793991-756e-471c-a97b-0af43c42ac33"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Office Page/$name/Data/Recognition in Canada
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230830T191846Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8b9659fc-1880-400c-9585-b969e5352b9e"
+      Hint: Title
+      Value: Recognition in Canada
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "746c57a2-99f0-407f-95ef-03f7de30980c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "c9b980bd-87b8-41df-9e29-d19edfe31ae4"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"F89C799E-B56B-4BDC-B62465F96DE82C33","name":"Proposal_Cover_Alberta","description":null,"assetType":"Image","createdAt":"2023-08-08T18:01:07Z","publishedAt":"2023-08-08T18:00:29Z","updatedAt":"2023-08-08T18:01:07Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/73aaf69cb4c65f1e/webimage-Proposal_Cover_Alberta.png","width":800,"height":533,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/73aaf69cb4c65f1e/thul-Proposal_Cover_Alberta.png","width":250,"height":167,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/73aaf69cb4c65f1e/mini-Proposal_Cover_Alberta.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["pitches_proposals_cover_templates"],"extension":["jpg"],"Asset_Type":["templates_and_resources"]}}],"file":null}]]></asset>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230901T035903Z
+    - ID: "fde2b1f6-e116-4573-9aa8-69c0881d930d"
+      Hint: Description
+      Value: <p>Our real estate team is continuously recognized by a host of legal directories. These include Chambers Canada, the Canadian Legal Lexpert Directory and Best Lawyers in Canada. We were recognized as a 'Leading Real Estate Firm' by The Legal 500 Canada.</p>

@@ -1,0 +1,156 @@
+﻿---
+ID: "30eb2b41-4f92-4707-a712-b2c97c14bb30"
+Parent: "0ccf519f-b74d-43bc-8339-894997f11253"
+Template: "c8e1eb5d-883a-441a-8367-28c967ea8c8e"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Articles/2023/Investment Funds team advises on fundraise in connection with the acquisition of Dignity plc"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{6BB58A8C-522D-490C-93E0-36DC9A9FC8A2}"
+- ID: "39c4902e-9960-4469-aeef-e878e9c8218f"
+  Hint: __Hidden
+  Value: 
+- ID: "9dafca1d-d618-4616-86b8-a8acd6b28a63"
+  Hint: __Bucket Parent Reference
+  Value: "{1F2AD924-1D96-4DA0-8FE4-6AA65C233FBF}"
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{FD9DFCE0-8011-4CFD-8DD4-5BB17B6D0161}"
+          p:before="*"
+          s:ds=""
+          s:id="{7C8A79E6-5A92-4DC2-9D30-E3D6C56A5500}"
+          s:par="CSSStyles"
+          s:ph="/headless-main/container-1/row-7-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{A0F8AC12-D9F8-4567-B2FF-98F9A307CE18}"
+          p:after="r[@uid='{FD9DFCE0-8011-4CFD-8DD4-5BB17B6D0161}']"
+          s:ds=""
+          s:id="{10351392-40DB-4A8A-A9EA-CC8EDEC0AF0F}"
+          s:par="OverrideTitle=Authors&amp;GridParameters&amp;FieldNames=%7B9FDC5359-DCB4-4686-A69D-0A8C90F03986%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/container-1/row-6-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{5C347DF5-45F0-4E08-A820-CF717678830F}"
+          p:after="r[@uid='{A0F8AC12-D9F8-4567-B2FF-98F9A307CE18}']"
+          s:ds=""
+          s:id="{10351392-40DB-4A8A-A9EA-CC8EDEC0AF0F}"
+          s:par="OverrideTitle=Authors&amp;GridParameters&amp;FieldNames=%7B307B3B96-3C8E-4CCC-BBEC-484D755C20BC%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/container-1/row-2-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{FE3C0B17-FE9F-44AA-88A2-410FB94C9BB4}"
+          p:after="r[@uid='{5C347DF5-45F0-4E08-A820-CF717678830F}']"
+          s:ds=""
+          s:id="{BAFF264D-8FB0-4DC7-97B6-60E01D3E3BCE}"
+          s:par="FieldNames=%7b9B78A50A-561D-4AD4-B795-F50DC4DA0063%7d&amp;HideDownload=0&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters&amp;HideReadTime=0&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/container-1/row-1-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{F3B13F72-1175-43C2-8965-47C648D1A236}"
+          p:after="r[@uid='{FE3C0B17-FE9F-44AA-88A2-410FB94C9BB4}']"
+          s:ds=""
+          s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+          s:par="Styles8&amp;FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;EnabledPlaceholders=1%2c2%2c3%2c4%2c5%2c6%2c7%2c8&amp;Styles4&amp;CSSStyles&amp;GridParameters=%7b40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7d&amp;Styles5&amp;Styles3&amp;Styles2&amp;Styles6&amp;Styles7&amp;DynamicPlaceholderId=2&amp;Styles1&amp;SplitterSize=2"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{B7D2FEE4-F2FC-4DE6-A07B-350F50E8431D}"
+          p:after="r[@uid='{F3B13F72-1175-43C2-8965-47C648D1A236}']"
+          s:ds=""
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;BackgroundImage&amp;CSSStyles&amp;GridParameters=%7b40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+        <r
+          uid="{3FF271FD-3061-4F15-8F23-58C8D7F229E4}"
+          p:after="*[1=2]"
+          s:ds="{A706FA88-91D2-4F2C-988C-0862C1A10C41}"
+          s:id="{4FA3F34D-AA26-4A35-AAB9-7B6962E163CA}"
+          s:par="FilterType=SearchFilter&amp;GridParameters&amp;FieldNames=%7BC4E04D91-C8FC-45A7-8E1F-28D52325D6D2%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+      </d>
+      <d
+        id="{73966209-F1B6-43CA-853A-F1DB1C9A654B}">
+        <r
+          uid="{FD95CD84-7ABD-4162-92FB-ED180D37A2D3}"
+          s:par="DateField=PublishedDate&amp;AuthorField&amp;TitleField=Title&amp;EnclosureField&amp;BodyField=Summary" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {88768AE0-0F64-4DDC-8A85-E4735D09E55C}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T133923Z
+    - ID: "366f39a9-4521-4cfa-91ab-db5decb1ff35"
+      Hint: Key Contacts
+      Value: |
+        {54A9266B-9382-480B-817D-35B1E432EB01}
+        {D3720A17-7497-43D4-9D11-838F96829CE9}
+        {601FF004-E3E7-42B5-B072-10DD3816BFAE}
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: |
+        {8A517066-926B-4C39-9000-F595F6EA9C9D}
+        {15440C43-40BA-4359-9333-B185EB8EE43F}
+        {50AFD730-9ED6-4BD6-ADBE-73497A7A979C}
+        {C5EB94BD-3FFF-41EB-B73B-34632BD88F23}
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Investment Funds team advises on fundraise in connection with the acquisition of Dignity plc
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Investment Funds team advises on fundraise in connection with the acquisition of Dignity plc
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4ccd854-ccda-4540-b1d6-fe4e595d3fea"
+    - ID: "9e261863-71b1-4e26-b660-6da87d2fc726"
+      Hint: PageType
+      Value: "{8FDE1066-13A3-4783-A982-FDC892D1B48F}"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+        {AE2E8456-4823-49A7-9446-8314414E670B}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {BF3AFED6-5C43-42FA-BC05-BC184C4977B6}
+        {F5DE4EBB-303C-4182-B7DC-3548DAAEFDFF}
+    - ID: "b39ad9cc-af0e-4550-8414-4b7478f1ad31"
+      Hint: PublishedDate
+      Value: 20180415T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "c0ca828b-328d-4748-ab56-206f968a4504"
+      Hint: Summary
+      Value: |
+        The Gowling WLG Investment Funds team has advised Castelnau Group Limited ("Castelnau"), an investment fund listed on the London Stock Exchange's Specialist Fund Segment, on the publication of a prospectus and launch of a placing (the "Placing") to acquire Dignity plc, a business in the funeral services sector listed on the London Stock Exchange (the "Offer")
+    - ID: "d5d97d87-81b1-4b48-8d2f-d336d999dace"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"A64ABD15-7542-4529-87C5F6EB1CD0A0F6","name":"Generic Office 2","description":"Zoom Virtual Backgrounds","assetType":"Image","createdAt":"2020-05-06T13:59:22Z","publishedAt":"2020-04-21T08:13:05Z","updatedAt":"2023-03-28T15:24:08Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/27c049959207ccc4/webimage-Generic-Office-2.png","width":800,"height":450,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/27c049959207ccc4/thul-Generic-Office-2.png","width":250,"height":141,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/27c049959207ccc4/mini-Generic-Office-2.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["hero_images"],"extension":["jpg"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230927T025439Z

@@ -1,0 +1,231 @@
+﻿---
+ID: "03febefc-ecb5-4963-b1b4-24d65b6d15ea"
+Parent: "28bdf779-c6dc-4c58-a491-4fb74a60e016"
+Template: "ca295d2d-fc88-4564-af21-cc1fe4cdfd6d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/Career
+BranchID: "6fa45745-6d1b-46b6-ab78-fd13fab18508"
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{8727AB96-A95B-49F0-82A3-451DD1BB9460}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1CC62E07-0266-4C3D-A42B-6639A7F77592}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3190D385-1C1A-4B7A-937D-19B7CBC309BD}"
+              p:before="*"
+              s:ds="{8DD13173-4A92-4CE6-BA59-188862D2837C}"
+              s:id="{2CFF5DD9-B0D3-40C1-BF9E-BA0CCB036EB7}"
+              s:par="CSSStyles"
+              s:ph="/headless-main/container-1/row-2-2"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{05124366-DEC5-4EA1-BEE8-95FC4A1DBE95}"
+              p:after="r[@uid='{3190D385-1C1A-4B7A-937D-19B7CBC309BD}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B526598E9-0220-4E16-9391-A4F42E41C8BA%7D&amp;ColumnWidth2=%7B7BFBC95F-786C-4661-8730-71B47510515C%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B526598E9-0220-4E16-9391-A4F42E41C8BA%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=14"
+              s:ph="/headless-main/container-1/row-2-2" />
+            <r
+              uid="{7537E6B9-8FA6-4291-AD52-00B777CE4CB4}"
+              p:after="r[@uid='{05124366-DEC5-4EA1-BEE8-95FC4A1DBE95}']"
+              s:ds=""
+              s:id="{1DEB067F-0BB1-405E-94F5-2ABB537A6160}"
+              s:par="GridParameters=%7B526598E9-0220-4E16-9391-A4F42E41C8BA%7D&amp;FieldNames=%7B2C602599-FA25-4403-AE42-F559F9643CA3%7D&amp;Styles&amp;NavigationRoot=%7B75DF3516-3FB0-4DE0-B100-083C35F13C03%7D&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7BA5B4C448-4764-4C76-8737-94270639BAFD%7D&amp;Filter=%7BD063E9D1-C7B5-4B1E-B31E-69886C9C59F5%7D&amp;Flattened&amp;AddRoot=1&amp;SerializerFieldNames&amp;RenderingIdentifier&amp;CSSStyles"
+              s:ph="/headless-main/container-1/row-2-2/column-1-14"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{E57B72AF-86BD-4218-BF36-B4102E48E9C3}"
+              p:after="r[@uid='{7537E6B9-8FA6-4291-AD52-00B777CE4CB4}']"
+              s:ds="{814481CB-0810-4062-A392-16C74C04FC79}"
+              s:id="{BD21E55C-3437-492E-A126-84BAABCBCDFE}"
+              s:par="CSSStyles"
+              s:ph="/headless-main/container-1/row-2-2/column-2-14"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{BB960336-B058-4E8B-8E79-FC39EFFA50A6}"
+              p:after="r[@uid='{E57B72AF-86BD-4218-BF36-B4102E48E9C3}']"
+              s:ds="local:/Data/Search Job FAQ"
+              s:id="{7EEAAECE-41EA-4E05-A58C-BB104F7555B1}"
+              s:par="CSSStyles"
+              s:ph="/headless-main/container-1/row-8-2/row-1-10/column-2-11"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{B8981CC3-73AF-449F-94F6-F59CE75A5509}"
+              p:after="r[@uid='{BB960336-B058-4E8B-8E79-FC39EFFA50A6}']"
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B5FA2694A-9794-4FF9-B169-88009EF89662%7D&amp;ColumnWidth2=%7B5FA2694A-9794-4FF9-B169-88009EF89662%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+              s:ph="/headless-main/container-1/row-8-2/row-1-10" />
+            <r
+              uid="{F07CC180-4079-4F86-8752-2E8056516BA6}"
+              p:after="r[@uid='{B8981CC3-73AF-449F-94F6-F59CE75A5509}']"
+              s:ds=""
+              s:id="{10351392-40DB-4A8A-A9EA-CC8EDEC0AF0F}"
+              s:par="OverrideTitle=Meet%20Our%20people&amp;CarouselConversionLimit&amp;GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B9FDC5359-DCB4-4686-A69D-0A8C90F03986%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13&amp;data-id=keycontacts"
+              s:ph="/headless-main/container-1/row-7-2"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{57CDEA4A-06FD-4F06-98E1-FAFE704C03C1}"
+              p:after="r[@uid='{F07CC180-4079-4F86-8752-2E8056516BA6}']"
+              s:ds="local:/Data/CTATile2"
+              s:id="{EB7A9AFB-C09D-4C06-85A7-5532452DA093}"
+              s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames&amp;Styles=%7B89622332-ADC6-40F2-B709-28595AF561BB%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=7"
+              s:ph="/headless-main/container-1/row-5-2/column-2-6"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{0305347C-8F8D-4FC2-9D2E-0F247998557D}"
+              p:after="r[@uid='{57CDEA4A-06FD-4F06-98E1-FAFE704C03C1}']"
+              s:ds="local:/Data/CTATile1"
+              s:id="{EB7A9AFB-C09D-4C06-85A7-5532452DA093}"
+              s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames&amp;Styles=%7B89622332-ADC6-40F2-B709-28595AF561BB%7D&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=8"
+              s:ph="/headless-main/container-1/row-5-2/column-1-6"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{177BB6FF-874F-4319-B21B-F7DE1BCD0C05}"
+              p:after="r[@uid='{0305347C-8F8D-4FC2-9D2E-0F247998557D}']"
+              s:ds=""
+              s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+              s:par="ColumnWidth1=%7B5FA2694A-9794-4FF9-B169-88009EF89662%7D&amp;ColumnWidth2=%7B5FA2694A-9794-4FF9-B169-88009EF89662%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=6"
+              s:ph="/headless-main/container-1/row-5-2" />
+            <r
+              uid="{A9C4497A-C31F-4DDC-B298-44B5B4910215}"
+              p:after="r[@uid='{177BB6FF-874F-4319-B21B-F7DE1BCD0C05}']"
+              s:ds="local:/Data/2 column CTA"
+              s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+              s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B2E989634-5256-46C6-83B3-3B32AF02BBBF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="/headless-main/container-1/row-4-2"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{474F3273-E3AB-4815-BAD1-B4464ECDA00B}"
+              p:after="r[@uid='{A9C4497A-C31F-4DDC-B298-44B5B4910215}']"
+              s:ds=""
+              s:id="{BAFF264D-8FB0-4DC7-97B6-60E01D3E3BCE}"
+              s:par="HideReadTime&amp;HideDownload&amp;GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B68D7AB31-80B6-42BC-8F76-A95B35ABD892%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-main/container-1/row-1-2" />
+            <r
+              uid="{391BB1FF-73EA-4E85-846F-D47B8069E50D}"
+              p:after="r[@uid='{474F3273-E3AB-4815-BAD1-B4464ECDA00B}']"
+              s:ds=""
+              s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+              s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4%2C5%2C6%2C7%2C8&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="/headless-main/container-1" />
+            <r
+              uid="{A99B9EE6-D82F-4DC9-A983-EBA936EC44E9}"
+              p:after="r[@uid='{391BB1FF-73EA-4E85-846F-D47B8069E50D}']"
+              s:ds=""
+              s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+              s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+            <r
+              uid="{17DCBE93-D669-4C6D-89FE-1327C642DC22}"
+              p:after="r[@uid='{A99B9EE6-D82F-4DC9-A983-EBA936EC44E9}']"
+              s:ds="local:/Data/StatsWithCTA"
+              s:id="{CFAD8582-8C2E-4AED-88F4-16DB50B50A89}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4&amp;data-id=resources"
+              s:ph="/headless-main/container-1/row-3-2"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{3EA84402-B72D-41E1-8671-7B216EF94BAE}"
+              p:after="r[@uid='{17DCBE93-D669-4C6D-89FE-1327C642DC22}']"
+              s:ds="local:/Data/Best Workplaces CTA"
+              s:id="{0D8C42C7-8106-4DA8-86E0-3CC4EF47EC74}"
+              s:par="GridParameters&amp;FieldNames=%7BB49AA5FA-10B4-4CF9-A38D-02C19DA89589%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+              s:ph="/headless-main/container-1/row-6-2"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{D7D7E6BF-06E4-4EB4-B05B-A6710BDF6B8F}"
+              p:after="r[@uid='{3EA84402-B72D-41E1-8671-7B216EF94BAE}']"
+              s:ds=""
+              s:id="{EEDAE2B5-6E38-4D3F-8438-A36145199345}"
+              s:par="CSSStyles&amp;data-id=overview"
+              s:ph="/headless-main/container-1/row-8-2"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{49061916-1C8B-4430-A0BE-BE6A05C33927}"
+              p:after="r[@uid='{D7D7E6BF-06E4-4EB4-B05B-A6710BDF6B8F}']"
+              s:ds=""
+              s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+              s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3%2C4&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+              s:ph="/headless-main/container-1/row-8-2" />
+            <r
+              uid="{FEC1FBAC-69DD-4B8C-BB6A-F9514EE9F1C6}"
+              p:after="r[@uid='{49061916-1C8B-4430-A0BE-BE6A05C33927}']"
+              s:ds="local:/Data/Search Job for Experienced"
+              s:id="{0D8C42C7-8106-4DA8-86E0-3CC4EF47EC74}"
+              s:par="GridParameters&amp;FieldNames=%7B5E65BE12-D00B-40A9-B497-A35CEB464F50%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+              s:ph="/headless-main/container-1/row-8-2/row-2-10"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{5531E647-BFFF-4FF7-BC14-E4CBDB9C4C7A}"
+              p:after="r[@uid='{FEC1FBAC-69DD-4B8C-BB6A-F9514EE9F1C6}']"
+              s:ds="local:/Data/FAQ"
+              s:id="{7EEAAECE-41EA-4E05-A58C-BB104F7555B1}"
+              s:par="CSSStyles"
+              s:ph="/headless-main/container-1/row-8-2/row-3-10"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{01A00991-A01A-46B7-89AA-BC3AB49F915E}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/HoverOverCards"
+              s:id="{A9C60D1E-AF4C-4DB8-BE22-43338634CB38}"
+              s:par="CSSStyles"
+              s:ph="/headless-main/container-1/row-8-2/row-4-10"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "0d88eec5-b6af-4dd8-91e2-7923905c22a5"
+      Hint: SubTitle
+      Value: |
+        <span style="color: #212529; background-color: #ffffff;">Lorem ipsum dolor sit amet. Ea quam suscipit non animi provident 33 voluptas deleniti sit nostrum explicabo. Ut odit quisquam est deleniti similique At atque corrupti et quidem commodi ea necessitatibus vero sed enim consequatur. A quia quasi aut pariatur autem est incidunt soluta quo odit deserunt aut inventore earum est nostrum alias. Et saepe debitis non obcaecati laboriosam et magnam aliquam cum aliquid facere.</span>
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value: |
+        <span style="color: #212529; background-color: #ffffff;">Lorem ipsum dolor sit amet. Ea quam suscipit non animi provident 33 voluptas deleniti sit nostrum explicabo. Ut odit quisquam est deleniti similique At atque corrupti et quidem commodi ea necessitatibus vero sed enim consequatur. A quia quasi aut pariatur autem est incidunt soluta quo odit deserunt aut inventore earum est nostrum alias. Et saepe debitis non obcaecati laboriosam et magnam aliquam cum aliquid facere.</span>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230908T102708Z
+    - ID: "366f39a9-4521-4cfa-91ab-db5decb1ff35"
+      Hint: Key Contacts
+      Value: |
+        {54A9266B-9382-480B-817D-35B1E432EB01}
+        {D3720A17-7497-43D4-9D11-838F96829CE9}
+        {601FF004-E3E7-42B5-B072-10DD3816BFAE}
+        {1BE60192-79BC-4C67-B118-0979C9FFC508}
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Career Landing
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Career Landing
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4996b6ad-77bc-4846-890d-c21549eb76f4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231005T112443Z

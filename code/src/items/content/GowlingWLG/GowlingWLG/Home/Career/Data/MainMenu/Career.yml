@@ -1,0 +1,41 @@
+﻿---
+ID: "18bf01d8-cd24-4526-9a45-4e012ca49bbc"
+Parent: "b80d6858-52d5-438e-85d1-50acc6e3a072"
+Template: "c20b160c-14ba-4966-bb7e-b55f0575310e"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/Career/Data/MainMenu/Career
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230926T095540Z
+    - ID: "426765f1-2159-4f8f-a2c5-4366ba2e0ac1"
+      Hint: NavigationContent
+      Value: |
+        <h4>At Gowling WLG, our dedication to excellence and quality service begins with our people. </h4><p />
+        <p>As a global law firm with offices across Canada, the UK, Europe, Asia and the Middle East, we pride ourselves on sourcing and retaining top talent who bring energy, passion and commitment to the delivery of outstanding client service.
+        
+        Employee satisfaction is important to us. We work hard to ensure that our people are motivated, engaged and empowered. Our diverse group of legal professionals, law students, paralegals/law clerks, legal administrative assistants and business support staff work together as a team, and are respected and valued for their individual contributions.</p>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "7058b998-e13e-45c4-8ace-a13e1e0d8105"
+      Hint: NavigationTitle
+      Value: UK Career
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5887169f-ea89-49b7-9aa9-d21fc1f70390"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230926T100023Z

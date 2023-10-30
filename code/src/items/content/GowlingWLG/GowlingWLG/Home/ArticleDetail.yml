@@ -1,0 +1,184 @@
+﻿---
+ID: "82784f69-9e93-46e3-bfb7-bff8c4d54720"
+Parent: "28bdf779-c6dc-4c58-a491-4fb74a60e016"
+Template: "c8e1eb5d-883a-441a-8367-28c967ea8c8e"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/ArticleDetail
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: "de-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230829T082445Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value:  नमस्ते
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "739aa9a5-2d9f-46da-8747-d839c9c87864"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230829T082458Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3912A973-5ECB-4261-8D59-2A39CE04CD8A}"
+              p:before="*"
+              s:ds="{02AECBCA-B000-4E19-94F6-E6DCAE001216}"
+              s:id="{1D3D58DE-E7DA-400F-AA76-85749727EAE9}"
+              s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B107300D2-A76E-4455-A87F-6C4FECD0D4FE%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+              s:ph="/headless-header/sxa-header/container-6/row-1-7/column-2-2/row-3-{*}-{691C55AD-791B-477E-A14B-55CD5B230726}-0"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{C5212C3F-B3F0-430A-97E3-576677C905B3}"
+              p:after="r[@uid='{3912A973-5ECB-4261-8D59-2A39CE04CD8A}']"
+              s:ds="{FA7EC297-2D80-483A-A9CC-4C0F5051E420}"
+              s:id="{1D3D58DE-E7DA-400F-AA76-85749727EAE9}"
+              s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B0A69A40E-F1CA-4C9D-82CF-9A8F21A76F44%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+              s:ph="/headless-header/sxa-header/container-6/row-1-7/column-2-2/row-1-{*}-{691C55AD-791B-477E-A14B-55CD5B230726}-0"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{034DF8BF-D5F0-4F21-A7FA-B40340E635DD}"
+              p:after="r[@uid='{C5212C3F-B3F0-430A-97E3-576677C905B3}']"
+              s:ds="local:/Data/CTA"
+              s:id="{0D8C42C7-8106-4DA8-86E0-3CC4EF47EC74}"
+              s:par="GridParameters&amp;FieldNames=%7BE3589E1B-F008-463A-95A2-A6C585A66093%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{1DDE94D2-3578-43DE-8419-84E1AEE6A342}"
+              p:after="r[@uid='{034DF8BF-D5F0-4F21-A7FA-B40340E635DD}']"
+              s:ds=""
+              s:id="{EEDAE2B5-6E38-4D3F-8438-A36145199345}"
+              s:par="CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{0B833863-C73B-4BC1-8374-9A4044A9ABFC}"
+              p:after="r[@uid='{1DDE94D2-3578-43DE-8419-84E1AEE6A342}']"
+              s:ds="local:/Data/StatsWithCTA"
+              s:id="{CFAD8582-8C2E-4AED-88F4-16DB50B50A89}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{AE9C61E4-D094-499C-B436-FE87D148B111}"
+              p:after="r[@uid='{0B833863-C73B-4BC1-8374-9A4044A9ABFC}']"
+              s:ds="local:/Data/2ColumnBanner"
+              s:id="{7E77232F-D42C-4B9D-9EE1-CE5C1CCA7040}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=5"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+            <r
+              uid="{F5814828-9622-4644-8368-5801216EDC25}"
+              p:after="*[1=2]"
+              s:ds="local:/Data/Accordion"
+              s:id="{7EEAAECE-41EA-4E05-A58C-BB104F7555B1}"
+              s:par="CSSStyles"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value: |
+        <ol class="ak-ol" data-indent-level="1" style="color: #172b4d; background-color: #ebecf0; margin: var(--ds-space-150, 12px) 0 0 0; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: var( --ed--list--item-counter--padding, 24px );">
+            <li>
+            <p data-renderer-start-pos="198" style="padding: 0px; letter-spacing: -0.005em; line-height: 1.714;">I want to add a responsive &lsquo;Content Overview&rsquo; component on a page.</p>
+            </li>
+            <li style="margin-top: var(--ds-space-050, 4px);">
+            <p data-renderer-start-pos="268" style="margin-bottom: 0px; padding: 0px; letter-spacing: -0.005em; line-height: 1.714;">Component shall have a static title added with no specific functionality.</p>
+            <ol class="ak-ol" data-indent-level="2" style="margin-top: var(--ds-space-050, 4px); margin-bottom: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: var( --ed--list--item-counter--padding, 24px ); list-style-type: lower-alpha;">
+                <li>
+                <p data-renderer-start-pos="345" style="padding: 0px; letter-spacing: -0.005em; line-height: 1.714;">Title shall not have any character limit and shall wrap to the next line if required.</p>
+                </li>
+            </ol>
+            </li>
+            <li style="margin-top: var(--ds-space-050, 4px);">
+            <p data-renderer-start-pos="436" style="padding: 0px; letter-spacing: -0.005em; line-height: 1.714;">Component shall have a RTE description added with no specific functionality.</p>
+            </li>
+            <li style="margin-top: var(--ds-space-050, 4px);">
+            <p data-renderer-start-pos="516" style="margin-bottom: 0px; padding: 0px; letter-spacing: -0.005em; line-height: 1.714;">Component shall have a &lsquo;See More&rsquo; CTA which upon click shall expand/collapse the content section with additional content.</p>
+            <ol class="ak-ol" data-indent-level="2" style="margin-top: var(--ds-space-050, 4px); margin-bottom: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: var( --ed--list--item-counter--padding, 24px ); list-style-type: lower-alpha;">
+                <li>
+                <p data-renderer-start-pos="641" style="padding: 0px; letter-spacing: -0.005em; line-height: 1.714;">Upon click, CTA text shall change to &lsquo;See Less&rsquo; which upon click shall collapse the additional content section.</p>
+                </li>
+            </ol>
+            </li>
+        </ol>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230807T050045Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: ArticleDetail
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Welcome to Content Overview Component
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d3403553-c6ff-4dd9-9ab3-1cfc6583c814"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230928T130317Z
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230829T082337Z
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Welcome to English GB
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c3c1cfdb-a875-4c3f-b1b6-bd93144f5c25"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230829T082346Z

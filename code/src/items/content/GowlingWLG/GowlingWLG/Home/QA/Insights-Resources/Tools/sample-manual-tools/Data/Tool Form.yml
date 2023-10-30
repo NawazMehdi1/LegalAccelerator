@@ -1,0 +1,137 @@
+﻿---
+ID: "83b4e90a-3c9d-41fe-b5b7-f63f321b93d2"
+Parent: "993bece5-372b-42e6-ac65-fb19bcf003e0"
+Template: "9b33ab4b-9776-4a69-afdc-5cf19a87bfee"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Tools/sample-manual-tools/Data/Tool Form"
+BranchID: "43aedd27-91ec-46c8-9442-6d7920371616"
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D53062F3-DC4A-4DFE-9DC5-F216F05913F4}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230921T111812Z
+    - ID: "42867885-ab37-4306-8d17-fc24ae3ee15b"
+      Hint: Message
+      Value: |
+        <h1><span style="font-size:xx-large;">Thank you!</span></h1>
+        <span style="font-size:x-large;">You now have access to the UPCalculator™. Once you access it, don't forget to bookmark the calculator so you are always able to access it.</span>
+        <a href="https://gowlingwlg.com/en/up-calculator-unlocked/" target="_blank"><img class="image_fix" style="display:block;" alt="Access calculator" src="https://marketing.uk.gowlingwlg.com/reaction/emsimages/Buttons/calc-button.png" width="280" height="56" /></a>
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "08b10258-893a-428f-8dfa-2ce3c5369443"
+    - ID: "b991937a-000e-4d0a-953c-7dc0a6efd67f"
+      Hint: FormName
+      Value: Tool Form
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "ca747e6e-2a44-4b4b-9446-3c6cecb01242"
+      Hint: Email Template
+      Value: "{FFADF096-4BB9-429A-80FC-453979837DE5}"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231005T130816Z
+    - ID: "ec4a491f-cc4b-4175-858a-3e6e859540bb"
+      Hint: Html
+      Value: |
+        <form method="POST" action="https://forms.reform.app/headless/ynFNlO/zdmp21/zdmp21/submissions">
+        <h1>Download Tool</h1>
+            <div>
+                <label for="51a2e17c-7d7e-40cd-8e5d-fb03e6a65bc5"></label>
+                <input 
+                    type="text"
+                    id="51a2e17c-7d7e-40cd-8e5d-fb03e6a65bc5"
+                    name="answers[51a2e17c-7d7e-40cd-8e5d-fb03e6a65bc5]"
+                    placeholder="First Name*"
+                />
+            </div>
+            <div>
+                <label for="8ff99344-fe4a-4684-8249-8e78965954b1"></label>
+                <input 
+                    type="text"
+                    id="8ff99344-fe4a-4684-8249-8e78965954b1"
+                    name="answers[8ff99344-fe4a-4684-8249-8e78965954b1]"
+                    placeholder="Last Name*"
+                />
+            </div>
+            <div>
+                <label for="b6bea3d0-01af-41c3-80e9-1dddaca01c3a"></label>
+                <input 
+                    type="text"
+                    id="b6bea3d0-01af-41c3-80e9-1dddaca01c3a"
+                    name="answers[b6bea3d0-01af-41c3-80e9-1dddaca01c3a]"
+                    placeholder="Job Title*"
+                />
+            </div>
+            <div>
+                <label for="5b586a3e-8c85-4b69-b494-ab252f710f3d"></label>
+                <input 
+                    type="text"
+                    id="5b586a3e-8c85-4b69-b494-ab252f710f3d"
+                    name="answers[5b586a3e-8c85-4b69-b494-ab252f710f3d]"
+                    placeholder="Company Name*"
+                />
+            </div>
+            <div>
+                <label for="ad548862-9aff-4cd9-a036-3c6fcaf6686b"></label>
+                <input 
+                    type="email"
+                    id="ad548862-9aff-4cd9-a036-3c6fcaf6686b"
+                    name="answers[ad548862-9aff-4cd9-a036-3c6fcaf6686b]"
+                    placeholder="Email*"
+                />
+            </div>
+            <div>
+                <label for="0ef4b071-8177-47ee-a0b2-9abd3e89e949"></label>
+                <select 
+                    id="0ef4b071-8177-47ee-a0b2-9abd3e89e949"
+                    name="answers[0ef4b071-8177-47ee-a0b2-9abd3e89e949]"
+                >
+                    <option value="">Country*</option>
+                    <option value="United Kingdom">United Kingdom</option>
+                    <option value="Canada">Canada</option>
+                    <option value="China">China</option>
+                    <option value="France">France</option>
+                    <option value="Germany">Germany</option>
+                    <option value="USA">USA</option>
+                    <option value="United Arab Emirates">United Arab Emirates</option>
+                </select>
+            </div>
+            <fieldset>
+                <legend><p>Please take a moment to review our Privacy Statement. It includes details about the kind of information we hold about you, why we hold it, how we use it, and who has access to it.</p>
+                <p>To receive email communications from Gowling WLG (Canada) LLP and from Gowling WLG (UK) LLP (“Gowling WLG”) related to this service (including event details), as well as future invitations, announcements and other communications about the group of Gowling WLG member firms and their respective affiliates in Canada, China, France, Germany, Russia, UK, UAE, please indicate your consent. You can withdraw your consent at any time.</p></legend>
+                <div>
+                    <label for="ba09db2c-0037-4477-bff2-05053b70cdb4">I have read and accept the terms of the privacy policy</label>
+                    <input 
+                        type="checkbox"
+                        id="ba09db2c-0037-4477-bff2-05053b70cdb4"
+                        name="answers[ba09db2c-0037-4477-bff2-05053b70cdb4]"
+                    />
+                </div>
+            </fieldset>
+            <button type="submit">Download</button>
+        </form>

@@ -1,0 +1,51 @@
+﻿---
+ID: "7420b642-0b1c-4cd6-8b8a-cb6ed011ad90"
+Parent: "4e5d9e10-6f38-46b1-b2fd-a0dd5a6efed2"
+Template: "22c0cc1c-dc10-4c79-ae8c-ddea84490c59"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People/j/John-Peter/Data/PeopleStats/Offices"
+BranchID: "8b85ba3a-7ded-4e46-aec4-2f21991c8712"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{65605CE2-024C-45F4-BE26-07EABA6CCD5B}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232849Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4050eb46-9770-4ea3-9692-4918012cb5b5"
+    - ID: "8d68b961-8bbe-4aec-bcf2-a14da788c6c4"
+      Hint: Description
+      Value: Offices
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232849Z
+    - ID: "e55a3fdb-bda9-4243-8235-6e57cf2d1c3b"
+      Hint: Title
+      Value: 19

@@ -1,0 +1,46 @@
+﻿---
+ID: "0fa5a1ea-92d2-45db-bfb3-bf7d6e7da981"
+Parent: "d135044e-3098-43bb-8fa3-6b87d2e7fe52"
+Template: "419f8ffb-2713-4cec-86a7-7585a727fe25"
+Path: /sitecore/system/Workflows/Gowling WLG Workflow/Awaiting Approval/Approve/Validation Action
+SharedFields:
+- ID: "202f2a2c-6274-467f-a9c8-3ec4585a3060"
+  Hint: Critical Error
+  Value: You cannot approve an item with validation errors.
+- ID: "281ab75c-db54-4471-9675-c01fb380fb62"
+  Hint: Error
+  Value: You cannot approve an item with validation errors.
+- ID: "322164dc-27ac-404e-b7dc-b74c13cdba1e"
+  Hint: Type
+  Value: Sitecore.Workflows.Simple.ValidatorsAction, Sitecore.Kernel
+- ID: "95fd25aa-742d-41d2-8d04-6406bba8c60d"
+  Hint: Max Result
+  Value: Warning
+- ID: "a50d7933-f230-4434-9538-29c802f0ce23"
+  Hint: Fatal Error
+  Value: You cannot approve an item with validation errors.
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20071113T152154
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e8fccb80-94c8-44dd-ab2d-e1ec8daca321"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230701T031643Z

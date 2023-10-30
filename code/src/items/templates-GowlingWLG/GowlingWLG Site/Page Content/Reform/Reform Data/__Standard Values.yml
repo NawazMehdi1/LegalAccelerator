@@ -1,0 +1,38 @@
+﻿---
+ID: "0f1d1f64-32c3-42d5-b89d-39500c017549"
+Parent: "9b33ab4b-9776-4a69-afdc-5cf19a87bfee"
+Template: "9b33ab4b-9776-4a69-afdc-5cf19a87bfee"
+Path: /sitecore/templates/Project/GowlingWLG Site/Page Content/Reform/Reform Data/__Standard Values
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230912T080840Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a759d609-ad16-4d09-a2ef-ad989276bb94"
+    - ID: "b991937a-000e-4d0a-953c-7dc0a6efd67f"
+      Hint: FormName
+      Value: $name
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230918T111956Z

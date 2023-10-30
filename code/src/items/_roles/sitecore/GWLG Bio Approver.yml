@@ -1,0 +1,6 @@
+﻿---
+Role: |
+  sitecore\GWLG Bio Approver
+MemberOf:
+  Role: |
+    sitecore\GWLG Base Approver

@@ -1,0 +1,54 @@
+﻿---
+ID: "69c10b80-629d-4469-a2ba-54fa2cf6f897"
+Parent: "33cec88f-45ee-46a1-b179-9ec8244ea2fe"
+Template: "18b03ae1-5dab-4ec8-92fb-441c24950591"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Branch/Global Reach/Data/LocationsMapping
+BranchID: "e3f094de-6b2c-47fa-8d1b-b45315d90a9d"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+    {18B03AE1-5DAB-4EC8-92FB-441C24950591}
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{748B2C62-F368-43E6-BEC6-A81DE60DE742}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230908T131626Z
+    - ID: "3eb9da1d-3ad2-4998-9e0d-62788fb24ca1"
+      Hint: PinnedOfficeLocations
+      Value: |
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+        {FAC15440-EACB-44A0-889A-D375D6E73F0E}
+        {2331713E-0DAD-4669-A805-7C846294700F}
+        {BE92B8FE-8551-4FCB-B5C3-4CD857AE7BCD}
+        {A7991EB3-4073-439D-85C7-1ECEE7BD6ADD}
+        {5E57F1AE-5C92-4570-9771-94E8B88F67A6}
+        {5481F515-A786-427A-A3F2-2794DAF36018}
+        {F2FC07C6-BFDB-46CD-A88E-ABF9B733AA94}
+        {9C7DD673-02A7-403A-BD14-54030DAE30F0}
+        {EAE9F593-148E-4312-A327-EE8CED8B5848}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b4ec4139-8f71-4df5-9da7-83dcdb127df8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230908T131626Z

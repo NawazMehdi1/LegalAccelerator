@@ -1,0 +1,43 @@
+﻿---
+ID: "2d364c82-9a88-4632-bb54-cfe6f99ffd66"
+Parent: "4f9345b4-8b2d-48db-87bf-340fba447617"
+Template: "18b03ae1-5dab-4ec8-92fb-441c24950591"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/Global Reach/Data/LocationsFolder
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {A87A00B1-E6DB-45AB-8B54-636FEC3B5523}
+    {18B03AE1-5DAB-4EC8-92FB-441C24950591}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230811T075800Z
+    - ID: "3eb9da1d-3ad2-4998-9e0d-62788fb24ca1"
+      Hint: PinnedOfficeLocations
+      Value: |
+        {180CC503-568A-4B9E-9F04-4AB08E596049}
+        {FAC15440-EACB-44A0-889A-D375D6E73F0E}
+        {2331713E-0DAD-4669-A805-7C846294700F}
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "01d2bde9-c593-4fb0-b774-0bf296006571"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230811T184953Z

@@ -1,0 +1,140 @@
+﻿---
+ID: "9e025a47-40d7-4bbe-ac6f-3d4a4361339d"
+Parent: "c3da41fe-e178-40ad-98d2-45c67e887283"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/GlobalReach/GlobalMap
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: GlobalMap
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query GlobalMap($datasource: String!, $language: String!) {
+      datasource: item(path: $datasource, language: $language) {
+        id
+        PinnedOfficeLocations: field(name: "PinnedOfficeLocations") {
+          ... on MultilistField {
+            targetItems {
+              title: field(name: "title") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              BuildingName: field(name: "Building Name") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              Address1: field(name: "Address 1") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              Address2: field(name: "Address 2") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              Address3: field(name: "Address 3") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              City: field(name: "City") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              State: field(name: "State") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              PostalCode: field(name: "Postal Code") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              DXForUkOnly: field(name: "DX_UKOnly") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              Latitude: field(name: "Geographical Latitude") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              Longitude: field(name: "Geographical Longitude") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              MapLink: field(name: "Map URL") {
+                ... on LinkField {
+                  jsonValue
+                }
+              }
+            AlternateImage: field(name: "AlternateImage") {
+                jsonValue
+              }
+              Phone: field(name: "phone") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              Mobile: field(name: "Mobile") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              Fax: field(name: "Fax") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    
+- ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
+  Hint: Datasource Template
+  Value: /sitecore/templates/Project/GowlingWLG Site/Page Content/GlobalMap/GlobalMap
+- ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
+  Hint: Open Properties after Add
+  Value: 1
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{4247AAD4-EBDE-4994-998F-E067A51B1FE4}"
+- ID: "b5b27af1-25ef-405c-87ce-369b3a004016"
+  Hint: Datasource Location
+  Value: "query:$site//*[@@name='Data']//*[@@templatename='GlobalMapFolder']|query:./ancestor-or-self::*[@@templatename='Page Data']"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230803T064753Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3fa76059-4a85-46d0-8e6b-58f4d23c6f25"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231020T102142Z

@@ -1,0 +1,67 @@
+﻿---
+ID: "d34ef3bf-69cb-4252-ab06-82e71135cde8"
+Parent: "68044083-1e55-4e71-b5e2-19285c15b54a"
+Template: "5965f8d7-16ac-4b84-927a-750202ba79fc"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/Header Navigation Data/LanguageSelectorDataSource
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230601T174840Z
+    - ID: "3d1bf6be-44ee-4d5e-b6d4-edf8f1adc87f"
+      Hint: GlobalDirectUrl
+      Value: |
+        <link text="Choose global location and English as default" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "58245188-7862-4f6e-a78a-c2582e01b625"
+      Hint: JurisdictionTitle
+      Value: Jurisdiction
+    - ID: "5b344c85-658a-4c5b-8026-7d690a367c06"
+      Hint: Description
+      Value: Nullam quis risus eget urna mollis ornare vel eu leo. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "646e1a25-a650-47f7-972e-579ac65dc18c"
+      Hint: Jurisdiction
+      Value: |
+        {EB0AE72E-BA48-4177-B6C4-960DE0AE5509}
+        {8C958F82-DD25-4A85-AF05-10C122A1F098}
+        {978F7051-FC93-45C3-BA6A-252514DF4C3D}
+        {709C43E0-CB50-4F96-80E6-BBD29937DCC3}
+        {C166712D-40BE-4906-8B84-54923BD012C9}
+        {67057437-BF2C-4272-9635-3847DEF14E52}
+    - ID: "875dd5f5-97eb-457f-aca2-221b5f4233d5"
+      Hint: Title
+      Value: Choose Your Location and Language
+    - ID: "8b1c7238-bd2e-43c3-822a-5f5083276d64"
+      Hint: CTA
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "737f27f3-b02d-48eb-85e3-9e53e116c69f"
+    - ID: "a1772a50-88be-477b-804c-39ebe26e5313"
+      Hint: Language
+      Value: |
+        {A8E39E37-C9CF-4192-BAB7-88D398C1A143}
+        {88F0E065-A8A6-4038-B94A-78F0B23A73E1}
+        {0E5F44EF-9268-4EA7-A3C2-C19A29B71987}
+        {FD8BB93E-6C30-409B-80BB-FB09DD0BBD58}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\nawaz.mehdi@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231024T193055Z
+    - ID: "ee4dc550-abbf-4eb9-b36c-3617c3ebbbd3"
+      Hint: LanguageTitle
+      Value: Language

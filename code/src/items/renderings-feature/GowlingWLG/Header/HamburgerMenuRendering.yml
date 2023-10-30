@@ -1,0 +1,80 @@
+﻿---
+ID: "a58d53b8-acde-4f66-9e1a-e9b13bf8afd2"
+Parent: "36a642d1-6eef-4ff5-b3e8-90b07c32e779"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/Header/HamburgerMenuRendering
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: Hamburger
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
+  Hint: Placeholders
+  Value: |
+    {76AC61ED-6B0D-46DD-871A-4FEF6F750545}
+    {CBAE0285-BF8C-4DF4-AE0C-E9DF8BC3897D}
+    {5E2204C8-04FD-433D-9ECF-38E97953BD7E}
+    {3366CEB8-DCB3-4325-BCE5-30CCDB9AAF4C}
+    {F00D0921-E757-4E11-A1F8-B98D8DFF965A}
+    {71D6EB80-8BC4-469E-95F7-8E5B807EE914}
+    {75E02ACF-8185-4051-8255-D1FF811B5793}
+    {99FB8C13-B738-425B-9C91-23077FBEC927}
+    {9FB4537E-3522-471E-9A7A-8552C5898D77}
+    {FB294D42-E5F4-4EA4-9DAD-6E3BDA2AFC11}
+    {CC880F15-AE4F-4AC5-B002-CF8B6CED269B}
+    {18AA0639-B16E-4F3C-A3C4-C3E89AB04C5D}
+    {E9FED1CC-8204-4D78-B3AC-107A70164B11}
+    {1B084999-A1DB-40E1-943B-1C290AC6102D}
+    {394A0A83-B0A5-4052-835C-E57EB8B06EE6}
+    {1650369C-8696-429C-9CCD-9A8FE5323557}
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{4247AAD4-EBDE-4994-998F-E067A51B1FE4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230525T043838Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "11db70c5-f9fc-4d77-b34f-07c8a8b0dd8c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230726T194229Z
+  - Version: 2
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230525T043838Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8d6e5074-0495-43ea-b70f-ef52967247e9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231020T102226Z

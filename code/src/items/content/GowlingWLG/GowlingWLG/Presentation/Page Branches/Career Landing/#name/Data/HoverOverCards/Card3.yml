@@ -1,0 +1,37 @@
+﻿---
+ID: "5cf67de0-5690-4ccc-bf19-3a8622172c85"
+Parent: "2fbd6338-66af-474d-b51b-0d5fd63bd2d5"
+Template: "f36bc793-183b-49e2-80ec-d89313fa9536"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Career Landing/$name/Data/HoverOverCards/Card3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230829T053050Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b64eafb8-49b7-4627-92d7-50bbbef64484"
+    - ID: "a1347e59-5a32-4793-9aeb-4fd1cde6c301"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    - ID: "a5adbcf8-e26f-40d6-9cc7-71bd02afcea7"
+      Hint: Title
+      Value: Rewards & Benefits
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230901T061355Z
+    - ID: "ea73b1e8-1d5a-459e-b5d9-d42018847d7d"
+      Hint: CTALink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{E0FF1813-A3E5-4F8C-BF9D-7BD56FC3D7F3}" />
+    - ID: "f32cf29c-04c8-45e4-a1dc-07515315ea26"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"ACCC8126-C764-4F61-AC0861F0F72D2171","name":"Article Background image","description":null,"assetType":"Image","createdAt":"2023-08-08T06:43:33Z","publishedAt":"2023-08-08T06:42:35Z","updatedAt":"2023-08-08T06:43:33Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/34654b34ed55b4a9/webimage-Article-Background-image.png","width":800,"height":527,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/34654b34ed55b4a9/thul-Article-Background-image.png","width":250,"height":165,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/34654b34ed55b4a9/mini-Article-Background-image.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["cr_event_photography"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>

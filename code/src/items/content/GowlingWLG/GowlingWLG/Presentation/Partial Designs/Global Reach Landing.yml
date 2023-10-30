@@ -1,0 +1,96 @@
+﻿---
+ID: "dbde6571-80d0-48ca-a40c-0988bd0fb58b"
+Parent: "ecde3261-d86e-49bf-9ae9-d0be391cb99d"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Partial Designs/Global Reach Landing
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "global-reach-landing"
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{B07237D5-0DCD-4FA4-8978-717F20EE5C01}" />
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{5804A700-9628-4BFD-A178-1C8B73A75007}"
+          p:before="*"
+          s:id="{6E0093C2-2357-46CE-A380-19AC12FEB8D4}"
+          s:par="CacheClearingBehavior=Clear on publish&amp;CSSStyles"
+          s:ph="/headless-main/container-1/row-3-2" />
+        <r
+          uid="{7B37070A-39D5-472F-A41C-EF8B09D55B55}"
+          p:after="r[@uid='{5804A700-9628-4BFD-A178-1C8B73A75007}']"
+          s:id="{9E025A47-40D7-4BBE-AC6F-3D4A4361339D}"
+          s:par="CacheClearingBehavior=Clear on publish&amp;CSSStyles"
+          s:ph="/headless-main/container-1/row-2-2" />
+        <r
+          uid="{B208B331-526C-406D-B8F7-8720DF05C34C}"
+          p:after="r[@uid='{7B37070A-39D5-472F-A41C-EF8B09D55B55}']"
+          s:ds=""
+          s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;SplitterSize=2&amp;EnabledPlaceholders=1%2C2%2C3&amp;FieldNames&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles&amp;Styles8&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{EF8A53AF-51D4-475A-AF65-6DBA88BA9C62}"
+          p:after="r[@uid='{B208B331-526C-406D-B8F7-8720DF05C34C}']"
+          s:ds=""
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{D0A1D3B1-938F-41D0-B1CA-A34567B971C5}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{BAFF264D-8FB0-4DC7-97B6-60E01D3E3BCE}"
+          s:par="HideReadTime&amp;HideDownload&amp;GridParameters&amp;FieldNames=%7BA87D015D-450D-4771-BB34-79CE9EA309EA%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=3"
+          s:ph="/headless-main/container-1/row-1-2"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{EF8A53AF-51D4-475A-AF65-6DBA88BA9C62}"
+              p:after="*[1=2]"
+              s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames&amp;BackgroundImage&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230808T063844Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1976b35b-8bbd-4909-ad02-a5097aa11e06"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230810T114401Z

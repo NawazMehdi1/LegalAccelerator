@@ -1,0 +1,128 @@
+﻿---
+ID: "180cc503-568a-4b9e-9f04-4ab08e596049"
+Parent: "7551eb6e-24a3-4cc0-87df-34c62270b20c"
+Template: "6d35d469-9e90-4d14-b1a9-b675fe74b532"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Global Reach/Canada/Toronto
+SharedFields:
+- ID: "4a749557-242b-4372-8a20-b2db9d406301"
+  Hint: __AutoThumbnails
+  Value: 
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{0F62EF6F-7DD1-4272-869E-CFB1F659536D}"
+          s:ds="{9BC1EB6A-BE2C-42DE-8981-28BE0932F4F8}"
+          s:id="{4FA3F34D-AA26-4A35-AAB9-7B6962E163CA}"
+          s:par="FilterType=PageContextFilter&amp;GridParameters&amp;FieldNames=%7B10DAAE65-ADC4-4BC6-9D7F-1612A87104FB%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=2"
+          s:ph="headless-main"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3911E6A8-382B-49C6-A869-7B8B661F3A0B}"
+              p:after="*[1=2]"
+              s:id="{41BAF5EA-D058-4DC6-AC22-5EE440265651}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value: |
+        The Greater Toronto Area (GTA) is the most populous metropolitan area in Canada, and is home to more than six million people. Toronto is a leading commercial, distribution, financial and economic centre, and the third-largest financial centre in North America. Toronto produces nearly 20 per cent of Canada's GDP and is home to more than 40 per cent of Canadian businesses.
+        
+        As one of Toronto's top business law firms, Gowling WLG works with many of the world's leading organizations to solve their most critical business problems. Led by managing partner Benjamin Na, our diverse and highly experienced team in Toronto provides insightful advice, valuable counsel and trusted representation across a variety of key industries, including energy, financial services, infrastructure, mining, manufacturing, technology and life sciences.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230705T101410Z
+    - ID: "2a65650c-d874-4ef2-9159-2d8bd62215f4"
+      Hint: Geographical Longitude
+      Value: "-79.381049"
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Toronto
+    - ID: "677f702d-0684-43d2-b3d6-ae82a9f1d27b"
+      Hint: Map URL
+      Value: |
+        <link text="View in Map Browser" linktype="external" url="https://www.google.com/maps/place/Gowling" anchor="" target="" />
+    - ID: "6ec9ffbb-3776-480c-beb3-86bbba8e505e"
+      Hint: Address 1
+      Value: 100 King Street West
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Address
+    - ID: "7b3a57cb-ee07-44b6-aa47-63424a0fd2ef"
+      Hint: Address 3
+      Value: Suite 1600 New
+    - ID: "7b5c0eff-1dde-4008-ba9b-e215e6c840c1"
+      Hint: BackgroundImage
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"C366FEB9-2610-4260-8F97351BBB04EC09","name":"locationmapbig","description":null,"assetType":"Image","createdAt":"2023-09-25T10:50:50Z","publishedAt":"2023-09-25T10:49:01Z","updatedAt":"2023-09-25T10:50:50Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/77c19a1f6a2acbe0/webimage-locationmapbig.png","width":800,"height":719,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/77c19a1f6a2acbe0/thul-locationmapbig.png","width":250,"height":225,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/77c19a1f6a2acbe0/mini-locationmapbig.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["location_maps"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null,"overrideAltText":null}]]></asset>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a9caa28f-d8aa-4274-b4bb-0aa486a85f1b"
+    - ID: "9143fd75-9a22-4049-9e7a-771637a55393"
+      Hint: Address 2
+      Value: Suite 1600
+    - ID: "9495e0dc-9963-40e8-9be5-f9eba5dd1304"
+      Hint: Postal Code
+      Value: M5X 1G5
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "c3c01440-7053-4507-9a15-f5ba3822d1c1"
+      Hint: City
+      Value: Toronto
+    - ID: "d0a258ee-8157-4ca0-9f2c-e31dd53c8db4"
+      Hint: AlternateImage
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"E3208F45-F286-4290-A51B29A83130734F","name":"Paris_Opera_house","description":"Paris Opera house with cropped photo","assetType":"Image","createdAt":"2023-08-30T11:31:36Z","publishedAt":"2023-08-30T11:25:47Z","updatedAt":"2023-08-30T14:42:26Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/2bcbab14045d0e1/webimage-Paris_Opera_house.png","width":800,"height":402,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/2bcbab14045d0e1/thul-Paris_Opera_house.png","width":250,"height":126,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/2bcbab14045d0e1/mini-Paris_Opera_house.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["office_building_photography"],"extension":["jpg"],"Asset_Type":["imagery"]}}],"file":null,"overrideAltText":null}]]></asset>
+    - ID: "d5d97d87-81b1-4b48-8d2f-d336d999dace"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"5C3430D9-191B-4E96-B543C851EC244778","name":"Proposal Cover_Metaverse","description":null,"assetType":"Image","createdAt":"2023-07-12T19:31:14Z","publishedAt":"2023-07-10T18:45:21Z","updatedAt":"2023-07-12T19:31:14Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/492fa52a314b1a0d/webimage-Proposal-Cover_Metaverse.png","width":800,"height":533,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/492fa52a314b1a0d/thul-Proposal-Cover_Metaverse.png","width":250,"height":167,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/492fa52a314b1a0d/mini-Proposal-Cover_Metaverse.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Tags":["Proposal cover"],"Asset_Subtype":["sector_service_photography"],"Office":["canada"],"extension":["jpg"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230929T081007Z
+    - ID: "da787b3b-3215-49b6-92a4-6fdb6537d7bb"
+      Hint: Phone
+      Value: "+1 416-862-7525"
+    - ID: "e0303377-c08c-4a72-a4da-55edd82b2280"
+      Hint: Country
+      Value: Canada
+    - ID: "e391c013-6e8e-4b80-b33f-ae7d4a542f5a"
+      Hint: Geographical Latitude
+      Value: 43.648614
+    - ID: "e8b026ea-348a-4f81-b437-88f7e1ab6780"
+      Hint: State
+      Value: Ontario
+    - ID: "ec11b874-b12a-4d22-acde-242a78f36401"
+      Hint: Fax
+      Value: "+1 416-862-7661"
+    - ID: "f3b5c7b8-ccfc-407f-9854-9616ad2ee404"
+      Hint: Recruitment Contact Email
+      Value: resumes.toronto@gowlingwlg.com
+    - ID: "fa63f443-1a0d-4de6-8f7d-a4e440b19774"
+      Hint: Building Name
+      Value: 1 First Canadian Place

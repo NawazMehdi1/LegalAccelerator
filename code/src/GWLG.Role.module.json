@@ -1,0 +1,22 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "Roles",
+    "roles": [
+      {
+        "domain": "sitecore",
+        "pattern": "Author"
+      },
+	  {
+        "domain": "sitecore",
+        "pattern": "Approver"
+      },
+	  {
+        "domain": "sitecore",
+        "pattern": "Publisher"
+      },
+	  {
+        "domain": "sitecore",
+        "pattern": "Admin"
+      }
+    ]
+}

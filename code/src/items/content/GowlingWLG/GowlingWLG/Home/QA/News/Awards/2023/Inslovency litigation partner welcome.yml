@@ -1,0 +1,73 @@
+﻿---
+ID: "f951ffad-fca0-4c69-93f2-c139b865d873"
+Parent: "bca88b48-f1a0-4afe-b00a-bf15497cdefa"
+Template: "452896f9-a6bd-4742-b8f1-80aa6adf6943"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/News/Awards/2023/Inslovency litigation partner welcome
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {1DF907FF-D54C-44CE-9B6C-315610837045}
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{4A49DEC5-37C0-4DE0-932F-A7D4B4D7CD72}"
+              s:id="{10351392-40DB-4A8A-A9EA-CC8EDEC0AF0F}"
+              s:par="OverrideTitle&amp;GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B9FDC5359-DCB4-4686-A69D-0A8C90F03986%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230821T052114Z
+    - ID: "366f39a9-4521-4cfa-91ab-db5decb1ff35"
+      Hint: Key Contacts
+      Value: |
+        {54A9266B-9382-480B-817D-35B1E432EB01}
+        {D3720A17-7497-43D4-9D11-838F96829CE9}
+        {601FF004-E3E7-42B5-B072-10DD3816BFAE}
+        {1BE60192-79BC-4C67-B118-0979C9FFC508}
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Gowling WLG stengthens its tax teams with hires
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Insolvency Litigation partner welcomez
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "06f86eb3-a1fc-45a4-8f21-86f6d17670ea"
+    - ID: "a8d630f4-7ead-4947-97eb-4a14d6d1eaea"
+      Hint: PublishedDate
+      Value: 20230904T183000Z
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: "{BF3AFED6-5C43-42FA-BC05-BC184C4977B6}"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T145429Z
+    - ID: "ec55bf0b-d868-4e59-a98e-6b8694db7103"
+      Hint: PageType
+      Value: "{36B1E0FE-1CC5-40C3-829D-C8DDF39F894D}"

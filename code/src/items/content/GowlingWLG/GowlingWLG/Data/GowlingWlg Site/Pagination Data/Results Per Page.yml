@@ -1,0 +1,30 @@
+﻿---
+ID: "1c6835cc-725e-4fe5-bbf1-a8600503bc0c"
+Parent: "526507da-ce29-49b2-8743-1c30421fdb94"
+Template: "0bbee59d-d4f1-4d0e-b9ba-a8e5652a6a23"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/Pagination Data/Results Per Page
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230725T170821Z
+    - ID: "4460bc79-4eab-4e52-8004-4e6bcb7136b6"
+      Hint: ResultsPerPage
+      Value: |
+        {1B4C0E67-6F8C-48FB-90D4-113692E123F0}
+        {2C87413D-B15E-4F83-9A28-1F53D05F0FD6}
+        {8D7FAAA1-AE4C-41EE-B018-AB7744286A52}
+        {C4600E0C-7F28-4992-AB21-4DCDC0B73427}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "caf55926-f6d8-4646-80ff-4db37117678f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230725T170934Z

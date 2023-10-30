@@ -1,0 +1,41 @@
+﻿---
+ID: "8585efb4-557c-4b95-a545-2c7e9efdeebb"
+Parent: "b93e6447-9496-4467-a330-9382191f6559"
+Template: "b93e6447-9496-4467-a330-9382191f6559"
+Path: /sitecore/templates/Project/GowlingWLG Site/Header/HeaderNavigation/MainNavigation/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {C20B160C-14BA-4966-BB7E-B55F0575310E}
+    {AFF2C22E-7D16-41F6-A1D1-4C5DC844930A}
+    {7D2BF142-D739-4A11-B424-4516F2EF014B}
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230522T084858Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "baeae7c5-46c5-4faa-abf9-69ff083010cb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230705T103239Z

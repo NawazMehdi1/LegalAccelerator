@@ -1,0 +1,34 @@
+﻿---
+ID: "51cd54ff-cc66-4d4d-90b3-32b86da6119f"
+Parent: "a476c8e4-83c2-49b0-8642-da2c8e68a980"
+Template: "dbdf5dfd-f79b-4766-99b9-e29775d97328"
+Path: /sitecore/system/Settings/Feature/GowlingWLG/Grid Setup
+SharedFields:
+- ID: "c1489cff-fc13-4cf7-9457-4e5870d647e2"
+  Hint: Grid Definition
+  Value: "{C1E61842-0322-4A98-B8B4-5762B209ADCD}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Tailwind Grid Setup
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210219T112526Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e522e24b-f666-412f-89ea-63d79682e2d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
+      Hint: Name
+      Value: GwlgTailwind
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230614T234035Z

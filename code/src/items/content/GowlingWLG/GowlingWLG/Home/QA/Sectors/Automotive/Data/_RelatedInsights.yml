@@ -1,0 +1,41 @@
+﻿---
+ID: "116dcb44-b51e-4c26-a6e0-e14a73062085"
+Parent: "45d29494-6ebb-4715-8224-7333dfe631c3"
+Template: "59bff9a3-9469-4d6e-80b9-a996c88a79f1"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Sectors/Automotive/Data/_RelatedInsights
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230913T125914Z
+    - ID: "28f7149f-a85d-487a-a0a1-db7ef2c660c3"
+      Hint: SeeMore
+      Value: |
+        <link text="See More" anchor="" linktype="internal" class="" title="" target="" querystring="?services={services}&amp;sectors={sectors}&amp;jurisdictions={jurisdictions}" id="{DCB9B37E-9544-4BB0-8600-E419AA3A5C66}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "23ae73b7-baa7-488a-8c88-88f99829bca1"
+    - ID: "9fd14758-3351-4f60-8cea-3d2ef0aa1006"
+      Hint: Related Insights
+      Value: |
+        {30EB2B41-4F92-4707-A712-B2C97C14BB30}
+        {BCBC80E2-1060-4840-A099-A5CF599F35BF}
+        {32029D52-37A5-4280-B70C-331882122846}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230927T033213Z

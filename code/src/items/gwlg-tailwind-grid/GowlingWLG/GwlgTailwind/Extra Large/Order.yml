@@ -1,0 +1,36 @@
+﻿---
+ID: "b6a9949a-5b12-4c7c-890e-a1f2ade744cd"
+Parent: "0a16238e-f0ca-4e42-a0ba-53b2bead21f2"
+Template: "5e32e75f-446a-412c-8ed8-922320ae9031"
+Path: /sitecore/system/Settings/Feature/GowlingWLG/GwlgTailwind/Extra Large/Order
+SharedFields:
+- ID: "07a98f74-131f-4ba1-9c00-88416c2832a4"
+  Hint: Advanced
+  Value: 1
+- ID: "62ca1c9e-71a4-465f-835e-55bda7bb270b"
+  Hint: Type
+  Value: slider
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20161216T082225Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "61837e88-6831-4d78-acd1-fa08943931fe"
+    - ID: "9c7cf235-a456-4320-a156-03f1e0cca6c6"
+      Hint: Tooltip
+      Value: Determines the order of components on a particular device.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230614T233435Z

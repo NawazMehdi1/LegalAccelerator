@@ -1,0 +1,41 @@
+﻿---
+ID: "fd8bb93e-6c30-409b-80bb-fb09dd0bbd58"
+Parent: "1de7fb0f-af5e-4e11-95c5-c6ea54757a52"
+Template: "b9429b2d-3995-4e8a-b9ba-5f0fb451fd87"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/Header Navigation Data/Languages/French Canada
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "005eddec-df69-4ca2-bf22-78f842aedfab"
+      Hint: Code
+      Value: "fr-CA"
+    - ID: "04beaffe-c10b-4495-bc87-5c3811232a1d"
+      Hint: Name
+      Value: Canadien Français
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230804T172930Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "199c7283-6542-4409-b3cf-802f54590ac3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231005T115933Z

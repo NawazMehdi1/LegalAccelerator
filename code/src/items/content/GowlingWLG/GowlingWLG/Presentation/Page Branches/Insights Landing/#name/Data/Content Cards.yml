@@ -1,0 +1,39 @@
+﻿---
+ID: "a2a8d2ac-304d-4755-abf0-f4a8cac98c02"
+Parent: "77a4a038-45fa-45ff-a1ea-778b94c2bde1"
+Template: "6b0f3125-62bb-4110-b239-1876e5e35a51"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Insights Landing/$name/Data/Content Cards
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d4a93c7-bb0e-44a0-b06b-5c805dd0ff5d"
+      Hint: FeaturedContentCards
+      Value: |
+        {C7F147A2-5520-4B49-A97E-EB5E7C65EA00}
+        {30EB2B41-4F92-4707-A712-B2C97C14BB30}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231010T043951Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "54da2c21-4bd8-4509-8bcb-f9d5a1eb02a4"
+    - ID: "b2a8b577-00a5-4a9e-a3b1-c1a08712bceb"
+      Hint: Title
+      Value: Content Cards
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231010T044008Z

@@ -1,0 +1,31 @@
+﻿---
+ID: "2ef1d9a8-743b-4f01-97e2-7b91451afeb2"
+Parent: "4dfc2b64-596d-42df-86e3-c9d2371644df"
+Template: "2c1b6e69-b023-44c5-844f-d44c122b0451"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/PageTypes/EventTypes
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230727T191702Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fc7e50f7-0da3-4306-8ba5-f166dbd1a0bd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230727T192907Z

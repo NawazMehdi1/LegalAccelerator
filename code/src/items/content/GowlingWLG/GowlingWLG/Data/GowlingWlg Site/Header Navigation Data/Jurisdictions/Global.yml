@@ -1,0 +1,78 @@
+﻿---
+ID: "1b9e3265-0ca9-407e-a7d0-63220ff069f6"
+Parent: "61693359-7a1b-4634-8fa1-28cca0bcd834"
+Template: "f4169a94-04ad-453c-9ead-9bc6875cfe9d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/Header Navigation Data/Jurisdictions/Global
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230619T115317Z
+    - ID: "260625cc-39b2-47d8-bb3d-874f36c0023c"
+      Hint: Name
+      Value: Global
+    - ID: "8c34d770-ebd4-46ea-a34b-b64e95944003"
+      Hint: Code
+      Value: GB
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ebfcffa-a206-44aa-8686-6ec18e75ab5e"
+    - ID: "b05556f9-cab6-442b-a231-5ce134b32b9b"
+      Hint: LanguageMapping
+      Value: |
+        {A8E39E37-C9CF-4192-BAB7-88D398C1A143}
+        {88F0E065-A8A6-4038-B94A-78F0B23A73E1}
+        {FD8BB93E-6C30-409B-80BB-FB09DD0BBD58}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "c5a9cda2-0df6-4e59-921a-7cec248b52fb"
+      Hint: Flag
+      Value: |
+        <image mediaid="{02AA7474-746F-4259-B130-5F43C3064A6E}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231010T095549Z
+    - ID: "fd3b0012-5661-48b0-bf69-7ebd9620e9ef"
+      Hint: FlagMobile
+      Value: |
+        <image mediaid="{AA062034-5B2D-4F73-9A40-B1618A79702B}" />
+- Language: "fr-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230921T085430Z
+    - ID: "260625cc-39b2-47d8-bb3d-874f36c0023c"
+      Hint: Name
+      Value: Français
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "8c34d770-ebd4-46ea-a34b-b64e95944003"
+      Hint: Code
+      Value: GB
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e725bbdc-ac98-4828-ac1a-3ff18d0ffb2d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "c5a9cda2-0df6-4e59-921a-7cec248b52fb"
+      Hint: Flag
+      Value: |
+        <image mediaid="{02AA7474-746F-4259-B130-5F43C3064A6E}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T085551Z

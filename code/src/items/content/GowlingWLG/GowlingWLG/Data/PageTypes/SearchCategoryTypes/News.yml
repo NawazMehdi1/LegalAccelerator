@@ -1,0 +1,38 @@
+﻿---
+ID: "1690075d-eed7-453f-8d0d-846390affd31"
+Parent: "d9ebba9e-e013-494d-a379-3c7d458206ff"
+Template: "6f293fd6-d303-4ed8-ac75-cb1e3f8f78fc"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/PageTypes/SearchCategoryTypes/News
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230801T164200Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc7df837-3890-41a1-8de1-606da1610e12"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "bc21b84b-ab25-4460-b83d-7d5f54ff491e"
+      Hint: PageType
+      Value: News
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230801T170718Z
+    - ID: "f37f6f4f-154b-456f-876f-e20ccc7791a9"
+      Hint: Icon
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"D584633A-9245-410A-AF6470C00B3C4878","name":"Insights Icon","description":null,"assetType":"Image","createdAt":"2023-08-01T17:09:20Z","publishedAt":"2023-08-01T17:08:59Z","updatedAt":"2023-08-01T17:09:20Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/4f2f7dafbacda60d/webimage-Insights-Icon.png","width":800,"height":770,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/4f2f7dafbacda60d/thul-Insights-Icon.png","width":250,"height":241,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/4f2f7dafbacda60d/mini-Insights-Icon.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["icons_and_graphics"],"extension":["png"],"Asset_Type":["templates_and_resources"]}}],"file":null}]]></asset>

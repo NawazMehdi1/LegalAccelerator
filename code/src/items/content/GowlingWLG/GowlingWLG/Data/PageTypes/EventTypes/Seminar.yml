@@ -1,0 +1,34 @@
+﻿---
+ID: "e5f938d0-5b43-4146-98e9-8a7e2cd9f1f6"
+Parent: "2ef1d9a8-743b-4f01-97e2-7b91451afeb2"
+Template: "6f293fd6-d303-4ed8-ac75-cb1e3f8f78fc"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/PageTypes/EventTypes/Seminar
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230727T191732Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "358b4c2a-413f-4347-aff0-f468114d1e40"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "bc21b84b-ab25-4460-b83d-7d5f54ff491e"
+      Hint: PageType
+      Value: Conference
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230913T183220Z
+    - ID: "f37f6f4f-154b-456f-876f-e20ccc7791a9"
+      Hint: Icon
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"84A99779-AC01-467B-9BD85C11C41C02AA","name":"ClientWork","description":null,"assetType":"Image","createdAt":"2023-08-03T08:35:55Z","publishedAt":"2023-08-03T08:33:19Z","updatedAt":"2023-08-03T08:35:55Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/1d153b589679b3c4/webimage-ClientWork.png","width":600,"height":600,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/1d153b589679b3c4/thul-ClientWork.png","width":250,"height":250,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/1d153b589679b3c4/mini-ClientWork.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["icons_and_graphics"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>

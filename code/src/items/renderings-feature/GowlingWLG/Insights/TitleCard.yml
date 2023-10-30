@@ -1,0 +1,121 @@
+﻿---
+ID: "baff264d-8fb0-4dc7-97b6-60e01d3e3bce"
+Parent: "dd36c38a-513b-4012-9371-6e7e5ba67da2"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/Insights/TitleCard
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: TitleCard
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/font.png
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query TitleCardsQuery($contextItem: String!, $language: String!) {
+      item(path: $contextItem, language: $language) {
+        name
+        title: field(name: "title") {
+          ... on TextField{
+            jsonValue
+          }
+        }
+        subTitle: field(name: "subTitle") {
+          ... on RichTextField{
+            jsonValue
+          }
+        }
+        publishedDate: field(name: "publishedDate") {
+          ... on DateField{
+            jsonValue
+          }
+        }
+        publishedDateOverrideText: field(name: "publishedDateOverrideText") {
+          ... on TextField{
+            jsonValue
+          }
+        }
+        image: field(name: "image") {
+          ... on TextField{
+            jsonValue
+          }
+        }
+        backgroundImage: field(name: "backgroundImage") {
+          ... on TextField{
+            jsonValue
+          }
+        }
+     ShowReadTime : field(name: "ShowReadTime") {
+          ... on CheckboxField {
+            jsonValue
+          }
+        }
+        readTime: field(name: "readTime") {
+          ... on TextField{
+            jsonValue
+          }
+        }
+    pageType: field(name: "PageType") {
+          ... on LookupField {
+            targetItem {
+              pageType: field(name: "PageType") {
+                value
+              }
+              icon: field(name: "Icon") {
+                jsonValue
+              }
+            }
+          }
+        }            
+    }
+      icons: item(
+        path: "{5AA5986F-AD35-474A-B151-A81BE7B5ED4B}"
+        language: $language
+      ) {
+        children(includeTemplateIDs: "{10F2461A-FB4D-4246-95E3-D6E2F01734F4}") {
+          results {
+            name
+            image: field(name: "Image") {
+              jsonValue
+            }
+            TargetUrl: field(name: "TargetUrl"){
+              jsonValue
+            }
+          }
+        }
+      }
+    }
+    
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{E2C2C780-6FC1-4F6F-BD28-3E9945BE174F}"
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T102205Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aef8c7f6-7def-48c9-9647-11c08c2a151e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231013T132107Z

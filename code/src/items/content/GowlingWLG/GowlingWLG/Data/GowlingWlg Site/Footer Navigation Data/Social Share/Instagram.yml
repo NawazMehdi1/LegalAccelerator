@@ -1,0 +1,46 @@
+﻿---
+ID: "4035330d-a725-449c-87a3-67db4f20ea4b"
+Parent: "769d6cf5-7ad5-41e2-8b22-a4ce3b8833c0"
+Template: "e4d3f859-9d41-4b02-9826-a7f1a14b6def"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/GowlingWlg Site/Footer Navigation Data/Social Share/Instagram
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230615T094908Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "6ef7056b-25e3-4a9e-b3cd-98938ef1ed9e"
+      Hint: Class
+      Value: Instagram
+    - ID: "7f6711eb-709a-42a6-aea0-963d7fdbefb2"
+      Hint: Link
+      Value: |
+        <link text="https://www.instagram.com/" linktype="external" url="" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e091ddd1-717a-4009-bdf8-655a8d29e5fb"
+    - ID: "949cdacb-3130-4645-88e5-3353cf3f54f6"
+      Hint: Icon
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"9EFFFCBC-A2AC-4C12-9098860F6556970C","name":"Instagram-icon-white","description":"Social Media Icons","assetType":"Image","createdAt":"2023-05-25T17:29:27Z","publishedAt":"2023-05-25T17:28:43Z","updatedAt":"2023-05-25T17:29:27Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/657bd5bf56a611c2/webimage-Instagram-icon-white.png","width":600,"height":600,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/657bd5bf56a611c2/thul-Instagram-icon-white.png","width":250,"height":250,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/657bd5bf56a611c2/mini-Instagram-icon-white.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Tags":["twitter","LinkedIn","media","Instagram","facebook","icons","Social"],"Asset_Subtype":["icons_and_graphics"],"extension":["png"],"Asset_Type":["logos"]}}],"file":null}]]></asset>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T172837Z

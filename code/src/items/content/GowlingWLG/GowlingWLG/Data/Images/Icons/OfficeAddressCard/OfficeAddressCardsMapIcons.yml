@@ -1,0 +1,31 @@
+﻿---
+ID: "69798e0f-2bff-45f6-b71d-14fb3b8e0de9"
+Parent: "07b4784d-c66c-448a-bdb4-fc90f143bb5d"
+Template: "9c78dd38-32e0-4997-843e-863de66ae2f3"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/Images/Icons/OfficeAddressCard/OfficeAddressCardsMapIcons
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230919T083246Z
+    - ID: "4f77e4e4-ec5a-496e-81e2-10ed93c3ac03"
+      Hint: HoverMapIcon
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"0BE9245C-E175-49BB-AEAFDC968A3C0162","name":"HoverMapIcon","description":null,"assetType":"Image","createdAt":"2023-09-19T08:26:55Z","publishedAt":"2023-09-19T08:26:26Z","updatedAt":"2023-09-19T08:26:55Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/211b7c2dfeba3dcc/webimage-HoverMapIcon.png","width":600,"height":600,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/211b7c2dfeba3dcc/thul-HoverMapIcon.png","width":250,"height":250,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/211b7c2dfeba3dcc/mini-HoverMapIcon.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["Logos_-_External"],"extension":["png"],"Asset_Type":["logos"]}}],"file":null}]]></asset>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "bef0c91d-8dc5-4be1-8044-88d21f4b595e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230919T083335Z
+    - ID: "e6456073-7881-436c-98f0-c2cc2cf60f2f"
+      Hint: MapIcon
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"92CA1AE2-5E94-47A1-9C91159D63D2C6E4","name":"MaPIcon","description":null,"assetType":"Image","createdAt":"2023-09-19T08:26:15Z","publishedAt":"2023-09-19T08:24:58Z","updatedAt":"2023-09-19T08:26:15Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/47c1390dcc5b8eb6/webimage-MaPIcon.png","width":600,"height":600,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/47c1390dcc5b8eb6/thul-MaPIcon.png","width":250,"height":250,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/47c1390dcc5b8eb6/mini-MaPIcon.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["Logos_-_External"],"extension":["png"],"Asset_Type":["logos"]}}],"file":null}]]></asset>

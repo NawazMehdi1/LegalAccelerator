@@ -1,0 +1,45 @@
+﻿---
+ID: "8cc168b6-2a36-40d6-8492-5546986b30d9"
+Parent: "364f002f-5b2c-413c-93da-43b2f45f057d"
+Template: "541839c4-1424-434f-ba72-7079974f9e1c"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People/c/Court-Mars/Data/AccordionDataItems/Community"
+BranchID: "8b85ba3a-7ded-4e46-aec4-2f21991c8712"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: "{8C9E0755-0DD1-4418-9E3A-D2FEE09173AF}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8B9F3A44-91BD-4C9C-BF3B-D407A21B7115}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230915T105810Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "827ac6df-52ae-491a-9a8c-73e70cd5c0dc"
+      Hint: Title
+      Value: Community
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "255c079e-817a-47dc-9a1d-6231755bf7e2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230915T105810Z

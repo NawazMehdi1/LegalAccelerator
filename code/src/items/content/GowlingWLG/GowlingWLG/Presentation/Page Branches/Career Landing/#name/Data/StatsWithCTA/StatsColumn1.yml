@@ -1,0 +1,33 @@
+﻿---
+ID: "6faa0128-7b03-4dcc-9ade-3d6adaf516f3"
+Parent: "47dbd4da-4ceb-4a83-89e3-aeeffcd3e03e"
+Template: "a758b4eb-ef0a-4752-a0ab-ba876fd886ec"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Career Landing/$name/Data/StatsWithCTA/StatsColumn1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230901T070117Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "43664fe8-b8a0-45dc-8049-7555630aa166"
+    - ID: "91e71295-de0c-4399-85fe-a281f80f6207"
+      Hint: Title
+      Value: 1500+
+    - ID: "b3faaff6-7ede-4283-a81a-64aa4d525e1b"
+      Hint: CTALink
+      Value: |
+        <link text="Events" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{B634FFBB-849B-4AFE-ABF6-67D720633D79}" />
+    - ID: "b9efc3a5-7a42-4c01-9aee-4054fdef9597"
+      Hint: Description
+      Value: Legal Professional worldWide
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230901T070239Z

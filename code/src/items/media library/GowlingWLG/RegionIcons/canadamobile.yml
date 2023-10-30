@@ -1,0 +1,57 @@
+﻿---
+ID: "2d59a5bd-aef4-4308-ba20-130cccb63826"
+Parent: "36fcf4ac-f32e-4731-a9e4-37c83b5f6c45"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/GowlingWLG/GowlingWLG/RegionIcons/canadamobile
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/2D59A5BDAEF44308BA20130CCCB63826.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 26
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "96684594-68e5-4044-bbe4-5b4b72ccaf1a"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAI1SURBVHgB7VVRbtNAEJ0Zb4CfQEIAFZGqrlIk/pqegOQI3KA5AieIOUFzA3KDwglIT0D4QyJVtg2oEqSqPytk7zBr6ipp1t1+uF/tkxLZM2/ezM7OrgHuUQamtbAGJeGqFi06qlX10SdwsvYmPFkLQx/viWidLSS7TPS4qvoI3PYJVCpp9LCi9nw8w7BjRDN/R/v3p7nVIYQvAKwbs8NNV+DvV693yZgYFe5nQgbeUwDQOJ4MXPx5c0sjwoYk7D7/ORllKxJDHzwgNO08SfZOsCfJvHsqtWTaSiptS8s6RUS7J4/Oz+OUaQzISz5EHlt/EKS1F79+jF3xjNCxHVNS6e5FB5cgzkis24RJjZWqBQw9c4VjDOkHKtmXjuj5eitmxiNpU+TI11FS1rarEmTUSNzP1iAZGXhlIgMUG0JbONIVtEE9l5a07y1JNe5JIxMvZ3bwVm0xOMDIIUmpzg1FRO+or8RwUQyGVBQkYxtJu95J1TH4EghHuL2Ge38yEDMcFTmfzQ4/EakdWZ0uTsKyl9gV7hCKEZMc1Ok1BKjr71oO3UFeef7L/XKWPte1e7RzyGK+UYr/Ra5DEMDgb5BsPj2e1FFWmKTYbcwmaG1G0RC84LECAyPw3AyLFSdJEuLFsXuptYYbwDANyd5DEjeCW4K07cDeGtnUpQwfbh6I9gbwTuIlHyBaMsybrcHpemsKJcHe3qeimb+r/CFQacSp2oCSIJ+Qr4hp5HSeheV9ysvUuuP4B4q00kWegCS2AAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 672
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 26 x 26
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 26
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230926T104727Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "211d4b90-ac9e-4cfe-be63-ca196c2592f8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230926T104727Z

@@ -1,0 +1,53 @@
+﻿---
+ID: "e91eb74d-ceba-4514-a830-7cd3a67244cd"
+Parent: "ee3244bb-660c-4a6b-9035-900e1d95a33a"
+Template: "bfd2102f-c999-43ca-abee-c41978d1cb25"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Settings/Site Configuration
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "20f4a49a-7610-4868-8e4a-9d5c4c8cd7ba"
+      Hint: GTMContainerID
+      Value: "GTM-PKGF9KD"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230705T053443Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72744fc7-1284-4c80-a5b6-941c55970103"
+    - ID: "a9caa4e7-da80-4368-92d5-cdd244ae0cc1"
+      Hint: LatestInsightsSeeAllLink
+      Value: |
+        <link text="See All" anchor="" linktype="internal" class="" title=""  querystring="?author={0}" id="{DCB9B37E-9544-4BB0-8600-E419AA3A5C66}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d7732b4d-5f98-4f72-9874-e7ed3c4b722c"
+      Hint: SearchSource
+      Value: gowling_dev
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231010T034403Z
+    - ID: "e7781e0e-3fb7-426b-9f09-ea021001bcb1"
+      Hint: ExternalLinkToolTipText
+      Value: |
+        <div class="p-4 flex gap-3 ">
+        <svg xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewbox="0 0 24 24" fill="none" stroke="black" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-alert-circle"><circle cx="12" cy="12" r="10"></circle><line x1="12" x2="12" y1="8" y2="12"></line><line x1="12" x2="12.01" y1="16" y2="16"></line></svg>
+        <h4 class="text-[10px] font-arial text-black  font-[400] leading-[140%]"> Attention: Clicking this link will redirect you away from our website. </h4>
+        </div>
+        <div class="border border-extraLightGrey"> </div>
+        <h4 class="text-[10px] p-4 font-arial text-black  font-[400] leading-[140%]"> Make sure you've saved any important information before proceeding. If you wish to continue, simply click the link. </h4>
+    - ID: "ff563e57-7ea6-4bca-95c7-a8a5d9062e96"
+      Hint: SearchApiUrl
+      Value: "https://discover-euc1.sitecorecloud.io/discover/v2/229609098"

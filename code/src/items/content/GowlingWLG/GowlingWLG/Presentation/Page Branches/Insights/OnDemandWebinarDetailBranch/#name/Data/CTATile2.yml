@@ -1,0 +1,43 @@
+﻿---
+ID: "e0236ebf-d432-4a4b-8248-cc600c2d054b"
+Parent: "dd886171-08c1-4588-8480-7c009343ba39"
+Template: "a3ddc83b-44de-46a3-9987-9374da3cd343"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Insights/OnDemandWebinarDetailBranch/$name/Data/CTATile2
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 0
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230731T054739Z
+    - ID: "2f053e5d-70a9-4fcc-8852-1c93d0b6530d"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra.
+    - ID: "3c0eb40c-4a5f-4d66-8d75-e36b00507eba"
+      Hint: CTA
+      Value: |
+        <link text="Download the slides" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fdc069fe-642d-4214-9ad2-5f62c185b778"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230828T095625Z
+    - ID: "e4776fbb-6c74-40bf-b62c-fd1b386baa86"
+      Hint: Title
+      Value: Download the Slides

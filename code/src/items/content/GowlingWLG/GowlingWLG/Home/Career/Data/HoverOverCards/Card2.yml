@@ -1,0 +1,50 @@
+﻿---
+ID: "3a91efab-e201-450a-babd-a3e76f838f72"
+Parent: "53373a2d-5916-4d47-a9c1-a627d839dd14"
+Template: "f36bc793-183b-49e2-80ec-d89313fa9536"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/Career/Data/HoverOverCards/Card2
+BranchID: "6fa45745-6d1b-46b6-ab78-fd13fab18508"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2383FC66-7979-42D0-8A82-5A975E6F5BA5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230908T102710Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dcb162f2-fcfb-4aff-aeb3-1d681c279336"
+    - ID: "a1347e59-5a32-4793-9aeb-4fd1cde6c301"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+    - ID: "a5adbcf8-e26f-40d6-9cc7-71bd02afcea7"
+      Hint: Title
+      Value: Opportunities & Growth
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231010T050711Z
+    - ID: "ea73b1e8-1d5a-459e-b5d9-d42018847d7d"
+      Hint: CTALink
+      Value: |
+        <link class="" id="{98ADA4BD-D103-4B1C-9FFE-6EA0CF6EC1E8}" querystring="" anchor="" target="" title="" linktype="internal" text="" url="/GowlingWLG/GowlingWLG/Home/Forms" />
+    - ID: "f32cf29c-04c8-45e4-a1dc-07515315ea26"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"ACCC8126-C764-4F61-AC0861F0F72D2171","name":"Article Background image","description":null,"assetType":"Image","createdAt":"2023-08-08T06:43:33Z","publishedAt":"2023-08-08T06:42:35Z","updatedAt":"2023-08-08T06:43:33Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/34654b34ed55b4a9/webimage-Article-Background-image.png","width":800,"height":527,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/34654b34ed55b4a9/thul-Article-Background-image.png","width":250,"height":165,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/34654b34ed55b4a9/mini-Article-Background-image.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["cr_event_photography"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>

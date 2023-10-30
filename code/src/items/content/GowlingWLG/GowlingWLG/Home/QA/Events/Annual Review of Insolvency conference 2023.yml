@@ -1,0 +1,87 @@
+﻿---
+ID: "a2784483-c046-4e09-92e7-fe506e433ce1"
+Parent: "11547f04-5ca5-4dd9-b4ca-a132cd019812"
+Template: "31507380-1c3b-4574-907a-35b1ce9c596d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Events/Annual Review of Insolvency conference 2023
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {7CA4B003-376E-4EAB-BFBB-39190E4B0720}
+        {57EAC56F-8BB2-442F-BFDC-5EC96195B2F7}
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{557D649C-5BCD-4CF7-909C-1CB0232EFDCD}"
+              s:ds="{180CC503-568A-4B9E-9F04-4AB08E596049}"
+              s:id="{3EA74308-9DB4-4E6D-87B8-EE9CAEFB035D}"
+              s:par="OverrideTitle=Event%20Location&amp;GridParameters&amp;FieldNames&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=1"
+              s:ph="headless-main"
+              s:ccb="Clear on publish" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230913T181458Z
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: |
+        {8A517066-926B-4C39-9000-F595F6EA9C9D}
+        {15440C43-40BA-4359-9333-B185EB8EE43F}
+        {50AFD730-9ED6-4BD6-ADBE-73497A7A979C}
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Annual Review of Insolvency conference 2023
+    - ID: "528986cc-6ff9-4383-8bee-514f0e8172cf"
+      Hint: MetaDescription
+      Value: Gowling WLG is proud to be an innovator sponsor of this year's Annual Review of Insolvency Law (ARIL) Conference, and we look forward to connecting with organizations from across the insolvency and restructuring community.
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: "{BE92B8FE-8551-4FCB-B5C3-4CD857AE7BCD}"
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: Annual Review of Insolvency conference 2023
+    - ID: "79df820b-5ccc-4cb0-aff1-9f38b3281ab7"
+      Hint: EventStartDate
+      Value: 20230604T183000Z
+    - ID: "80eb5a2f-a16a-4df0-8d9f-21e4932c0d2a"
+      Hint: PublishedDate
+      Value: 20230911T183000Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6741e959-fa18-46c6-a302-b6e1043a3d91"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+        {AE2E8456-4823-49A7-9446-8314414E670B}
+    - ID: "ac1204cb-944e-4c05-976f-aa15bb1a0515"
+      Hint: PageType
+      Value: "{841DC396-BE36-43A6-B59C-2408273B2CFC}"
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {BF3AFED6-5C43-42FA-BC05-BC184C4977B6}
+        {CD3CB7F9-1FFE-4F2B-80DB-D41A24DA4910}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "bee3cf6c-d209-4d4f-82d0-664d4c76d917"
+      Hint: IsCPDorCLE
+      Value: 1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231019T122059Z
+    - ID: "ebb722c6-082d-4218-b303-fad412068894"
+      Hint: EventEndDate
+      Value: 20230604T183000Z

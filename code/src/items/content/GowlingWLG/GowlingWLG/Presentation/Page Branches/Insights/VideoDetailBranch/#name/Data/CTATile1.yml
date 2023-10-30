@@ -1,0 +1,47 @@
+﻿---
+ID: "924c641c-9f02-4964-89d4-ce28650754c0"
+Parent: "1e9d2aa6-08f5-4e67-8390-749440d42016"
+Template: "a3ddc83b-44de-46a3-9987-9374da3cd343"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Insights/VideoDetailBranch/$name/Data/CTATile1
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 0
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230728T141457Z
+    - ID: "2f053e5d-70a9-4fcc-8852-1c93d0b6530d"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet.
+    - ID: "3c0eb40c-4a5f-4d66-8d75-e36b00507eba"
+      Hint: CTA
+      Value: |
+        <link text="Watch more" anchor="" linktype="internal" class="" title="Watch more" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "847711b7-4795-4b8d-8a5a-e43d85474411"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{94CE3B08-388A-41CA-BADA-AE1D7B2F285C}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5a4b8bb3-f95d-4ba6-a444-e9044b076cab"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230828T095634Z
+    - ID: "e4776fbb-6c74-40bf-b62c-fd1b386baa86"
+      Hint: Title
+      Value: Watch more Videos

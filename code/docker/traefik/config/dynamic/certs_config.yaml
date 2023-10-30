@@ -1,0 +1,6 @@
+tls:
+  certificates:
+    - certFile: C:\etc\traefik\certs\_wildcard.gowlingwlg.localhost.pem
+      keyFile: C:\etc\traefik\certs\_wildcard.gowlingwlg.localhost-key.pem
+    - certFile: C:\etc\traefik\certs\gwlg.xmcloudcm.localhost.pem
+      keyFile: C:\etc\traefik\certs\gwlg.xmcloudcm.localhost-key.pem

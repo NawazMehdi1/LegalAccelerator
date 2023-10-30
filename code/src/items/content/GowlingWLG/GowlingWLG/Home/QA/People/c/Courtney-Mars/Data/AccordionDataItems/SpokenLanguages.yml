@@ -1,0 +1,45 @@
+﻿---
+ID: "713f23f5-b413-4971-95e0-4bbaac65d638"
+Parent: "ff22695d-e7ba-443a-881a-2438cbc7305a"
+Template: "4837d7c6-a3fe-491e-bdd2-3004322b12af"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People/c/Courtney-Mars/Data/AccordionDataItems/SpokenLanguages"
+BranchID: "8b85ba3a-7ded-4e46-aec4-2f21991c8712"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{062029C1-BBC2-4325-BBCD-F2E363A14F06}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "15b452ef-2fe8-4861-8113-113b91552a9e"
+      Hint: Heading
+      Value: Languages Spoken
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232847Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9178b11a-5d15-4bea-9ac0-2539e526e862"
+    - ID: "94e5fb28-d55d-4915-a6ce-f1f63935e69f"
+      Hint: SpokenLanguages
+      Value: |
+        {D1608C76-C7B0-4A7A-A5CC-6FA2759C7C36}
+        {C6B6495A-2050-473D-A109-B11A129F2266}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230905T111138Z

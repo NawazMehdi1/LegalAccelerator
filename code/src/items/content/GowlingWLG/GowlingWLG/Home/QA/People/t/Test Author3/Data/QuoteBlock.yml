@@ -1,0 +1,855 @@
+﻿---
+ID: "8e58435e-333b-44a4-92e4-b918e9615e88"
+Parent: "ef91aee0-a7c8-40f6-bd67-cc14db239936"
+Template: "42e46b4a-e70b-4738-bb6d-9f929018906a"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People/t/Test Author3/Data/QuoteBlock
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9E82DDBA-99F4-4ABF-92E5-DC2625AC60FD}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: "de-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "de-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "de-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "de-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "de-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "de-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f4904379-e976-449a-8469-36bb9fbc17fa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\debahuti.panigrahy@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230823T140347Z
+- Language: "en-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "en-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "en-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "en-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "en-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "en-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "fr-AE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "fr-CN"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "fr-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "fr-GB"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z
+- Language: "fr-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230809T232850Z
+    - ID: "4818fdd0-2060-4431-b8fb-a9d3c446d5ba"
+      Hint: QuoteBySubText
+      Value: CEO at Big Business Inc.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "539770e9-69ab-4821-a4ab-1d0d1a390065"
+      Hint: QuoteImage
+      Value: |
+        <image mediaid="{C6D70ABF-C462-4FC9-934D-77CEF30E4DE9}" />
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "682cdd1a-a7d8-4562-a8d0-de6ebbe4a106"
+      Hint: QuoteBy
+      Value: Elizabeth Yin
+    - ID: "6c0a7746-7df2-462a-b0fa-861b8595caae"
+      Hint: Quote
+      Value: <p>Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.”</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7ac5485e-66cf-4c78-9c49-23dabc3a6bf9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232850Z

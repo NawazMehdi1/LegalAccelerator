@@ -1,0 +1,171 @@
+﻿---
+ID: "10351392-40db-4a8a-a9ea-cc8edec0af0f"
+Parent: "dd36c38a-513b-4012-9371-6e7e5ba67da2"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/Insights/Authors
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: Authors
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/users3.png
+- ID: "17bb046a-a32a-41b3-8315-81217947611b"
+  Hint: ComponentQuery
+  Value: |
+    query KeyContacts(
+      $datasource: String!
+      $contextItem: String!
+      $language: String!
+    ) {
+      datasource: item(path: $datasource, language: $language) {
+        ContactTitle: field(name: "ContactTitle") {
+          value
+        }
+        keyContacts: field(name: "Key Contacts") {
+          ... on MultilistField {
+            targetItems {
+              url {
+                path
+              }
+              title: field(name: "Title") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              offices: field(name: "offices") {
+                ... on MultilistField {
+                  targetItems {
+                    ... on OfficePage {
+                      title {
+                        value
+                      }
+                    }
+                  }
+                }
+              }
+    	
+             AdditionalOffices: field(name: "AdditionalOffices") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              alternateTitle: field(name: "alternateTitle") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              profileImage: field(name: "profileImage") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+              role: field(name: "role") {
+                value
+              }
+              linkedIn: field(name: "linkedIn") {
+                jsonValue
+              }
+            }
+          }
+        }
+      }
+      item(path: $contextItem, language: $language) {
+        ContactTitle: field(name: "ContactTitle") {
+          ... on TextField {
+            jsonValue
+          }
+        }
+        KeyContacts: field(name: "Key Contacts") {
+          ... on MultilistField {
+            targetItems {
+              ... on PeoplePage {
+                title {
+                  ... on TextField {
+                    jsonValue
+                  }
+                }
+                alternateTitle {
+                  ... on TextField {
+                    jsonValue
+                  }
+                }
+                profileImage {
+                  ... on TextField {
+                    jsonValue
+                  }
+                }
+                url {
+                  path
+                }
+                professionalTitle {
+                  targetItem {
+                    ... on Tag {
+                      title {
+                        value
+                      }
+                    }
+                  }
+                }
+                role {
+                  value
+                }
+                url {
+                  path
+                }
+                offices {
+                  targetItems {
+                    ... on OfficePage {
+                      title {
+                        value
+                      }
+                    }
+                  }
+                }
+    AdditionalOffices: field(name: "AdditionalOffices") {
+                ... on TextField {
+                  jsonValue
+                }
+              }
+                linkedIn {
+                  jsonValue
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{75B42A1C-A05A-4DCD-99C4-7E86E33130AC}"
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230706T102217Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b1bf893-334c-483d-a01d-354b364f82a7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230901T122517Z

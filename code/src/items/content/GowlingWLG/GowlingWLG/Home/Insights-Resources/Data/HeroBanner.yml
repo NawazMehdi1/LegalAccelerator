@@ -1,0 +1,58 @@
+﻿---
+ID: "f9657b3d-42c3-4bb2-9b5f-ede6cb3c4b12"
+Parent: "059fcb03-2a86-4d25-b236-507a8389ae7c"
+Template: "ac63d976-3a92-430d-b7a4-5cae4a1fcaa0"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/Insights-Resources/Data/HeroBanner"
+SharedFields:
+- ID: "39c4902e-9960-4469-aeef-e878e9c8218f"
+  Hint: __Hidden
+  Value: 0
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230602T013520Z
+    - ID: "3d9c8116-1f84-4225-90d6-e14c62cd2fbe"
+      Hint: Description
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar sic tempor. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+    - ID: "49d3a5f2-fcd8-4eae-a4b9-0dc02f134cff"
+      Hint: Title
+      Value: Insights
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "8878f6cd-75cb-4ce0-b7bd-dda3bbb54671"
+      Hint: CTA1
+      Value: 
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "24d7ec51-b8ee-4d7f-94ee-00111293a8a8"
+    - ID: "943df8f9-6619-4a73-8bb5-522f503389db"
+      Hint: BackgroundImage
+      Value: |
+        <image mediaid="{33069873-93DE-49F3-BEED-D68B6A7CDCA1}" />
+    - ID: "9a7c722f-11b4-446b-ad0b-875d0030507c"
+      Hint: CTA2
+      Value: 
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d54961e0-20cb-4f37-8a95-46ceb5b383fb"
+      Hint: ForegroundImage
+      Value: |
+        <image mediaid="{27DAAD21-60D7-43D1-A212-E422926722CD}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230709T111932Z

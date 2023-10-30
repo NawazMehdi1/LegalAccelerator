@@ -1,0 +1,239 @@
+﻿---
+ID: "f10373cb-3858-4b86-931d-fe5ff26247ab"
+Parent: "407263ef-393c-4a72-b250-1d2e8b0e69f1"
+Template: "e25e01ce-d8b9-49a6-987a-5e40d16d300f"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/On Demand Webinar/2023/sample-manual-OnDemandWebinar"
+BranchID: "34e9c3d9-e514-4afd-a0c1-09c5889bba63"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/32x32/Player.png
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{4F56BC61-25CD-4E79-BB6E-F7010A425DE9}"
+          p:before="*"
+          s:ds=""
+          s:id="{10351392-40DB-4A8A-A9EA-CC8EDEC0AF0F}"
+          s:par="OverrideTitle=Key%20Contacts&amp;CarouselConversionLimit&amp;GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B9FDC5359-DCB4-4686-A69D-0A8C90F03986%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=12"
+          s:ph="/headless-main/container-1/row-8-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{BB0F41A6-4A02-49FF-8D1E-38783076C8EF}"
+          p:after="r[@uid='{4F56BC61-25CD-4E79-BB6E-F7010A425DE9}']"
+          s:id="{87878402-9303-4C09-BB58-0D766B41AB58}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B70C813A3-E124-4AAD-AC44-681A00B71B3C%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=10"
+          s:ph="/headless-main/container-1/row-8-2" />
+        <r
+          uid="{441CF0AA-1B4C-4851-91CE-CE82B572A6BC}"
+          p:after="r[@uid='{BB0F41A6-4A02-49FF-8D1E-38783076C8EF}']"
+          s:ds="{A706FA88-91D2-4F2C-988C-0862C1A10C41}"
+          s:id="{4FA3F34D-AA26-4A35-AAB9-7B6962E163CA}"
+          s:par="FilterType=SearchFilter&amp;GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B10DAAE65-ADC4-4BC6-9D7F-1612A87104FB%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=11"
+          s:ph="/headless-main/container-1/row-8-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{C1688865-DFD2-4C47-B2A0-547E1A1DA94B}"
+          p:after="r[@uid='{441CF0AA-1B4C-4851-91CE-CE82B572A6BC}']"
+          s:ds="{6C77756B-ACB5-4AB0-A0BD-B709B8C9CC55}"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B2E989634-5256-46C6-83B3-3B32AF02BBBF%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=9"
+          s:ph="/headless-main/container-1/row-7-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{614BCF09-4C41-4122-98E1-3377FC96496A}"
+          p:after="r[@uid='{C1688865-DFD2-4C47-B2A0-547E1A1DA94B}']"
+          s:id="{C5F905F8-FD1F-444E-A9E5-AC6B774FF0DE}"
+          s:par="GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B119D5E08-9159-459A-8B99-4B637FF68244%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=13"
+          s:ph="/headless-main/container-1/row-5-2" />
+        <r
+          uid="{F08086E5-8989-4FD2-8CAB-DE4333FC16E6}"
+          p:after="r[@uid='{614BCF09-4C41-4122-98E1-3377FC96496A}']"
+          s:ds="local:/Data/VideoSeries"
+          s:id="{9F2BA85B-CACB-4642-95B8-B09D3A37A1D0}"
+          s:par="CacheClearingBehavior=Clear+on+publish&amp;CSSStyles"
+          s:ph="/headless-main/container-1/row-4-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{487A9A65-1CB9-44E4-892C-27FF103A3F44}"
+          p:after="r[@uid='{F08086E5-8989-4FD2-8CAB-DE4333FC16E6}']"
+          s:id="{15CABDFF-FFD9-48F4-826D-A4C3D7868D3A}"
+          s:par="FieldNames&amp;ColumnWidth1=%7b40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7d%7c%7b1A422CAB-F8D5-45E9-AF37-6D80E79627B7%7d%7c%7b29F9A883-8B35-49BD-95D8-6E12C4CB1147%7d%7c%7b5F824EE3-7041-47D3-961C-4870577EACA3%7d%7c%7b990986EA-8455-4053-AC30-4F3737A9D81B%7d%7c%7b0D292504-7AF8-4D75-99CB-734A4DC0CF8D%7d&amp;CacheClearingBehavior=Clear+on+publish&amp;ColumnWidth4&amp;RenderingIdentifier&amp;Styles&amp;ColumnWidth3&amp;EnabledPlaceholders=1%2c2&amp;ColumnWidth7&amp;Styles4&amp;CSSStyles&amp;GridParameters=%7b40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7d%7c%7b5D373CC2-3518-4908-89CA-61BFE2BC08DB%7d%7c%7bD4FEB847-5C0D-4777-817A-7AD42C7D5369%7d%7c%7b1BEBE938-8555-40A0-B849-13BD46889790%7d%7c%7bBC18B031-B919-4F26-8AC7-6191CE1666AD%7d%7c%7bC17A15BD-9004-4594-8F35-48AFD6F11163%7d&amp;Styles6&amp;ColumnWidth8&amp;Styles3&amp;Styles1&amp;DynamicPlaceholderId=3&amp;Styles5&amp;ColumnWidth2=%7b40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7d%7c%7bECCE80A0-1A39-402D-801A-0AB83F29B895%7d%7c%7bD3295829-4082-493D-BC98-C0BD1EAFA98A%7d%7c%7bAC995FCB-D117-4791-9083-57199B8B3709%7d%7c%7b33F000CE-05CC-4957-A7FA-348A8F5B258A%7d%7c%7bE5DB1993-DFFE-4CFE-AB26-CD656C48BDAC%7d&amp;Styles7&amp;Styles2&amp;ColumnWidth6&amp;Styles8&amp;SplitterSize=2&amp;ColumnWidth5"
+          s:ph="/headless-main/container-1/row-3-2" />
+        <r
+          uid="{A1BD88B8-4AA0-4CEA-8ECE-D58059249361}"
+          p:after="r[@uid='{487A9A65-1CB9-44E4-892C-27FF103A3F44}']"
+          s:ds="local:/Data/CTATile1"
+          s:id="{EB7A9AFB-C09D-4C06-85A7-5532452DA093}"
+          s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles=%7bD0EAF164-F9D9-4C1C-A9D1-9DD927D5C6FA%7d&amp;CSSStyles&amp;GridParameters&amp;DynamicPlaceholderId=6"
+          s:ph="/headless-main/container-1/row-3-2/column-2-3"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{DCAF4CE9-4CBE-42D0-BA1F-F029DCE3C0BD}"
+          p:after="r[@uid='{A1BD88B8-4AA0-4CEA-8ECE-D58059249361}']"
+          s:ds="local:/Data/CTATile2"
+          s:id="{EB7A9AFB-C09D-4C06-85A7-5532452DA093}"
+          s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles=%7b89622332-ADC6-40F2-B709-28595AF561BB%7d%7c%7b96982C95-CCB2-4DD9-AC99-E3B44BF0256B%7d&amp;CSSStyles&amp;GridParameters&amp;DynamicPlaceholderId=7"
+          s:ph="/headless-main/container-1/row-3-2/column-2-3"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{93BAA011-120F-4CE3-BA72-B9EAF36124F5}"
+          p:after="r[@uid='{DCAF4CE9-4CBE-42D0-BA1F-F029DCE3C0BD}']"
+          s:ds="local:/Data/YouTubeVideo"
+          s:id="{955FEFF8-0D7A-470A-932A-E05625280D19}"
+          s:par="CacheClearingBehavior=Clear+on+publish&amp;CSSStyles"
+          s:ph="/headless-main/container-1/row-3-2/column-1-3"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{7C7BD7C1-1CDB-4530-98BC-538A0729D415}"
+          p:after="r[@uid='{93BAA011-120F-4CE3-BA72-B9EAF36124F5}']"
+          s:ds=""
+          s:id="{10351392-40DB-4A8A-A9EA-CC8EDEC0AF0F}"
+          s:par="OverrideTitle=Key%20Contacts&amp;CarouselConversionLimit&amp;GridParameters=%7B40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7D&amp;FieldNames=%7B307B3B96-3C8E-4CCC-BBEC-484D755C20BC%7D&amp;Styles&amp;RenderingIdentifier&amp;CSSStyles&amp;DynamicPlaceholderId=4"
+          s:ph="/headless-main/container-1/row-2-2"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{D09FC05E-8CB7-4861-BD63-4D5793111229}"
+          p:after="r[@uid='{7C7BD7C1-1CDB-4530-98BC-538A0729D415}']"
+          s:id="{BAFF264D-8FB0-4DC7-97B6-60E01D3E3BCE}"
+          s:par="FieldNames=%7b68D7AB31-80B6-42BC-8F76-A95B35ABD892%7d&amp;HideDownload&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;CSSStyles&amp;GridParameters=%7b40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7d&amp;HideReadTime&amp;DynamicPlaceholderId=5"
+          s:ph="/headless-main/container-1/row-1-2" />
+        <r
+          uid="{BE04DA99-332D-4E44-BF7E-6AD6687E75F3}"
+          p:after="r[@uid='{D09FC05E-8CB7-4861-BD63-4D5793111229}']"
+          s:ds=""
+          s:id="{5F6BF7C9-C80C-4BBD-AD78-8DA749B35206}"
+          s:par="Styles8&amp;FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;EnabledPlaceholders=1%2c2%2c3%2c4%2c5%2c6%2c7%2c8&amp;Styles4&amp;CSSStyles&amp;GridParameters=%7b40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7d&amp;Styles5&amp;Styles3&amp;Styles2&amp;Styles6&amp;Styles7&amp;DynamicPlaceholderId=2&amp;Styles1&amp;SplitterSize=2"
+          s:ph="/headless-main/container-1" />
+        <r
+          uid="{FC9E1B7C-5D53-4045-89FD-C43714263E5D}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="FieldNames&amp;CacheClearingBehavior=Clear+on+publish&amp;RenderingIdentifier&amp;Styles&amp;BackgroundImage&amp;CSSStyles&amp;GridParameters=%7b40E7EEBF-EA53-4A99-BBC9-2DD46F6E7E7E%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-main" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{38C56797-AA11-44A2-A56F-DAEA4675CEDB}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01b6c390-cc37-47ac-9ba5-ebb5f5a5d946"
+      Hint: Related Services
+      Value: |
+        {1DF907FF-D54C-44CE-9B6C-315610837045}
+        {42AA17EA-738C-4E8A-8242-7DFC3F201A82}
+        {88768AE0-0F64-4DDC-8A85-E4735D09E55C}
+    - ID: "0cbc6e2a-e7ca-4f1a-8cc8-48e6156f9e3c"
+      Hint: BackgroundImage
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"ACCC8126-C764-4F61-AC0861F0F72D2171","name":"Article Background image","description":null,"assetType":"Image","createdAt":"2023-08-08T06:43:33Z","publishedAt":"2023-08-08T06:42:35Z","updatedAt":"2023-08-08T06:43:33Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/34654b34ed55b4a9/webimage-Article-Background-image.png","width":800,"height":527,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/34654b34ed55b4a9/thul-Article-Background-image.png","width":250,"height":165,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/34654b34ed55b4a9/mini-Article-Background-image.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["cr_event_photography"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>
+    - ID: "0d88eec5-b6af-4dd8-91e2-7923905c22a5"
+      Hint: SubTitle
+      Value: SUMMARY OF THE KEY CHANGES IMPACTING UK LIMITED PARTNERSHIPS
+    - ID: "15834250-e5a7-440c-96ac-9261787863b0"
+      Hint: Content
+      Value: |
+        The Economic Crime and Corporate Transparency Bill is now in its final stages of consideration and will introduce some sweeping changes to UK Limited Partnerships. The funds industry will be particularly impacted by the reforms, as Limited Partnerships have been the vehicle of choice for many years, and also real estate property holding structures.
+        
+        The new changes are designed to tackle the abuse that some Limited Partnerships have been subject to (including fraud and money laundering). In this article, we provide an overview of the changes, which focus on strengthening the transparency requirements and the reliability of published information, and enabling Limited Partnerships to be deregistered.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230922T074512Z
+    - ID: "366f39a9-4521-4cfa-91ab-db5decb1ff35"
+      Hint: Key Contacts
+      Value: |
+        {54A9266B-9382-480B-817D-35B1E432EB01}
+        {2BA50DD7-D78B-4DA9-BFB9-29AEDC8A1C21}
+        {D3720A17-7497-43D4-9D11-838F96829CE9}
+        {747B55B3-6CC0-458B-8ABF-C4A5EAC2DA78}
+    - ID: "4174e99f-33a1-4393-b5dd-09e1bd384336"
+      Hint: CPDorCLEPoints
+      Value: 10
+    - ID: "41e425e2-fc4b-4363-a117-3f8a83b22bc2"
+      Hint: IsCPDorCLE
+      Value: 1
+    - ID: "47f66ef8-875b-4758-b11b-c2ced12e8201"
+      Hint: Related Topics
+      Value: |
+        {50AFD730-9ED6-4BD6-ADBE-73497A7A979C}
+        {15440C43-40BA-4359-9333-B185EB8EE43F}
+        {8A517066-926B-4C39-9000-F595F6EA9C9D}
+        {C5EB94BD-3FFF-41EB-B73B-34632BD88F23}
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "sample-manual-OnDemandWebinar"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "633dff38-95a8-4876-a5a5-07e4175233d7"
+      Hint: ShowReadTime
+      Value: 1
+    - ID: "6f617db0-7b6e-4a52-be69-e946d5c4e01e"
+      Hint: Offices
+      Value: |
+        {BE92B8FE-8551-4FCB-B5C3-4CD857AE7BCD}
+        {F2FC07C6-BFDB-46CD-A88E-ABF9B733AA94}
+    - ID: "77681060-f4b9-4504-b4e8-bf6e11d33601"
+      Hint: Title
+      Value: "sample-manual-OnDemandWebinar"
+    - ID: "7dec7f6f-5207-4e03-a064-ca621abe97c6"
+      Hint: Related Insights
+      Value: |
+        {0A1FE649-360D-4D92-8D4E-9416BFD4CEF2}
+        {BCBC80E2-1060-4840-A099-A5CF599F35BF}
+        {30EB2B41-4F92-4707-A712-B2C97C14BB30}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ffa10030-61a6-466f-a98e-8c09e1caa43c"
+    - ID: "a21263c6-1a1e-4c4c-9547-dd7b5a762fad"
+      Hint: Related Sectors
+      Value: |
+        {ECE4D979-D3C2-4B5B-BE31-7F622CF35F6F}
+        {D9D13CCA-FF54-418B-8E51-E09DF6B759FE}
+        {E34303D3-B12E-45FA-A3BE-B627B25F4AAD}
+    - ID: "b0ee2977-ffc6-46f7-a54c-ea0a9b0d97c2"
+      Hint: Jurisdictions
+      Value: |
+        {30F37415-C372-4106-A0F8-9088F51EB23E}
+        {1109AC59-E8A8-4811-B937-81161A44FE6C}
+    - ID: "b39ad9cc-af0e-4550-8414-4b7478f1ad31"
+      Hint: PublishedDate
+      Value: 20230705T183000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "c0ca828b-328d-4748-ab56-206f968a4504"
+      Hint: Summary
+      Value: Ontario superior court reinforces the importance of proper notice when recognizing and enforcing foreign arbitral awards
+    - ID: "d5d97d87-81b1-4b48-8d2f-d336d999dace"
+      Hint: Image
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"C8BF3029-3220-4D45-99E59DF352824165","name":"Gowling-AlumniEvent-June12023-89","description":null,"assetType":"Image","createdAt":"2023-06-02T16:03:33Z","publishedAt":"2023-06-02T16:01:05Z","updatedAt":"2023-06-02T16:03:33Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/370b1fd477470e4/webimage-Gowling-AlumniEvent-June12023-89.png","width":800,"height":534,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/370b1fd477470e4/thul-Gowling-AlumniEvent-June12023-89.png","width":250,"height":167,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/370b1fd477470e4/mini-Gowling-AlumniEvent-June12023-89.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Tags":["alumni"],"Asset_Subtype":["cr_event_photography"],"Office":["canada"],"extension":["jpg"],"Asset_Type":["imagery"]}}],"file":null}]]></asset>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230922T074811Z
+    - ID: "f8eb5f78-2048-4a1d-b1b5-e5414469bfa8"
+      Hint: ReadTime
+      Value: 8 minute read

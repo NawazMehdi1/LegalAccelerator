@@ -1,0 +1,475 @@
+﻿---
+ID: "9c063b16-91f9-4ca4-9965-f72d7939e483"
+Parent: "d796f717-93a7-48d5-b1b7-76a58a7f8b0f"
+Template: "fbc802e5-4b9e-480f-93da-3f2a80cae5cb"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches
+SharedFields:
+- ID: "bb3391dd-f8be-4b2e-ae9f-47bb63c166ce"
+  Hint: Rule
+  Value: |
+    <ruleset>
+      <rule
+        uid="{E222C72E-019A-46D9-8CB3-B1ADDC808619}"
+        name="PeopleDetailBranch">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="A47B3E9907DE4F9A9C2FB5ADAA6DA32E"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/People" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="59B54CD96BE44791AF5AD16CC349F004"
+            PageBranchId="{8B85BA3A-7DED-4E46-AEC4-2F21991C8712}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{5FC12790-EDD3-4607-9D67-5EEBD3FACAEE}"
+        name="ServiceDetailBranch">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="C7392B7BEBDA44F2B9080379528ABC01"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/Services" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="0C2F1F43197E4AFEB84A67BF040D1082"
+            PageBranchId="{A4AB0EFE-C950-4A31-A022-59F1E75C3596}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{7557C7A7-32F6-4764-AC70-7C9968D350F3}"
+        name="SectorDetailBranch">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="37F172B755BD4911965E55B95EE74223"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/Sectors" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="FAE8B6B2E6314B4F9A265B791EFB5176"
+            PageBranchId="{F3826D4A-F3EE-46D9-9417-CBADA0FF9225}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{C77F4873-9394-414F-8319-0FDE505C14E6}"
+        name="Country Page">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="4C860862567D4F99B2F3EF464419319E"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/Global Reach" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="1973663FDF74414ABF9AA9E3C11E5042"
+            PageBranchId="{4A96FBB3-7386-4E8E-8D63-3EFD39E228D8}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{B1F9F92E-38DB-473D-9EE9-5F5803A43111}"
+        name="Office Page">
+        <conditions>
+          <condition
+            id="{AF2FBD9A-DED2-42B5-B38D-BAC45D301296}"
+            uid="35CC7483556440C5BD91B53418120744"
+            templateid="{FE3ED608-1AE2-43FC-8D2B-24D173D9A56C}" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="35C4DC42214A4A5B99620417A9608C7A"
+            PageBranchId="{9CCF0733-B88D-4E51-B377-15936C8F60DB}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{D5B45C09-8B47-4B5B-B0D0-D6596247485D}">
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="37950C7727D14B33A47EE228353FE01C"
+            PageBranchId="{A4AB0EFE-C950-4A31-A022-59F1E75C3596}" />
+        </actions>
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="8ADD27DC4A614443A226476CD9FDDB78"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Services"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}" />
+        </conditions>
+      </rule>
+      <rule
+        uid="{CE21A131-C26F-44D4-9618-F7C1C9EBA073}"
+        name="Career Landing Home">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="0117D0DEAC974CFDA51BE017DEEB69D4"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="72392A7617CF4AB78244118C95A65DE0"
+            PageBranchId="{6FA45745-6D1B-46B6-AB78-FD13FAB18508}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{DFCAC839-2259-4443-B14A-7C79F0C1A33E}"
+        name="Career Landing QA Branch">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="BC0147B79D284B3086AC74BAE3DC98EB"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Branch" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="B1C2675096264CEF82D1FEEE204BD2DF"
+            PageBranchId="{6FA45745-6D1B-46B6-AB78-FD13FAB18508}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{2CFF4398-1C81-4C8D-A892-2396CD26EE4D}"
+        name="News listing QA branch ">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="5B24A23775664F1F9B9ADE1CE1AF492D"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Branch" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="A10C4BB5168848D1BF15B621C3BCF0D8"
+            PageBranchId="{E2E907F5-5008-4C2A-AD2F-0548A9944EE9}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{CF5C4403-6749-4735-84E1-377E84B8F179}"
+        name="News Listing QA Home">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="927BB925DFC443B4B3E077C669140A62"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="016052C5DD8640318C0CD16DD40976CF"
+            PageBranchId="{E2E907F5-5008-4C2A-AD2F-0548A9944EE9}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{C15FA5B5-EFB0-4778-889D-9C0EA76C3B99}"
+        name="Global Reach Landing QA Branch">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="F23D050658504F178A9AAF48B9B2FAE6"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Branch" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="2C5C6E10F2AF43BDB4178BD8047231D5"
+            PageBranchId="{E3F094DE-6B2C-47FA-8D1B-B45315D90A9D}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{698BC5E3-FC45-41A0-BE1B-DDA3B975C457}"
+        name="GLobal Reach Landing Home">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="F80FC3DE08194053853550601E25F43B"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="4B33540AA88B4D1CB6E28190F9105835"
+            PageBranchId="{E3F094DE-6B2C-47FA-8D1B-B45315D90A9D}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{AEFA4B97-4CA6-4D18-959A-9F3E37058C58}"
+        name="Events Listing QA branch">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="B4963A9AEC48432AB48CEF33001E1601"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Branch" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="EE73DD2CFE7F47EEB59EC09640D058F5"
+            PageBranchId="{9E91C33D-5AC7-462C-A66C-7D886F4B0FC9}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{22FA3FC5-204B-49C0-8D52-94C569290CC3}"
+        name="Events Listing Home">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="B47A4EEA12CF4356BADC4AE54499276A"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="2F6DE11A8F314176B6043C802925CE1F"
+            PageBranchId="{9E91C33D-5AC7-462C-A66C-7D886F4B0FC9}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{DE6EC7F4-2D2F-4F9D-8F91-D5EE177C9FD3}"
+        name="Home QA Branch">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="FD7343E55DD744C58A9BEF95DD1066E9"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Branch" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="E8B64F795BD04BF39BBA264568D7B925"
+            PageBranchId="{52354479-DD51-48E4-8AD4-BEEF4F09A16E}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{A0BACBCF-69E6-4103-BDA6-72199208BE74}"
+        name="Career Global QA Branch">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="3A49E4743F6F49798C393AF738B6A8EA"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Branch" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="D81F79E212624D01AA299858AE435ED5"
+            PageBranchId="{E18BCA0E-0603-41B9-817F-E299BF579DB0}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{D2F6CC39-3F71-4540-8A6C-C5D8D9E15BEA}"
+        name="Career Global Home">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="094A9E403DFC451999E2E44CA997F7B5"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="D5240828E1E94F8D9C7286CA8BE5B966"
+            PageBranchId="{E18BCA0E-0603-41B9-817F-E299BF579DB0}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{3C03ACB4-F0A8-48EA-8C65-9BC134974A68}"
+        name="Moment Detail Page">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="2C44F5DE14684B528ADF6121C2AB3E5B"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/This-Moment" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="A567D0E9DBFA49509A87F891ED668FB1"
+            PageBranchId="{F58A48DC-D03F-468D-BC1B-7ACDF15EC590}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{90EDB05C-21E3-4DD4-AC3A-B6009E6C781A}"
+        name="People Landing Page">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="3D249A7699D142B78AE26436EDCA4F7E"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="2C7307C838C74E8DAC761FC0E1393BAE"
+            PageBranchId="{933A5D24-B0F8-4CF7-A1DE-8FDB20D1ECAD}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{EB469776-26F5-4CDE-B86C-F07EB681C006}">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="6C00A137A1F84E45BAA575BB6F7B89B5"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/People" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="7B621872C7E3497B9642B0B7931482E0"
+            PageBranchId="{8B85BA3A-7DED-4E46-AEC4-2F21991C8712}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{D9824C1F-E5E7-481F-8651-B2191DE279C0}"
+        name="Client Work Landing Insights Resources">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="21D2FAE061FD4879911F6CAE82BFB9CD"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/Insights-Resources" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="73781BCB25714C18ADA059CEF7DBDE36"
+            PageBranchId="{AB5E03D1-8F50-4F3A-9825-172539378C9D}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{F51AE797-66B0-41AA-B24D-1D101A944959}"
+        name="ArticleDetailPage">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="3F02FBB9072B4D4CBF8F4E55C87CAE18"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Articles" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="F59B79C9B5D848A79C92FF42C559750E"
+            PageBranchId="{B71E4E6B-A942-4622-8C4C-60AEEDFF3E73}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{1F18B0CF-8AB7-41C6-BAC8-D2F4D73A7B54}"
+        name="ArticleDetailPage Insights ">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="13D89B97611749698B4DBA1515737605"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="90D92993627847788848791CF42FF17A"
+            PageBranchId="{B71E4E6B-A942-4622-8C4C-60AEEDFF3E73}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{26CFED1A-E982-4B05-8A5B-25A8D04A7CAD}"
+        name="This Moment Landing">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="FA784F72027D4BDCA4E453FEFF0F5BAF"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="AB4CAAC12FCE48D6AD8CEE478B917658"
+            PageBranchId="{4CE31F3D-3453-446A-89CF-0047EBAFA440}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{6F72BDED-6C99-4518-B223-3A1606EF0AC8}">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="51A63A6020F44F9FABB6A02FC7E334E5"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Events" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="783D965C1B9E48989A951AB9CA2C1A04"
+            PageBranchId="{F2489714-9894-4572-930B-1D10F9F6805A}" />
+        </actions>
+      </rule>
+      <rule
+        uid="{90C88D77-92CD-488B-9256-1BE6006A4801}"
+        name="Insights Landing">
+        <conditions>
+          <condition
+            id="{4B889F07-94D4-4371-B522-9FFE8AF0BE12}"
+            uid="2A14669649064EF8AE70DBA4A9270C8D"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="/sitecore/content/GowlingWLG/GowlingWLG/Home" />
+        </conditions>
+        <actions>
+          <action
+            id="{D46EC8E5-7B46-47DE-B44A-4C5C30EF48D1}"
+            uid="53F505F6334B44B5B0919785D0312E71"
+            PageBranchId="{66C89E95-6159-4605-86AB-D8C81A26C438}" />
+        </actions>
+      </rule>
+    </ruleset>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230518T044158Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\gunasekaran.s@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e79ce40f-c7fa-4c48-b42b-8e27a269cd84"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231010T070030Z

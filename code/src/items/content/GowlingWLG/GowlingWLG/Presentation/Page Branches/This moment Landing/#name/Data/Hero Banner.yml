@@ -1,0 +1,44 @@
+﻿---
+ID: "56973046-961a-4ecc-a37a-315d3d6bcad7"
+Parent: "f48a5bd9-8dd5-4b1e-a594-3cd5dca04d94"
+Template: "ac63d976-3a92-430d-b7a4-5cae4a1fcaa0"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/This moment Landing/$name/Data/Hero Banner
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230929T050930Z
+    - ID: "3d9c8116-1f84-4225-90d6-e14c62cd2fbe"
+      Hint: Description
+      Value: Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries..
+    - ID: "49d3a5f2-fcd8-4eae-a4b9-0dc02f134cff"
+      Hint: Title
+      Value: This Moment
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "32ff07b9-86f6-473a-a9b2-1f92f1e2b66b"
+    - ID: "943df8f9-6619-4a73-8bb5-522f503389db"
+      Hint: BackgroundImage
+      Value: |
+        <asset><![CDATA[{"type":"Assets","assets":[{"id":"79768056-96D5-497C-BE5F1A21AC1E43DF","name":"NewsListingBanner","description":null,"assetType":"Image","createdAt":"2023-09-28T03:46:35Z","publishedAt":"2023-09-28T03:45:22Z","updatedAt":"2023-09-28T03:46:35Z","files":[{"name":"webImage","url":"https://brandconnect.gowlingwlg.com/m/48d4682b113b6995/webimage-NewsListingBanner.png","width":800,"height":286,"fileSize":0},{"name":"thumbnail","url":"https://brandconnect.gowlingwlg.com/m/48d4682b113b6995/thul-NewsListingBanner.png","width":250,"height":89,"fileSize":0},{"name":"mini","url":"https://brandconnect.gowlingwlg.com/m/48d4682b113b6995/mini-NewsListingBanner.png","width":80,"height":80,"fileSize":0}],"metaProperties":{"Asset_Subtype":["hero_images"],"extension":["png"],"Asset_Type":["imagery"]}}],"file":null,"overrideAltText":null}]]></asset>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\subham.agarwal@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230929T095843Z

@@ -1,0 +1,55 @@
+﻿---
+ID: "3e732f73-2f34-4a4f-9f58-638e334ea5a7"
+Parent: "80f3a1f6-179c-4e33-bb39-2ce062736efb"
+Template: "9a81445c-8d62-4269-be73-136df6f86997"
+Path: "/sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Videos/2023 Tax Dispute Resolution Quarterly Update Session 2/Data/YouTubeVideo"
+SharedFields:
+- ID: "39c4902e-9960-4469-aeef-e878e9c8218f"
+  Hint: __Hidden
+  Value: 0
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "d312103c-b36c-4ca5-864a-c85f9abda503"
+  Hint: __Is Bucket
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E9B424DB-0B8D-4EC4-92E8-6329315A0F28}"
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "20b4a65e-75bb-4ab9-abc8-0312e019baf4"
+      Hint: VideoTitle
+      Value: 2023 Tax Dispute Resilution
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230810T005146Z
+    - ID: "6c642084-0c24-4c05-9fdb-ad9651ccf263"
+      Hint: TileCTA
+      Value: |
+        <link class="" querystring="" id="{B9BBD648-2EC1-49C1-8179-0B645B65905A}" anchor="" target="" title="" linktype="internal" text="" url="/GowlingWLG/GowlingWLG/Home/QA/Insights-Resources/Videos/2023/2023 Tax Dispute Resolution Quarterly Update Session 2" />
+    - ID: "767f713b-2a11-49db-a37e-40f703891fde"
+      Hint: VideoDescription
+      Value: 2023 Tax Dispute Resilution 2023 Tax Dispute Resilution  v2023 Tax Dispute Resilution2023 Tax Dispute Resilution2023 Tax Dispute Resilution 2023 Tax Dispute Resilution 2023 Tax Dispute Resilution 2023 Tax Dispute Resilution 2023 Tax Dispute Resilution2023 Tax Dispute Resilution2023 Tax Dispute Resilution2023 Tax Dispute Resilutionv2023 Tax Dispute Resilutionv2023 Tax Dispute Resilution2023 Tax Dispute Resilution
+    - ID: "804d23e3-8823-4570-b8ff-072e3e24b081"
+      Hint: VideoId
+      Value: ikYWfBqaKtI
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "33625ee4-d91b-47be-b777-b12275b2c265"
+    - ID: "93ec7e90-0245-4a07-b5fa-661800a6861b"
+      Hint: TranscriptText
+      Value: My name is Stephanie Harvey and I am a corporate/commercial lending lawyer with Gowling WLG. You are watching video one of our 'Types of Security' video series. As the name suggests, each video in this series will discuss different security that a lender should consider when putting its security package together.
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\navya.mallepalli@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230921T065346Z

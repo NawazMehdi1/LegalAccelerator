@@ -1,0 +1,54 @@
+﻿---
+ID: "90916404-63a2-4db7-bfe4-89fdb9eefb44"
+Parent: "465339fa-f0a7-463a-a611-6cb4f57254bf"
+Template: "c20b160c-14ba-4966-bb7e-b55f0575310e"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Branch/Career/Data/MainMenu/Legal professionals
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230926T110236Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "7058b998-e13e-45c4-8ace-a13e1e0d8105"
+      Hint: NavigationTitle
+      Value: Legal professionals
+    - ID: "87ce6bf2-f3ae-4f5d-a956-b8a7c1fbcb08"
+      Hint: SubMenuItems
+      Value: |
+        {0A982A56-D6BB-4E4A-98F8-36FE48769905}
+        {609D7629-13B6-441D-80F9-412A33AEC438}
+        {3A78B7CB-53DF-4E1D-92CC-1E3906A11AD6}
+        {CD08889A-ECFB-4C49-B31F-460A45D27FE7}
+        {85111BF0-2260-4A81-B4AC-369023027F8A}
+        {04D69333-9F3B-4D8A-A964-CD583769DAD6}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "22708142-9bf0-493b-bd1d-d2aaf2a176b6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "c887e3a6-88b5-4222-81be-22008c0c305f"
+      Hint: HasSubMenu
+      Value: 1
+    - ID: "d875b55c-24f8-4940-8058-19a2117800a3"
+      Hint: Link
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{28BDF779-C6DC-4C58-A491-4FB74A60E016}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230926T110623Z

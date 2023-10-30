@@ -1,0 +1,33 @@
+﻿---
+ID: "25f41a79-7c33-412c-bdf8-09c6b6a81a29"
+Parent: "47dbd4da-4ceb-4a83-89e3-aeeffcd3e03e"
+Template: "a758b4eb-ef0a-4752-a0ab-ba876fd886ec"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/Career Landing/$name/Data/StatsWithCTA/StatsColumn3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230901T070139Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "7c7219b6-3696-484e-87b6-baa5278f0aea"
+    - ID: "91e71295-de0c-4399-85fe-a281f80f6207"
+      Hint: Title
+      Value: Business Support
+    - ID: "b3faaff6-7ede-4283-a81a-64aa4d525e1b"
+      Hint: CTALink
+      Value: |
+        <link text="Professionals" anchor="" linktype="internal" class="" title="" target="|Custom" querystring="" id="{CB41FED2-CEC0-4E03-9800-9B4762C45C44}" />
+    - ID: "b9efc3a5-7a42-4c01-9aee-4054fdef9597"
+      Hint: Description
+      Value: "interested in Joining Our Legal Administrative or business support team?"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230901T070441Z

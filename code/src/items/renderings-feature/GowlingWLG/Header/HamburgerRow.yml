@@ -1,0 +1,66 @@
+﻿---
+ID: "a98119f3-9c4a-41d8-9b09-49dafcd796e1"
+Parent: "36a642d1-6eef-4ff5-b3e8-90b07c32e779"
+Template: "04646a89-996f-4ee7-878a-ffdbf1f0ef0d"
+Path: /sitecore/layout/Renderings/Feature/GowlingWLG/Header/HamburgerRow
+SharedFields:
+- ID: "037fe404-dd19-4bf7-8e30-4dadf68b27b0"
+  Hint: componentName
+  Value: HamburgerRow
+- ID: "069a8361-b1cd-437c-8c32-a3be78941446"
+  Hint: Placeholders
+  Value: |
+    {62C2E219-905C-4D5E-99F6-5561CC68715A}
+    {CDAB3B5E-342F-4438-998C-384A46135330}
+    {7F46B996-DBDC-4BC2-A9D7-CCE87C108DE7}
+    {FEE2EF23-BD82-4E21-81E4-3C8183443870}
+    {96512213-1B14-4BCC-B1D4-9F7879EC8F4F}
+    {61453E1A-A9E9-4538-B18D-B0D8616D9DCB}
+    {48FBDB3B-AB40-4720-8B13-890E792471DC}
+    {2871EEDE-298F-4BC0-A423-02B5EE68C856}
+    {C707EA19-059C-4B4B-9DC5-8756EB92A957}
+    {18F007ED-1436-43E3-A69C-5D4377F37EDF}
+    {49A9F000-C348-4FBC-B72F-496849D41A4F}
+    {0085F53C-1FEE-4AEC-87FA-CA26AD79DA58}
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "SXA_MDI/16x16/Row-Splitter.png"
+- ID: "7d8ae35f-9ed1-43b5-96a2-0a5f040d4e4e"
+  Hint: Open Properties after Add
+  Value: 0
+- ID: "a2f5d9df-8cba-4a1d-99eb-51acb94cb057"
+  Hint: Page Editor Buttons
+  Value: |
+    {BA53E217-596B-4BF8-9F17-62D7415CAFC4}
+    {0B0D04ED-98B1-4015-98F5-B01F65EBEA97}
+- ID: "a77e8568-1ab3-44f1-a664-b7c37ec7810d"
+  Hint: Parameters Template
+  Value: "{DB88EFA8-E015-4B96-BA0E-348D8B510563}"
+- ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
+  Hint: Rendering Contents Resolver
+  Value: "{2F5C334E-5615-423C-8281-9FC180191302}"
+- ID: "e829c217-5e94-4306-9c48-2634b094fdc2"
+  Hint: OtherProperties
+  Value: IsRenderingsWithDynamicPlaceholders=true&IsRowSplitterRendering=true
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220202T150344Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d225fce2-3cb3-4f98-88b8-f17742a812a5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kumar.sumit@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231005T143138Z

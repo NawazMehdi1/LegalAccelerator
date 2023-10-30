@@ -1,0 +1,40 @@
+﻿---
+ID: "78540907-ddfb-4a10-b052-c38a7d8ddb32"
+Parent: "4d4774e4-4f51-48dc-bca1-c50e28bafe93"
+Template: "b960cbe4-381f-4a2b-9f44-a43c7a991a0b"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/ECAAPI/RSS/News/Diversity News
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "16cc56dd-27f5-4839-b790-dbbd9aca882c"
+      Hint: Title
+      Value: Diversity News
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230728T065833Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "72c481b9-f789-4457-838f-2329eb8469c2"
+      Hint: Source
+      Value: /sitecore/content/GowlingWLG/GowlingWLG/Home/News/Diversity News
+    - ID: "770878c5-ee73-4967-aff5-d0f402523fdf"
+      Hint: Description
+      Value: Diversity News
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "753f3357-57c2-446d-bbe7-26a8b39a761c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kavya.bankapur@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230728T065858Z

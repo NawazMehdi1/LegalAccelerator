@@ -1,0 +1,50 @@
+﻿---
+ID: "efc4db04-691d-4071-88f3-735e8892ad26"
+Parent: "8df46bbc-8132-4c70-8c65-68d17e9f2777"
+Template: "743cf4f5-e786-4109-80d8-2c760a76b178"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Presentation/Page Branches/PeopleDetail/$name/Data/BarAdmission/Events
+SharedFields:
+- ID: "c9283d9e-7c29-4419-9c28-5a5c8ff53e84"
+  Hint: __Bucketable
+  Value: 1
+- ID: "f7b94d8c-a842-49f8-ab7a-2169d00426b0"
+  Hint: __Should Not Organize In Bucket
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230627T172134Z
+    - ID: "3cb4cecc-ccba-45d3-99b7-d389c7c1bb19"
+      Hint: AdmissionName
+      Value: AdmissionName
+    - ID: "52102d85-cfe9-4d53-a1e7-a6554a051d5e"
+      Hint: EndYear
+      Value: 2023
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "544062d6-e19c-468a-9c69-7935074c9081"
+      Hint: AdmissionType
+      Value: AdmissionType
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "61c09f81-421e-4dbc-b0ad-1b46f1ae6159"
+      Hint: EndMonth
+      Value: Jan
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1076e337-fab9-4aca-96ca-e66ba2ef9b1d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230809T232753Z

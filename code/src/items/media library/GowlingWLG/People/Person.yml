@@ -1,0 +1,57 @@
+﻿---
+ID: "d104eef8-f000-4fca-87fe-fced1bc8e06c"
+Parent: "1de92f1c-2ea1-4d56-ab11-2bf78a58aef0"
+Template: "daf085e8-602e-43a6-8299-038ff171349f"
+Path: /sitecore/media library/Project/GowlingWLG/GowlingWLG/People/Person
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/D104EEF8F0004FCA87FEFCED1BC8E06C.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 20
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "4ebc7fc8-6528-4d14-a843-f9be1a36130b"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1750
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/jpeg
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: jpg
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 20 x 24
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 24
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230711T084829Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "afbc58d8-d8de-4357-aada-834c9befd6fe"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230711T084940Z

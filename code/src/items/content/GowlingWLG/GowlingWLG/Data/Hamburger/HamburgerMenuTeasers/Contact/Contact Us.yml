@@ -1,0 +1,43 @@
+﻿---
+ID: "48595c4f-7ac5-4f6b-bb3d-55a1d919e683"
+Parent: "3e742210-c9a0-4bc4-8ec0-07432be71d5b"
+Template: "03ae9d27-64a3-4939-be65-7dc133381460"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Data/Hamburger/HamburgerMenuTeasers/Contact/Contact Us
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b804da3-0e7b-4902-8619-09a2ed552331"
+      Hint: Image
+      Value: 
+    - ID: "24269fb4-3b18-42d1-b5cc-6ea87e53bd1a"
+      Hint: Title
+      Value: Contact Us
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230615T053321Z
+    - ID: "44c9952c-390f-49e2-89e1-ece3f52317e0"
+      Hint: CTA
+      Value: 
+    - ID: "493f0353-2998-43a4-87db-2599d04ba935"
+      Hint: Description
+      Value: Nulla vitae elit libero, a pharetra augue. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "62917922-e1f3-4313-a138-f1e69be2e9eb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230727T133859Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "cfb9fd4a-f6fc-4044-9f0d-75a79b3509b2"
+Parent: "005ad774-4106-47c2-a508-ecd52d5702c0"
+Template: "22c0cc1c-dc10-4c79-ae8c-ddea84490c59"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/Data/Home Stat/Stat1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230602T200817Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f89e259a-c414-4ef6-b655-473386a471c4"
+    - ID: "8d68b961-8bbe-4aec-bcf2-a14da788c6c4"
+      Hint: Description
+      Value: Individuals Listed in Chambers &amp; Legal 500
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\harender.kumar@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230602T200920Z
+    - ID: "e55a3fdb-bda9-4243-8235-6e57cf2d1c3b"
+      Hint: Title
+      Value: 175

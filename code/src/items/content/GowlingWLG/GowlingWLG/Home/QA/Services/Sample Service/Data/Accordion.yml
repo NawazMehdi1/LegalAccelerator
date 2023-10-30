@@ -1,0 +1,38 @@
+﻿---
+ID: "73b7423f-635a-4b39-96c8-c0cddf6822cc"
+Parent: "cfb6eb97-841f-47a1-a1fd-3f4cc0be984a"
+Template: "2cd04a03-daa5-4ce2-a0b2-59ca8ba9f45d"
+Path: /sitecore/content/GowlingWLG/GowlingWLG/Home/QA/Services/Sample Service/Data/Accordion
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230830T104014Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\sanjeevi.ram@altudo.co
+    - ID: "63cc1182-f9fb-48ee-9161-9a78eecbbf1e"
+      Hint: AccordianList
+      Value: |
+        {63AA789B-EE7A-4E56-B6F5-127BC7817C8F}
+        {016F8BB3-F9DE-4204-BDE6-FFFC9FA20369}
+        {9610DF63-6FF0-4B16-82A2-45208F88AEC2}
+        {CB7DC7A3-E8F6-495D-B78D-7D45665FABB4}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "aa00fff8-9a97-4ad5-a940-0f5a8f97ce46"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\mahesh.kambhampati@altudo.co
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230920T111225Z
